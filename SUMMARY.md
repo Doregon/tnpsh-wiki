@@ -14,5 +14,7 @@
 
 ## At this Instant!
 
-* [Firmware Update 4.87](at-this-instant/firmware-update-4.87.md)
+* [Firmware Update 4.87](at-this-instant/firmware-update-4.87/README.md)
+  * [What changed?](at-this-instant/firmware-update-4.87/what-changed.md)
+  * [Logging into PSN on HFW 4.86](at-this-instant/firmware-update-4.87/logging-into-psn-on-hfw-4.86.md)
 
