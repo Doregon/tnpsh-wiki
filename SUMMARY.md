@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Welcome.](README.md)
+
+## Frequently Asked Questions <a id="faq"></a>
+
+* [About the new Sub](faq/about-the-new-sub.md)
+* [About Jailbreaking](faq/about-jailbreaking.md)
+* [Terminology](faq/terminology.md)
+* [Homebrew and the Restrictions](faq/homebrew-and-the-restrictions.md)
+* [Dealing with Games](faq/dealing-with-games.md)
+* [Developer Information](faq/developer-information.md)
+* [Troubleshooting your System](faq/troubleshooting-your-system.md)
+
+## At this Instant!
+
+* [Firmware Update 4.87](at-this-instant/firmware-update-4.87.md)
+
