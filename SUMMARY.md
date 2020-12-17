@@ -18,3 +18,7 @@
   * [What changed?](at-this-instant/firmware-update-4.87/what-changed.md)
   * [Logging into PSN on HFW 4.86](at-this-instant/firmware-update-4.87/logging-into-psn-on-hfw-4.86.md)
 
+## PS3HEN
+
+* [Installing](ps3hen/installing.md)
+
