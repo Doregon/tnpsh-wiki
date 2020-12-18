@@ -20,8 +20,8 @@
 
 ## Homebrew Firmware <a id="cfw-and-hfw"></a>
 
-* [PS3HEN](cfw-and-hfw/ps3hen/README.md)
-  * [Installing PS3HEN](cfw-and-hfw/ps3hen/installing.md)
+* [Custom, Hybrid, or Modified?](cfw-and-hfw/custom-hybrid-or-modified.md)
+* [PS3HEN](cfw-and-hfw/ps3hen.md)
 
 ## Essentials
 
@@ -34,4 +34,5 @@
     * [Capabilities](essentials/aios/multiman-mmcm/capabilities.md)
     * [Installation](essentials/aios/multiman-mmcm/installation.md)
     * [Customizing](essentials/aios/multiman-mmcm/customizing.md)
+* [File Managers](essentials/file-managers.md)
 

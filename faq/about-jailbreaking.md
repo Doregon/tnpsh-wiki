@@ -21,10 +21,6 @@ The intent of jailbreaking was to allow execution of homebrew software on the PS
 * Install Movian, a Media Center application in which you can download plugins such as TV channels and Torrent Streamers.
 * Install homebrew games and apps.
 
-## **Does it matter what model of PS3 I have, or can all models be jailbroken?**
-
-If your PS3 is on 3.55 firmware or below, you can jailbreak it regardless of model. Otherwise, you can check if your console is exploitable here. Compatibility is not purely based on model number.
-
 ## **Can you jailbreak consoles over 3.55 OFW without downgrading or buying a flasher device?**
 
 Yes, you can use PS3Xploit to install CFW. Prior to Thanksgiving of 2017, it was impossible to downgrade without a flasher device, and you could not jailbreak consoles over 3.55 firmware. Because of this, there are many sites out there claiming to offer PUPs that will jailbreak your console, but any sites claiming to do this without using PS3Xploit are a scam or malware.
