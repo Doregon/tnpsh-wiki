@@ -25,10 +25,13 @@
 
 ## Essentials
 
-* [File Managers](essentials/file-managers/README.md)
-  * [webMAN MOD](essentials/file-managers/untitled/README.md)
-    * [Capabilities](essentials/file-managers/untitled/uses.md)
-    * [Installation](essentials/file-managers/untitled/installation.md)
-    * [Customizing](essentials/file-managers/untitled/customizing.md)
-  * [multiMAN \(mmCM\)](essentials/file-managers/multiman-mmcm.md)
+* [All-In-One](essentials/aios/README.md)
+  * [webMAN MOD](essentials/aios/untitled/README.md)
+    * [Capabilities](essentials/aios/untitled/uses.md)
+    * [Installation](essentials/aios/untitled/installation.md)
+    * [Customizing](essentials/aios/untitled/customizing.md)
+  * [multiMAN \(mmCM\)](essentials/aios/multiman-mmcm/README.md)
+    * [Capabilities](essentials/aios/multiman-mmcm/capabilities.md)
+    * [Installation](essentials/aios/multiman-mmcm/installation.md)
+    * [Customizing](essentials/aios/multiman-mmcm/customizing.md)
 

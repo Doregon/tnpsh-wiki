@@ -8,6 +8,7 @@ description: What can this homebrew be used for?
 
 ### webMAN MOD is capable of the following tasks:
 
+* Direct integration with the XMB menu
 * FTP server with remote control functions \(shutdown/restart\)
 * WWW server with remote control functions \(scroll down for the complete list of shortcuts\)
 * Support for loading and browsing of \[local\] PS3 games in ISO and folder format, DVD videos in ISO format, Blu-ray movies in ISO format, PS1/PS2/PSP games in ISO format with cover display
