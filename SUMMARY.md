@@ -21,6 +21,7 @@
 ## Homebrew Firmware <a id="cfw-and-hfw"></a>
 
 * [Custom, Hybrid, or Modified?](cfw-and-hfw/custom-hybrid-or-modified.md)
+* [Rebug](cfw-and-hfw/rebug.md)
 * [PS3HEN](cfw-and-hfw/ps3hen.md)
 
 ## Essentials
