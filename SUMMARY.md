@@ -2,15 +2,15 @@
 
 * [Welcome.](README.md)
 
-## Frequently Asked Questions <a id="faq"></a>
+## welcome to the wiki <a id="welcome-to-wiki"></a>
 
-* [About the new Sub](faq/about-the-new-sub.md)
-* [About Jailbreaking](faq/about-jailbreaking.md)
-* [Terminology](faq/terminology.md)
-* [Homebrew and the Restrictions](faq/homebrew-and-the-restrictions.md)
-* [Dealing with Games](faq/dealing-with-games.md)
-* [Developer Information](faq/developer-information.md)
-* [Troubleshooting your System](faq/troubleshooting-your-system.md)
+* [About the new Sub](welcome-to-wiki/about-the-new-sub.md)
+* [About Jailbreaking](welcome-to-wiki/about-jailbreaking.md)
+* [Terminology](welcome-to-wiki/terminology.md)
+* [Homebrew and the Restrictions](welcome-to-wiki/homebrew-and-the-restrictions.md)
+* [Dealing with Games](welcome-to-wiki/dealing-with-games.md)
+* [Developer Information](welcome-to-wiki/developer-information.md)
+* [Troubleshooting your System](welcome-to-wiki/troubleshooting-your-system.md)
 
 ## At this Instant!
 
