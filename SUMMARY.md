@@ -12,19 +12,19 @@
 * [Developer Information](faq/developer-information.md)
 * [Troubleshooting your System](faq/troubleshooting-your-system.md)
 
-## At this Instant! <a id="what-now"></a>
+## At this Instant!
 
-* [Firmware Update 4.87](what-now/firmware-update-4.87/README.md)
-  * [What changed?](what-now/firmware-update-4.87/what-changed.md)
-  * [Logging into PSN on HFW 4.86](what-now/firmware-update-4.87/logging-into-psn-on-hfw-4.86.md)
+* [Firmware Update 4.87](at-this-instant/firmware-update-4.87/README.md)
+  * [What changed?](at-this-instant/firmware-update-4.87/what-changed.md)
+  * [Logging into PSN on HFW 4.86](at-this-instant/firmware-update-4.87/logging-into-psn-on-hfw-4.86.md)
 
-## firmware <a id="all-the-fws"></a>
+## firmware <a id="cfw-hfw-mfw"></a>
 
-* [Custom, Hybrid, or Modified?](all-the-fws/custom-hybrid-or-modified.md)
-* [Rebug](all-the-fws/rebug/README.md)
-  * [Installing](all-the-fws/rebug/installing.md)
-* [PS3HEN](all-the-fws/ps3hen/README.md)
-  * [Installing](all-the-fws/ps3hen/installing.md)
+* [Custom, Hybrid, or Modified?](cfw-hfw-mfw/custom-hybrid-or-modified.md)
+* [Rebug](cfw-hfw-mfw/rebug/README.md)
+  * [Installing](cfw-hfw-mfw/rebug/installing.md)
+* [PS3HEN](cfw-hfw-mfw/ps3hen/README.md)
+  * [Installing](cfw-hfw-mfw/ps3hen/installing.md)
 
 ## Homebrew <a id="big-stinky-brew"></a>
 
@@ -41,4 +41,9 @@
   * [multiMAN](big-stinky-brew/file-managers/multiman.md)
   * [webMAN MOD](big-stinky-brew/file-managers/webman-mod.md)
 * [Launchers](big-stinky-brew/launchers.md)
+
+## about this wiki <a id="about-the-wiki"></a>
+
+* [Acknowledgments](about-the-wiki/acknowledgments.md)
+* [How to contribute](about-the-wiki/contributing.md)
 

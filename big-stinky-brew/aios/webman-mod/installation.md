@@ -13,6 +13,5 @@ description: Installation guide as of v1.47.32
 5. **Install the package.**
 6. Scroll down to the new **webMAN** Game entry and **hold L1** as you click on it, to get all of the features.
 
-Once your system reboots, **webMAN should automatically load** \(HEN users will see it load **once you enable HEN**\). Now you can head over to **Customizing** to learn how to make webMAN your own. 
+Once your system reboots, **webMAN should automatically load** \(HEN users will see it load **once you enable HEN**\). Now you can head over to **Customizing** to learn how to make webMAN your own.
 
- 
