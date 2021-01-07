@@ -38,6 +38,7 @@
     * [Installation](essentials/aios/multiman-mmcm/installation.md)
     * [Customizing](essentials/aios/multiman-mmcm/customizing.md)
 * [File Managers](essentials/file-managers/README.md)
-  * [Untitled](essentials/file-managers/untitled.md)
+  * [multiMAN](essentials/file-managers/multiMAN/)
+  * [webMAN MOD](essentials/file-managers/webMAN-MOD/)
 * [Launchers](essentials/launchers.md)
 
