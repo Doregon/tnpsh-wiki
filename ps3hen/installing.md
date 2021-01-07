@@ -26,4 +26,3 @@ description: Ready to install PS3HEN? Thanks to u/Bluexyon for the guide!
 11. **Once you're on the** [**ps3xploit.com**](https://ps3xploit.com/) **website move the cursor to the top left corner and hover over the PS3HEN option.** In the drop down Menu choose from the HEN Installer/Enabler or the HEN Enabler \(Alternate\). **I personally recommend** the HEN Enabler \(Alternate\) Since it's easier to use.
 12. **After going through the HEN Installer**, go into the Network &gt; Remote Play option and quickly start spamming Circle to exit. **Now you should see an Install HEN** option above Remote Play, press X on it and wait for the installation to finish and then reboot the PS3.
 13. After rebooting, **enable HEN and you're set to play** backups and install homebrew. HEN requires that you **enable it every time you restart**, so make sure you do that to play backups or use homebrew.
-
