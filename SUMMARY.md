@@ -22,7 +22,8 @@
 
 * [Custom, Hybrid, or Modified?](cfw-and-hfw/custom-hybrid-or-modified.md)
 * [Rebug](cfw-and-hfw/rebug.md)
-* [PS3HEN](cfw-and-hfw/ps3hen.md)
+* [PS3HEN](cfw-and-hfw/ps3hen/README.md)
+  * [Installing](cfw-and-hfw/ps3hen/installing.md)
 
 ## Essentials
 

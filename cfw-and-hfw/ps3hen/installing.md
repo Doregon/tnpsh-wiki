@@ -2,9 +2,13 @@
 description: Ready to install PS3HEN? Thanks to u/Bluexyon for the guide!
 ---
 
-# Installing PS3HEN
+# Installing
 
-### What we will need for this procedure is a USB drive and a PC/Laptop or any way to transfer over files to the USB.
+
+
+## Installing
+
+#### What we will need for this procedure is a USB drive and a PC/Laptop or any way to transfer over files to the USB.
 
 1. **Download the** [**4.87.1 HFW**](https://www.psx-place.com/threads/4-87-1-hfw-hybrid-firmware.31958/) from Joonie on the PSX-Place Forums.
 2. By now you should have a .zip file, **extract it by using an unarchiver of your choice**.
