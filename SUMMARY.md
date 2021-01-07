@@ -37,6 +37,7 @@
     * [Capabilities](essentials/aios/multiman-mmcm/capabilities.md)
     * [Installation](essentials/aios/multiman-mmcm/installation.md)
     * [Customizing](essentials/aios/multiman-mmcm/customizing.md)
-* [File Managers](essentials/file-manangement.md)
+* [File Managers](essentials/file-manangement/README.md)
+  * [Untitled](essentials/file-manangement/untitled.md)
 * [Launchers](essentials/launchers.md)
 
