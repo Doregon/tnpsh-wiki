@@ -40,7 +40,16 @@
   * [multiMAN](big-stinky-brew/file-managers/multiman.md)
   * [webMAN MOD](big-stinky-brew/file-managers/webman-mod.md)
 * [Launchers and Emulators](big-stinky-brew/launchers-emulators/README.md)
-   * [PlayStation Launchers](big-stinky-brew/launchers/playstation-stuffs)
+  * [PlayStation Launchers](big-stinky-brew/launchers/playstation-stuffs)
+    * [PlayStation X](big-stinky-brew/launchers/playstation-stuffs/psx/README.md)
+      * [Preparing](big-stinky-brew/launchers/playstation-stuffs/psx/preparing.md)
+    * [PlayStation 2](big-stinky-brew/launchers/playstation-stuffs/ps2/README.md)
+      * [Preparing](big-stinky-brew/launchers/playstation-stuffs/ps2/preparing.md)
+      * [Compatible Games](big-stinky-brew/launchers/playstation-stuffs/ps2/compatibility-list.md)
+    * [PlayStation Portable](big-stinky-brew/launchers/playstation-stuffs/psp/README.md)
+      * [Preparing](big-stinky-brew/launchers/playstation-stuffs/psp/preparing.md)
+      * [Compatible Games](big-stinky-brew/launchers/playstation-stuffs/psp/compatibility-list.md)
+      
 ## About this Wiki <a id="about-the-wiki"></a>
 
 * [Acknowledgments](about-the-wiki/acknowledgments.md)
