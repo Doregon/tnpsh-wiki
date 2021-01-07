@@ -26,19 +26,19 @@
 * [PS3HEN](cfw-and-hfw/ps3hen/README.md)
   * [Installing](cfw-and-hfw/ps3hen/installing.md)
 
-## Essentials
+## Homebrew
 
-* [All-In-One](essentials/aios/README.md)
-  * [webMAN MOD](essentials/aios/webman-mod/README.md)
-    * [Capabilities](essentials/aios/webman-mod/capabilities.md)
-    * [Installation](essentials/aios/webman-mod/installation.md)
-    * [Customizing](essentials/aios/webman-mod/customizing.md)
-  * [multiMAN \(mmCM\)](essentials/aios/multiman-mmcm/README.md)
-    * [Capabilities](essentials/aios/multiman-mmcm/capabilities.md)
-    * [Installation](essentials/aios/multiman-mmcm/installation.md)
-    * [Customizing](essentials/aios/multiman-mmcm/customizing.md)
-* [File Managers](essentials/file-managers/README.md)
-  * [multiMAN](essentials/file-managers/multiMAN/README.md)
-  * [webMAN MOD](essentials/file-managers/webMAN-MOD/README.md)
-* [Launchers](essentials/launchers/README.md)
+* [All-In-One](homebrew/aios/README.md)
+  * [webMAN MOD](homebrew/aios/webman-mod/README.md)
+    * [Capabilities](homebrew/aios/webman-mod/capabilities.md)
+    * [Installation](homebrew/aios/webman-mod/installation.md)
+    * [Customizing](homebrew/aios/webman-mod/customizing.md)
+  * [multiMAN \(mmCM\)](homebrew/aios/multiman-mmcm/README.md)
+    * [Capabilities](homebrew/aios/multiman-mmcm/capabilities.md)
+    * [Installation](homebrew/aios/multiman-mmcm/installation.md)
+    * [Customizing](homebrew/aios/multiman-mmcm/customizing.md)
+* [File Managers](homebrew/file-managers/README.md)
+  * [multiMAN](homebrew/file-managers/multiman.md)
+  * [webMAN MOD](homebrew/file-managers/webman-mod.md)
+* [Launchers](homebrew/launchers.md)
 
