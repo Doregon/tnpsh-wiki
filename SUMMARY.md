@@ -39,8 +39,8 @@
 * [File Managers](big-stinky-brew/file-managers/README.md)
   * [multiMAN](big-stinky-brew/file-managers/multiman.md)
   * [webMAN MOD](big-stinky-brew/file-managers/webman-mod.md)
-* [Launchers](big-stinky-brew/launchers.md)
-
+* [Launchers and Emulators](big-stinky-brew/launchers-emulators/README.md)
+   * [PlayStation Launchers](big-stinky-brew/launchers/playstation-stuffs)
 ## About this Wiki <a id="about-the-wiki"></a>
 
 * [Acknowledgments](about-the-wiki/acknowledgments.md)
