@@ -1,9 +1,7 @@
 # Table of contents
 
-* [Welcome.](README.md)
-
-## welcome to the wiki <a id="welcome-to-wiki"></a>
-
+## Welcome to the Wiki <a id="welcome-to-wiki"></a>
+* [Welcome.](welcome-to-wiki/README.md)
 * [About the new Sub](welcome-to-wiki/about-the-new-sub.md)
 * [About Jailbreaking](welcome-to-wiki/about-jailbreaking.md)
 * [Terminology](welcome-to-wiki/terminology.md)
@@ -18,7 +16,7 @@
   * [What changed?](at-this-instant/firmware-update-4.87/what-changed.md)
   * [Logging into PSN on HFW 4.86](at-this-instant/firmware-update-4.87/logging-into-psn-on-hfw-4.86.md)
 
-## firmware <a id="cfw-hfw-mfw"></a>
+## Firmware <a id="cfw-hfw-mfw"></a>
 
 * [Custom, Hybrid, or Modified?](cfw-hfw-mfw/custom-hybrid-or-modified.md)
 * [Rebug](cfw-hfw-mfw/rebug/README.md)
@@ -26,7 +24,7 @@
 * [PS3HEN](cfw-hfw-mfw/ps3hen/README.md)
   * [Installing](cfw-hfw-mfw/ps3hen/installing.md)
 
-## Homebrew <a id="big-stinky-brew"></a>
+## Big Stinky Homebrew <a id="big-stinky-brew"></a>
 
 * [All-In-One](big-stinky-brew/aios/README.md)
   * [webMAN MOD](big-stinky-brew/aios/webman-mod/README.md)
@@ -42,7 +40,7 @@
   * [webMAN MOD](big-stinky-brew/file-managers/webman-mod.md)
 * [Launchers](big-stinky-brew/launchers.md)
 
-## about this wiki <a id="about-the-wiki"></a>
+## About this Wiki <a id="about-the-wiki"></a>
 
 * [Acknowledgments](about-the-wiki/acknowledgments.md)
 * [How to contribute](about-the-wiki/contributing.md)
