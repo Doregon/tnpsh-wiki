@@ -1,7 +1,7 @@
 # Table of contents
 
 ## Welcome to the Wiki <a id="welcome-to-wiki"></a>
-* [Welcome.](welcome-to-wiki/README.md)
+* [Welcome.](README.md)
 * [About the new Sub](welcome-to-wiki/about-the-new-sub.md)
 * [About Jailbreaking](welcome-to-wiki/about-jailbreaking.md)
 * [Terminology](welcome-to-wiki/terminology.md)
