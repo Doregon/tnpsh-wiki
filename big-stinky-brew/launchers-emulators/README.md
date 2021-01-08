@@ -1,4 +1,4 @@
-# Launchers
+# Launchers and Emulators
 
 ## These pages will provide you with launchers you can install on your system.
 
