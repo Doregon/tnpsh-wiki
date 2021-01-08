@@ -49,7 +49,12 @@
     * [PlayStation Portable](big-stinky-brew/launchers/playstation-stuffs/psp/README.md)
       * [Preparing](big-stinky-brew/launchers/playstation-stuffs/psp/preparing.md)
       * [Compatible Games](big-stinky-brew/launchers/playstation-stuffs/psp/compatibility-list.md)
-      
+* [Debugging APIs](big-stinky-brew/debugging-apis/README.md)
+  * [Console Control API](big-stinky-brew/debugging-apis/ccapi/README.md)
+    * [Console Control API](big-stinky-brew/debugging-apis/ccapi/README.md)
+    * [Console Control API](big-stinky-brew/debugging-apis/ccapi/README.md)
+    * [Console Control API](big-stinky-brew/debugging-apis/ccapi/README.md)
+  * [CID Protection](big-stinky-brew/debugging-apis/cid-protection.md)
 ## About this Wiki <a id="about-the-wiki"></a>
 
 * [Acknowledgments](about-the-wiki/acknowledgments.md)
