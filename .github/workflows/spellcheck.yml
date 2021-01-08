@@ -1,4 +1,27 @@
-- name: GitHub Spellcheck Action
-  # You may pin to the exact commit or the version.
-  # uses: rojopolis/spellcheck-github-actions@1ae5456ab573e71ac5ad51326fc0c2e163aee032
-  uses: rojopolis/spellcheck-github-actions@0.8.0
+name: Spellcheck Action
+on: push
+
+jobs:
+  build:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: rojopolis/spellcheck-github-actions@0.5.0
+      name: Spellcheck
+      matrix:
+      - name: Markdown
+      aspell:
+        lang: en
+      dictionary:
+        encoding: utf-8
+      pipeline:
+      - pyspelling.filters.markdown:
+      - pyspelling.filters.html:
+        comments: false
+        ignores:
+        - code
+        - pre
+      sources:
+      - '**/*.md'
+      default_encoding: utf-8
