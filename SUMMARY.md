@@ -1,5 +1,7 @@
 # Table of contents
 
+<!--- From Doregon with love <3 --->
+
 * [Welcome.](README.md)
 
 ## Welcome to the Wiki <a id="welcome-to-wiki"></a>
