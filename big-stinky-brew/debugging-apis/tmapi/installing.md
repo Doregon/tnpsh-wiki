@@ -1,4 +1,4 @@
-# Installing and using ProDG
+# Using ProDG
 
 You will need:
 
