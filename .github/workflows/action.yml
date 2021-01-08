@@ -1,11 +1,21 @@
-name: Spellcheck for GitBook
-on: push
+name: Typo CI
 
+on:
+  push:
+    branches-ignore:
+      - master
 jobs:
-  build:
-    name: Spellcheck
+  spellcheck:
+    name: Typo CI (GitHub Action)
     runs-on: ubuntu-latest
+    timeout-minutes: 4
+    if: "!contains(github.event.head_commit.message, '[ci skip]')"
     steps:
-    - uses: actions/checkout@master
-    - uses: rojopolis/spellcheck-github-actions@0.5.0
-      name: Spellcheck
+    - name: TypoCheck
+      uses: typoci/spellcheck-action@master
+      # with:
+        # A license can be purchased via:
+        # https://gumroad.com/l/MvvBE
+        # typo_ci_license_key: ${{ secrets.TYPO_CI_LICENSE_KEY }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
