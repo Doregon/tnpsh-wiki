@@ -1,4 +1,4 @@
-# Setting up ProDG
+# Installing and using ProDG
 
 You will need:
 
