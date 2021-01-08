@@ -10,3 +10,5 @@ reActPSN is a piece of homebrew that lets you do the following tasks:
 * Load/unload backups (using BDloader, BDselector)
 
 **Not all of the features available or work right on reActPSN work on HEN.** Testing is being done to see the limits of reActPSN + HEN, so stay up to date to learn more. reActPSN also reports "Unknown CFW!" after launching for the first time on a HEN system, however it will still work.
+
+You also need to have reActPSN v3.20+ to use on HEN. The version on multiMAN's homebrew downloader **does not work at all** and is even **harmful** in some cases.
