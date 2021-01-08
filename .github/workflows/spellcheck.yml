@@ -1,4 +1,4 @@
-name: Typo CI
+name: Typo CI (local)
 
 on:
   push:
