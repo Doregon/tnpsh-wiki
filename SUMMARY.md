@@ -74,7 +74,7 @@
     * [Using on PC](big-stinky-brew/debugging-apis/ps3mapi-1/forcing-tools.md)
   * [CID Protection](big-stinky-brew/debugging-apis/cid-protection.md)
 * [PC Homebrew Tools](big-stinky-brew/pc-tools/README.md)
-  * [Aldostools' Collection](big-stinky-brew/pc-tools/aldostools-collection.md)
+  * [Aldostools' Collection](big-stinky-brew/pc-tools/aldostools-collection/README.md)
 
 ## About this Wiki <a id="about-the-wiki"></a>
 
