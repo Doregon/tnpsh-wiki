@@ -10,8 +10,8 @@
 # Homebrew Updates
 
 
-[Control Fan Utility for 4.87 on the Brewology site](https://store.brewology.com/ahomebrew.php?brewid=234)
+[Control Fan Utility 4.87](https://store.brewology.com/ahomebrew.php?brewid=234)
 
 
-[Unofficial REBUG Toolbox for 4.87 by aldostools released on the PSX-Place forums.](https://www.psx-place.com/threads/cfw-4-87-2-evilnat-cobra-cex.32057/page-13#post-270563)
+[Unofficial REBUG Toolbox 4.87](https://www.psx-place.com/threads/cfw-4-87-2-evilnat-cobra-cex.32057/page-13#post-270563)
 
