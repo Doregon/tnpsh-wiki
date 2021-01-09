@@ -10,6 +10,7 @@
 * [About Jailbreaking](welcome-to-wiki/about-jailbreaking.md)
 * [Terminology](welcome-to-wiki/terminology.md)
 * [Homebrew and the Restrictions](welcome-to-wiki/homebrew-and-restrictions.md)
+* [And PSN...?](welcome-to-wiki/psn.md)
 * [Dealing with Games](welcome-to-wiki/dealing-with-games.md)
 * [Developer Information](welcome-to-wiki/developer-information.md)
 * [Troubleshooting your System](welcome-to-wiki/troubleshooting-your-system.md)
