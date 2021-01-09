@@ -28,7 +28,7 @@
 * [PS3HEN](cfw-hfw-mfw/ps3hen/README.md)
   * [Installing](cfw-hfw-mfw/ps3hen/installing.md)
 
-## Big Stinky Homebrew <a id="big-stinky-brew"></a>
+## The Main Course <a id="big-stinky-brew"></a>
 
 * [All-In-One](big-stinky-brew/aios/README.md)
   * [webMAN MOD](big-stinky-brew/aios/webman-mod/README.md)
