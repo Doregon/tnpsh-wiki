@@ -109,7 +109,6 @@
     * [Inject PS3 saves](big-stinky-brew/pc-tools/aldostools-collection/injecting-ps3-saves.md)
     * [Forcing Remote Play and Music](big-stinky-brew/pc-tools/aldostools-collection/force-remote-play.md)
     * [Splitting ISO](big-stinky-brew/pc-tools/aldostools-collection/split-iso.md)
-    
   * [TrueAncestor](big-stinky-brew/pc-tools/trueancestor/README.md)
     * [Creating Debug EBOOTS](big-stinky-brew/pc-tools/trueancestor/creating-debug-eboots.md)
     * [Extracting PKGs](big-stinky-brew/pc-tools/trueancestor/extracting.md)
@@ -119,6 +118,15 @@
   * [FileZilla](big-stinky-brew/pc-tools/ftp-client.md)
   * [MFW Builder](big-stinky-brew/pc-tools/mfw-building.md)
   
+## Historical
+
+* [What's this section?](obsolete/README.md)
+* [Optical Drive Emulator](obsolete/ode/README.md)
+* [Firmware Flasher](obsolete/flasher/README.md)
+  * [E3 Flasher (NOR)](obsolete/flasher/e3.md)
+  * [Teensy (NAND/NOR](obsolete/flasher/teensy.md)
+  * [ProgSkeet (NAND/NOR](obsolete/flasher/progskeet.md)
+
 ## About this Wiki <a id="about-the-wiki"></a>
 
 * [Acknowledgments](about-the-wiki/acknowledgments.md)
