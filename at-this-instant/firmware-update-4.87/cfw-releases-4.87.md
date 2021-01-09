@@ -15,3 +15,8 @@
 
 [Unofficial REBUG Toolbox 4.87](https://www.psx-place.com/threads/cfw-4-87-2-evilnat-cobra-cex.32057/page-13#post-270563)
 
+# Tools
+
+[PS3UART by Mina Ralwasser](https://twitter.com/minaralwasser/status/1346569260055855105)
+
+[bguerville toolset v1.1](ps3xploit.net/bguerville)
