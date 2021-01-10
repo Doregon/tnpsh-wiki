@@ -1,5 +1,6 @@
 # No-PSN Apps
-___
+
+
 Netflix, Hulu, Amazon Video and more apps can be accessed using a special modified pkg that removes the PSN connection requirement. You will need an enabled Internet connection in order for the apps to work properly and avoid errors.
 
 ## Using Pre-Made PKGs

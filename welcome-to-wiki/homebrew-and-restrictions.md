@@ -43,5 +43,5 @@ If your system is above these temperatures, try replacing your thermal paste and
 
 Because of the Cell processor architecture, the PS3 is a strange console to develop for and makes porting code difficult. Often times, an entire re-write is required to port an app to the console. Specifically, an N64 emulator has not been finished because it requires a dynamic recompiling library \(DynaRec\) in order to work which would have to be written from scratch and require a massive amount of effort.
 
-## \*\*\*\*
+
 
