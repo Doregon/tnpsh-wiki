@@ -121,11 +121,13 @@
 ## Historical
 
 * [What's this section?](obsolete/README.md)
-* [Optical Drive Emulator](obsolete/ode/README.md)
-* [Firmware Flasher](obsolete/flasher/README.md)
-  * [E3 Flasher (NOR)](obsolete/flasher/e3.md)
-  * [Teensy (NAND/NOR](obsolete/flasher/teensy.md)
-  * [ProgSkeet (NAND/NOR](obsolete/flasher/progskeet.md)
+* [Optical Drive Emulator](obsolete/ode.md)
+* [Firmware Flasher](obsolete/flashers.md)
+* [PeXploit](obsolete/pexploit.md)
+* [PS3xploit etHANol](obsolete/han.md)
+* [Data Transfer Utility Exploit](obsolete/dtu.md)
+* [Backup Injection](obsolete/backup-injection.md)
+
 
 ## About this Wiki <a id="about-the-wiki"></a>
 
