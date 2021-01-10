@@ -103,7 +103,7 @@
   * [PS3 4K Pro](big-stinky-brew/aesthetic/ps3-4k-pro/README.md)
   * [Coldboot](big-stinky-brew/aesthetic/coldboot.md)
   * [PSN ball](big-stinky-brew/aesthetic/psn-ball.md)
-  * [Custom SND0/ATRAC3](big-stinky-brew/aesthetic/snd0-atrac3.md)
+  * [Custom SND0.AT3](big-stinky-brew/aesthetic/snd0-atrac3.md)
   * [Languages](big-stinky-brew/aesthetic/translated-langs.md)
 * [PC Homebrew Tools](big-stinky-brew/pc-tools/README.md)
   * [Aldostools' Collection](big-stinky-brew/pc-tools/aldostools-collection/README.md)
@@ -126,10 +126,9 @@
 ## External Sources
 
 * [Wololo](http://wololo.net)
-* [PlayStationHax](http://playstationhax.it/)
 * [PSX-Place](http://www.psx-place.com/)
-* [PS3 News](http://www.ps4news.com/)
-* [PSX-Scene](http://psx-scene.com/)
+* [ps3xploit](https://ps3xploit.com)
+* [Rebug](http://rebug.me)
 
 ## Historical
 
