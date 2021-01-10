@@ -39,13 +39,3 @@ For PS2, different iterations of hardware required different emulators and offse
 
 A. While this subreddit and Wiki is great for end-users, you are unlikely to find expert developer help here. You can see past and present research at the PS3 Devwiki, and get live help on the following IRC channels: \#psdevwiki, \#ps3dev, \#psl1ght. PSL1GHT is a community-made open source SDK used to develop homebrew.
 
-## **Where can I keep up with news on development?**
-
-A. Some sites, in no particular order:
-
-* [Wololo](http://wololo.net)
-* [PlayStationHax](http://playstationhax.it/)
-* [PSX-Place](http://www.psx-place.com/)
-* [PS3 News](http://www.ps4news.com/)
-* [PSX-Scene](http://psx-scene.com/)
-

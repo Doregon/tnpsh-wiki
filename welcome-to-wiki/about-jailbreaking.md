@@ -79,5 +79,5 @@ No. CFW is generally made, tested in public, then released after all models have
 
 ## **What is Cobra/Mamba?**
 
-See this page for information about Cobra, and this page for information about Mamba.
+See [this page](../cfw-hfw-mfw/cobra.md) for information about Cobra, and [this page](../cfw-hfw-mfw/mamba.md) for information about Mamba.
 

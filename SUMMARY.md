@@ -122,7 +122,15 @@
   * [Media Streaming](big-stinky-brew/pc-tools/dlna-server.md)
   * [FileZilla](big-stinky-brew/pc-tools/ftp-client.md)
   * [MFW Builder](big-stinky-brew/pc-tools/mfw-building.md)
-  
+
+## External Sources
+
+* [Wololo](http://wololo.net)
+* [PlayStationHax](http://playstationhax.it/)
+* [PSX-Place](http://www.psx-place.com/)
+* [PS3 News](http://www.ps4news.com/)
+* [PSX-Scene](http://psx-scene.com/)
+
 ## Historical
 
 * [What's this section?](obsolete/README.md)
