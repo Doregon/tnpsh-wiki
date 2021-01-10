@@ -29,6 +29,11 @@
   * [Installing](cfw-hfw-mfw/rebug/installing.md)
 * [PS3HEN](cfw-hfw-mfw/ps3hen/README.md)
   * [Installing](cfw-hfw-mfw/ps3hen/installing.md)
+* [Dual-boot Firmware](cfw-hfw-mfw/dualboot-fw/README.md)
+  * [Changing Firmwares](cfw-hfw-mfw/dualboot-fw/changing.md)
+* [Cobra](cfw-hfw-mfw/cobra.md)
+* [Mamba](cfw-hfw-mfw/mamba.md)
+* [Upgrading Firmware](cfw-hfw-mfw/firmware-upgrading.md)
 
 ## The Main Course <a id="big-stinky-brew"></a>
 

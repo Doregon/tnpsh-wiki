@@ -2,21 +2,21 @@
 
 If you're using an Optical Drive Emulator (ODE), PSN access isn't something you'll have to worry much about. Just keep in mind that just about every firmware update Sony pushes is trying to block your device, so check your ODE manufacturer's website before updating.
 
-On CFW, you can connect to PSN, but you are risking a ban to your account, console, or both. Tools like [PSNpatch](../big-stinky-brew/utilities/psnpatch/README.md) or [SEN Enabler](sen_enabler) can be used to spoof both your firmware version and Console ID, and to hide evidence of CFW on your system in an attempt to avoid bans. It's recommended to use the PSNpatch plugin to prevent yourself from going on PSN *unless* your CFW is hidden. If you plan on playing offline exclusively, follow the procedure on [this page](https://www.reddit.com/r/ps3homebrew/wiki/np_environment) to block PSN completely. Alternatively, if you have a second hard drive on hand, you can use [dual boot firmware](dualboot-fw/README.md) to go online "safely".
+On CFW, you can connect to PSN, but you are risking a ban to your account, console, or both. Tools like [PSNpatch](../big-stinky-brew/utilities/psnpatch/README.md) or [SEN Enabler](../big-stinky-brew/utilities/sen-enabler/README.md) can be used to spoof both your firmware version and Console ID, and to hide evidence of CFW on your system in an attempt to avoid bans. It's recommended to use the PSNpatch plugin to prevent yourself from going on PSN *unless* your CFW is hidden. If you plan on playing offline exclusively, follow the procedure on [this page](https://www.reddit.com/r/ps3homebrew/wiki/np_environment) to block PSN completely. Alternatively, if you have a second hard drive on hand, you can use [dual boot firmware](../cfw-hfw-mfw/dualboot-fw/README.md) to go online "safely".
 
 The most common reasons for bans are:
 
 * Running homebrew while on PSN. Using Cobra 7.52 or above will help prevent you executing homebrew apps while on PSN.
 
-* Not running [PSNpatch](psnpatch) or similar software to clear your logs and hide your CFW prior to going PSN
+* Not running [PSNpatch](../big-stinky-brew/utilities/psnpatch/README.md) or similar software to clear your logs and hide your CFW prior to going PSN
 
-* Not using an [antiban EBOOT](antiban) for games that need one
+* Not using an [antiban EBOOT](../diag-and-maintenance/antiban.md) for games that need one
 
 * Playing unreleased games while offline, and then having the trophies sync on PSN
 
 * Modding in public and being reported by other users
 
-If your console does get banned, you can spoof your console's IDPS/Console ID (CID) to another valid CID to unban yourself. A tutorial for this is found [on this wiki page](unban). You may find Console IDs being given away online, they may work, but often get banned within a day. There are also sites offering to sell them, but most of them are not particularly trustworthy, so be wary. Check [this thread out](https://www.reddit.com/r/ps3homebrew/comments/2pywcr/ps3_private_consoleid_psid_for_sale_unban_your_ps3/) for a vendor that has a good reputation.
+If your console does get banned, you can spoof your console's IDPS/Console ID (CID) to another valid CID to unban yourself. A tutorial for this is found [on this wiki page](../diag-and-maintenance/unban.md). You may find Console IDs being given away online, they may work, but often get banned within a day. There are also sites offering to sell them, but most of them are not particularly trustworthy, so be wary. Check [this thread out](https://www.reddit.com/r/ps3homebrew/comments/2pywcr/ps3_private_consoleid_psid_for_sale_unban_your_ps3/) for a vendor that has a good reputation.
 
  
 
