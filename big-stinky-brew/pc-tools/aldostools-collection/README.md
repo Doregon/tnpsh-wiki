@@ -9,8 +9,8 @@ This collection of programs is essential for anyone who's using their PC to mod 
 * View package internals
 * Format any size USB as FAT32
 * Edit PARAM.SFO to change names, TitleIDs, enable Remote Play and background music, and allow higher resolutions
-
 * Run games from the network
 * Install packages from the network
 
 ...among many, many other tools that you can use to make your PS3 behave the way you want.
+

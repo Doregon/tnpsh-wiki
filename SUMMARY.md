@@ -1,7 +1,5 @@
 # Table of contents
 
-<!--- From Doregon with love <3 --->
-
 * [Welcome.](README.md)
 
 ## Welcome to the Wiki <a id="welcome-to-wiki"></a>
@@ -36,7 +34,6 @@
 * [Upgrading Firmware](cfw-hfw-mfw/firmware-upgrading.md)
 
 ## The Main Course <a id="big-stinky-brew"></a>
-
 
 * [All-In-One](big-stinky-brew/aios/README.md)
   * [webMAN MOD](big-stinky-brew/aios/webman-mod/README.md)
@@ -82,25 +79,25 @@
     * [Using on PC](big-stinky-brew/debugging-apis/ps3mapi/forcing-tools.md)
   * [ProDG TMAPI](big-stinky-brew/debugging-apis/tmapi/README.md)
     * [Preparing your PS3](big-stinky-brew/debugging-apis/tmapi/using.md)
-    * [Using on PC](big-stinky-brew/debugging-apis/tmapi/forcing-tools.md)
+    * [Using on PC](big-stinky-brew/debugging-apis/tmapi/using-on-pc.md)
   * [Real-Time Mods](big-stinky-brew/debugging-apis/modding-games.md)
   * [CID Protection](big-stinky-brew/debugging-apis/cid-protection.md)
 * [Utilities](big-stinky-brew/utilities/README.md)
-  * [HEN Toolbox](big-stinky-brew/utilities/hen-toolbox/README.md)
+  * [HEN Toolbox](big-stinky-brew/utilities/hen-toolbox.md)
   * [Rebug Toolbox](big-stinky-brew/utilities/rebug-toolbox/README.md)
     * [CEX and DEX](big-stinky-brew/utilities/rebug-toolbox/cex-dex.md)
     * [OtherOS](big-stinky-brew/utilities/rebug-toolbox/otheros.md)
-  * [PSNpatch](big-stinky-brew/utilities/psnpatch/README.md)
-  * [SEN Enabler](big-stinky-brew/utilities/sen-enabler/README.md)
-  * [PS3XPAD](big-stinky-brew/utilities/ps3xpad/README.md)
+  * [PSNpatch](big-stinky-brew/utilities/psnpatch.md)
+  * [SEN Enabler](big-stinky-brew/utilities/sen-enabler.md)
+  * [PS3XPAD](big-stinky-brew/utilities/ps3xpad.md)
   * [reActPSN](big-stinky-brew/utilities/reactpsn/README.md)
     * [Capabilities](big-stinky-brew/utilities/reactpsn/capabilities.md)
     * [Activating games](big-stinky-brew/utilities/reactpsn/activating-games.md)
     * [Conversions](big-stinky-brew/utilities/reactpsn/converting-stuff.md)
-  * [SuiteApp Document Reader](big-stinky-brew/utilities/suiteapp/README.md)
+  * [SuiteApp Document Reader](big-stinky-brew/utilities/suiteapp.md)
   * [XMB Package Downloader](big-stinky-brew/utilities/xmbpd.md)
 * [Aesthetics](big-stinky-brew/aesthetic/README.md)
-  * [PS3 4K Pro](big-stinky-brew/aesthetic/ps3-4k-pro/README.md)
+  * [PS3 4K Pro](big-stinky-brew/aesthetic/ps3-4k-pro.md)
   * [Coldboot](big-stinky-brew/aesthetic/coldboot.md)
   * [PSN ball](big-stinky-brew/aesthetic/psn-ball.md)
   * [Custom SND0.AT3](big-stinky-brew/aesthetic/snd0-atrac3.md)
@@ -132,14 +129,13 @@
 
 ## Historical
 
-* [What's this section?](obsolete/README.md)
-* [Optical Drive Emulator](obsolete/ode.md)
-* [Firmware Flasher](obsolete/flashers.md)
-* [PeXploit](obsolete/pexploit.md)
-* [PS3xploit etHANol](obsolete/han.md)
-* [Data Transfer Utility Exploit](obsolete/dtu.md)
-* [Backup Injection](obsolete/backup-injection.md)
-
+* [What's this section?](historical/obsolete.md)
+* [Optical Drive Emulator](historical/ode.md)
+* [Firmware Flasher](historical/flashers.md)
+* [PeXploit](historical/pexploit.md)
+* [PS3xploit etHANol](historical/han.md)
+* [Data Transfer Utility Exploit](historical/dtu.md)
+* [Backup Injection](historical/backup-injection.md)
 
 ## About this Wiki <a id="about-the-wiki"></a>
 
