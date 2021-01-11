@@ -41,6 +41,7 @@
     * [Installation](big-stinky-brew/aios/webman-mod/installation.md)
     * [Web Interface](big-stinky-brew/aios/webman-mod/customizing/README.md)
       * [Setup](big-stinky-brew/aios/webman-mod/customizing/setup.md)
+      * [Monitoring](big-stinky-brew/aios/webman-mod/customizing/monitoring.md)
       * [PS3MAPI](big-stinky-brew/aios/webman-mod/customizing/ps3mapi.md)
       * [Games](big-stinky-brew/aios/webman-mod/customizing/games.md)
       * [Files](big-stinky-brew/aios/webman-mod/customizing/files.md)
