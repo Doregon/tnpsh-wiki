@@ -105,5 +105,5 @@ The first four options deal with disabling parts of how the "webMAN Games" folde
 * **Disable multiMAN covers** changes where webMAN should gather icons for games. 
   * **MM COVERS** tells webMAN to look for multiMAN's icons. If multiMAN is not installed, this option has no meaning.
   * **ONLINE COVERS** tells webMAN to use the Title ID and game name to search the internet for an icon.
-  * **PIC0.PNG** allow you to choose the game's included icon as the cover.
-
+  * **PIC0.PNG** allows you to choose the game's included icon as the cover.
+  * **NONE** turns all of webMAN's listed games into disc icons, corresponding to the type of disc.
