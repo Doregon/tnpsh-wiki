@@ -16,10 +16,12 @@ The section marked with the green arrow will indicate the directories webMAN is 
 
 The section marked with the blue arrow will indicate the types of formats to look for. These are the available options and their corresponding definitions:
 
-| PlayStation 3 | PS3 games |
-| PlayStation 2 | PS2 games |
-| PlayStation | PSone games |
-| PlayStation Portable | PSP games |
-| Blu-ray | Bluray movies and TV |
-| DVD Video | DVD |
-| ROMS | RetroArch ROMS |
+| Option | Definition|
+| :---: | :---: |
+| **PlayStation 3** | PS3 games |
+| **PlayStation 2** | PS2 games |
+| **PlayStation** | PSone games |
+| **PlayStation Portable** | PSP games |
+| **Blu-ray** | Bluray movies and TV |
+| **DVD Video** | DVD |
+| **ROMS** | RetroArch ROMS |
