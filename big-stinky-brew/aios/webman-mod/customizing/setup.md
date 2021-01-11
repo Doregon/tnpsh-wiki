@@ -12,9 +12,9 @@ In this page, we'll go through all of the setup page's options. I noticed some p
 
 The **Search Content** section allows you to customize what items that webMAN should look for when you first boot your console (or enable HEN) or choose to refresh the games list. 
 
-The section marked with the green arrow will indicate the directories webMAN is to search in, with `/dev_usb00X` being USBs in FAT32 and `/dev_ntfs` being USBs in NTFS. This will search any folders of interest, which can be found on the [Dealing with Games](../../../../welcome-to-wiki/dealing-with-games.md) wiki page.
+The subsection marked with the green arrow will indicate the directories webMAN is to search in, with `/dev_usb00X` being USBs in FAT32 and `/dev_ntfs` being USBs in NTFS. This will search any folders of interest, which can be found on the [Dealing with Games](../../../../welcome-to-wiki/dealing-with-games.md) wiki page. 
 
-The section marked with the blue arrow will indicate the types of formats to look for. These are the available options and their corresponding definitions:
+The subsection marked with the blue arrow will indicate the types of formats to look for. These are the available options and their corresponding definitions:
 
 | Option | Definition|
 | :---: | :---: |
@@ -25,3 +25,13 @@ The section marked with the blue arrow will indicate the types of formats to loo
 | **Blu-ray** | Bluray movies and TV |
 | **DVD Video** | DVD |
 | **ROMS** | RetroArch ROMS |
+
+The section marked with the red arrow will indicate the network servers that webMAN should look for. [PS3netsrv]() is the program that controls streaming games from your PC to your console, which is what this section deals with.
+
+## Cooler control
+
+![](../../../../.gitbook/assets/webman-MOD/setup/cooler-control.jpg)
+
+webMAN MOD includes utilities to alter your cooler system settings (aka fan control). With these settings, you can prevent common issues and help extend the life of your system, as well as alliviate the potential for the system to shut down spontaneously or... repair a Yellow Light of Death.
+
+The "Enable Dynamic Cooler Control" option tells webMAN whether or not it should control the cooler's power. 
