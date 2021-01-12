@@ -92,7 +92,7 @@ If you're going to remotely interact with your console, such as by connecting th
 
 ### Section II
 
-![](../../../../.gitbook/assets/image.png)
+![](../../../../.gitbook/assets/wMAN-general-settings.png)
 
 Here's that image again. We're focusing on the second part now.
 
