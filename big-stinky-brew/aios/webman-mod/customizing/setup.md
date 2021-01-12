@@ -2,13 +2,13 @@
 
 Let's get through the Setup page. If you're on webMAN's internal web server, you'll probably see a screen similar to this:
 
-![A view of webMAN&apos;s Setup](../../../../.gitbook/assets/wMAN_settings.png)
+![A view of webMAN&apos;s Setup](../../../../.gitbook/assets/wMAN-settings.png)
 
 In this page, we'll go through all of the setup page's options. I noticed some people couldn't work everything out \(such as fan control\) and gave up on webMAN, and this is meant to change that fear of many options and possibly messing up.
 
 ## Search Content
 
-![](../../../../.gitbook/assets/search-content.jpg)
+![](../../../../.gitbook/assets/wMAN-search-content.jpg)
 
 The **Search Content** section allows you to customize what items that webMAN should look for when you first boot your console \(or enable HEN\) or choose to refresh the games list.
 
@@ -20,7 +20,7 @@ The section marked with the red arrow will indicate the network servers that web
 
 ## Cooler Control
 
-![](../../../../.gitbook/assets/cooler-control.jpg)
+![](../../../../.gitbook/assets/wMAN-cooler-control.jpg)
 
 webMAN MOD includes utilities to alter your cooler system settings \(aka fan control\). With these settings, you can prevent common issues and help extend the life of your system, as well as alliviate the potential for the system to shut down spontaneously or... repair a Yellow Light of Death.
 
@@ -47,7 +47,7 @@ The **CPU / RSX / FAN Chart** option changes the view of the page described in [
 
 ## webMAN Settings
 
-![](../../../../.gitbook/assets/image.png)
+![](../../../../.gitbook/assets/wMAN-general-settings.png)
 
 webMAN MOD's Settings section tells it how to operate and interact with your system, other homebrew, and its services. This section will be split in half, just like the picture is up above.
 
@@ -104,6 +104,19 @@ The first four options deal with disabling parts of how the "webMAN Games" folde
   * This is helpful if you're trying to lock down webMAN from someone that's exploring your console but has a history of changing settings that should not be changed.
 * **Disable multiMAN covers** changes where webMAN should gather icons for games. 
   * **MM COVERS** tells webMAN to look for multiMAN's icons. If multiMAN is not installed, this option has no meaning.
-  * **ONLINE COVERS** tells webMAN to use the Title ID and game name to search the internet for an icon.
-  * **PIC0.PNG** allows you to choose the game's included icon as the cover.
+  * **ONLINE COVERS** tells webMAN to use the Title ID and game name to search the ManaGunz repository for an icon.
+  * **ICON0.PNG** allows you to choose the game's included icon as the cover.
   * **NONE** turns all of webMAN's listed games into disc icons, corresponding to the type of disc.
+  * The **Plugin Language** option chooses what language to display the game's name in.
+  
+**Include ID as part of title* takes the Title ID of the game (i.e. the BLUSxxxxx string) appear at the end of the game's name. This could potentially be helpful, in case you have multiple versions of one game and certain DLCs work in just one, or you just want to easily find the Title ID.
+
+**PhotoGui** makes mounting and launching games easier. This option is more deeply explained in the [Games](games.md) page, but essentially it allows you to mount games from the Photos column.
+
+## Pad Shortcuts
+
+webMAN allows you to enable or disable preset game pad key combinations or set a custom one to use when on the XMB (and with some of them, in-game after you press the PS button.) This is covered in-depth in the [Pad Shortcuts](pad-shortcuts.md) page.
+
+## Misc USB settings
+
+The last two settings help the system slow down and wait for USB devices to finish connecting and initializing properly. **Wait to read any USB** prevents the system from scanning for USB devices until the time set is reached. **Additional Standby for Each USB** allows you to adjust 
