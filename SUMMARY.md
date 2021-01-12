@@ -11,7 +11,7 @@
 * [And PSN...?](welcome-to-wiki/psn.md)
 * [Dealing with Games](welcome-to-wiki/dealing-with-games.md)
 * [Developer Information](welcome-to-wiki/developer-information.md)
-* [Troubleshooting your System](welcome-to-wiki/troubleshooting-your-system.md)
+* [Troubleshooting (the Fast Facts)](welcome-to-wiki/troubleshooting-your-system.md)
 
 ## At this Instant!
 
