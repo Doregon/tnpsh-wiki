@@ -14,7 +14,7 @@ The **Search Content** section allows you to customize what items that webMAN sh
 
 The subsection marked with the green arrow will indicate the directories webMAN is to search in, with `/dev_usb00X` being USBs in FAT32 and `/dev_ntfs` being USBs in NTFS. This will search any folders of interest, which can be found on the [Dealing with Games](../../../../welcome-to-wiki/dealing-with-games.md) wiki page.
 
-The subsection marked with the blue arrow will indicate the types of formats to look for webMAN can search for PlayStation 3/2/X/Portable games, Blu-ray or DVD backups, and RetroArch ROMs \(requires [pkglauncher](addons.md) addon\). 
+The subsection marked with the blue arrow will indicate the types of formats to look for webMAN can search for PlayStation 3/2/X/Portable games, Blu-ray or DVD backups, and RetroArch ROMs \(requires [pkglauncher](addons.md) addon\).
 
 The section marked with the red arrow will indicate the network servers that webMAN should look for. [PS3netsrv](setup.md) is a program that allows you to stream games over the network to your console, and webMAN MOD is tightly integrated with this functionality.
 
@@ -108,15 +108,20 @@ The first four options deal with disabling parts of how the "webMAN Games" folde
   * **ICON0.PNG** allows you to choose the game's included icon as the cover.
   * **NONE** turns all of webMAN's listed games into disc icons, corresponding to the type of disc.
   * The **Plugin Language** option chooses what language to display the game's name in.
-  
-**Include ID as part of title* takes the Title ID of the game (i.e. the BLUSxxxxx string) appear at the end of the game's name. This could potentially be helpful, in case you have multiple versions of one game and certain DLCs work in just one, or you just want to easily find the Title ID.
+
+_\*Include ID as part of title_ takes the Title ID of the game \(i.e. the BLUSxxxxx string\) appear at the end of the game's name. This could potentially be helpful, in case you have multiple versions of one game and certain DLCs work in just one, or you just want to easily find the Title ID.
 
 **PhotoGui** makes mounting and launching games easier. This option is more deeply explained in the [Games](games.md) page, but essentially it allows you to mount games from the Photos column.
 
 ## Pad Shortcuts
 
-webMAN allows you to enable or disable preset game pad key combinations or set a custom one to use when on the XMB (and with some of them, in-game after you press the PS button.) This is covered in-depth in the [Pad Shortcuts](pad-shortcuts.md) page.
+webMAN allows you to enable or disable preset game pad key combinations or set a custom one to use when on the XMB \(and with some of them, in-game after you press the PS button.\) This is covered in-depth in the [Pad Shortcuts](pad-shortcuts.md) page.
 
 ## Misc USB settings
 
-The last two settings help the system slow down and wait for USB devices to finish connecting and initializing properly. **Wait to read any USB** prevents the system from scanning for USB devices until the time set is reached. **Additional Standby for Each USB** allows you to adjust 
+The last two settings help the system slow down and wait for USB devices to finish connecting and initializing properly.
+
+* **Wait to read any USB** prevents the system and webMAN from scanning for USB devices until the time set is reached. With this option set, webMAN will also not scan for content until the wait period is over. 
+* **Additional Standby for Each USB** allows you to adjust additional time to wait on USBs, however webMAN will read them and sort through but not allow you to interact with them until the standby period is over.
+* These two options can be helpful if you're having trouble running games from an external drive, because there can be problems where a faster internal drive doesn't allow a slower external drive to initialize correctly because it's going through all the steps beforehand, and webMAN follows suit.
+
