@@ -2,6 +2,8 @@
 
 ## For some 25xx and all earlier models, you can use Rebug for a full CFW experience.
 
+***NOTE:** The rebug.me website is down for maintenance and is no longer available to be used. You can potentially use the Wayback Machine to access the website from the month of August, but it's not verified that you can continue to download CFW. You can also check out [Ferrox](../ferrox/README.md), which has been updated for 4.87 and is still available to the public.*
+
 You get the full package! With full control over your PlayStation, you can command and bend it to your will, such as re-enabling lost features, better support for homebrew, and full access to tweak your system to your liking. 
 
 Rebug's main versions works by combining **CEX and DEX**, which are the retail and debug firmwares, respectively. By doing this, you can easily switch between the two and activate certain DEX features, such as the QA-toggled Debug Settings, without having to switch to a full DEX system. This functionality also makes it easier to modify games and apps and use [ProDG TMAPI](../../big-stinky-brew/debugging-apis/tmapi/README.md) Rebug is also Cobra- and Mamba-compatible, which means it's capable of all the plugins and homebrew that PS3HEN can use.
@@ -15,5 +17,3 @@ As of January 12, 2021, these are the current versions of Rebug REX, Rebug D-REX
 Rebug REX: 4.84.2
 Rebug D-REX: 4.84.2
 Rebug Lite: 4.86.1
-
-***NOTE:** The rebug.me website is down for maintenance and is no longer available to be used. You can potentially use the Wayback Machine to access the website from the month of August, but it's not verified that you can continue to download CFW. You can also check out [Ferrox](../ferrox/README.md), which has been updated for 4.87 and is still available to the public.
