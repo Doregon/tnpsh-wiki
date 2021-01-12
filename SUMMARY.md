@@ -23,10 +23,13 @@
 ## Firmware and Exploits <a id="cfw-hfw-mfw"></a>
 
 * [Custom, Hybrid, or Modified?](cfw-hfw-mfw/custom-hybrid-or-modified.md)
+* [minverchk](cfw-hfw-mfw/minverchk.md)
 * [Rebug](cfw-hfw-mfw/rebug/README.md)
   * [Installing](cfw-hfw-mfw/rebug/installing.md)
 * [PS3HEN](cfw-hfw-mfw/ps3hen/README.md)
   * [Installing](cfw-hfw-mfw/ps3hen/installing.md)
+* [Ferrox](cfw-hfw-mfw/ferrox/README.md)
+  * [Installing](cfw-hfw-mfw/ferrox/installing.md)
 * [Dual-boot Firmware](cfw-hfw-mfw/dualboot-fw/README.md)
   * [Changing Firmwares](cfw-hfw-mfw/dualboot-fw/changing.md)
 * [Cobra](cfw-hfw-mfw/cobra.md)
