@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome.](README.md)
+* [Introduction](welcome-to-wiki/README.md)
+* [Welcome.](readme.md)
 
 ## Welcome to the Wiki <a id="welcome-to-wiki"></a>
 

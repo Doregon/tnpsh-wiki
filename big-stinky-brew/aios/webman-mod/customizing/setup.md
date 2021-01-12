@@ -109,7 +109,33 @@ The first four options deal with disabling parts of how the "webMAN Games" folde
   * **NONE** turns all of webMAN's listed games into disc icons, corresponding to the type of disc.
   * The **Plugin Language** option chooses what language to display the game's name in.
 
-_\*Include ID as part of title_ takes the Title ID of the game \(i.e. the BLUSxxxxx string\) appear at the end of the game's name. This could potentially be helpful, in case you have multiple versions of one game and certain DLCs work in just one, or you just want to easily find the Title ID.
+**Include ID** takes the Title ID of the game \(i.e. the BLUSxxxxx string\) appear at the end of the game's name. This could potentially be helpful, in case you have multiple versions of one game and certain DLCs work in just one, or you just want to easily find the Title ID.
+
+* The **Info** option changes how games appear on the XMB.
+  * **None** keeps the default of the game's name and nothing else.
+    * ex. Rocksmith 2014
+  * **Path** adds the location of the game under its name.
+
+    * ex. Rocksmith 2014
+
+          `/dev_hdd0/GAMES/BLUS31354`
+
+  * **ID** appends the Title ID of the game to the end of this name.
+    * ex. Rocksmith 2014 \[BLUS31354\]
+  * **Path + ID** adds **Path** and **ID** to the game.
+
+    * ex. Rocksmith 2014 \[BLUS31354\]
+
+          `/dev_hdd0/GAMES/BLUS31354`
+* The **Mount Info** changes how webMAN notifies you of a successful/failed mount of a game.
+  * **None** turns of this notification.
+  * **1** shows the game's name \(and Title ID if **Include ID** is enabled\)
+    * ex. Rocksmith 2014 loaded!
+  * **2** shows the location of the game
+    * ex. `/dev_hdd0/GAMES/BLUS31354`loaded!
+  * **1+2** shows the game's name and location.
+    * ex. Rocksmith 2014
+    * `/dev_hdd0/GAMES/BLUS31354` loaded!
 
 **PhotoGui** makes mounting and launching games easier. This option is more deeply explained in the [Games](games.md) page, but essentially it allows you to mount games from the Photos column.
 
