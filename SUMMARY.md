@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome.](README.md)
+* [Introduction](welcome-to-wiki/README.md)
+* [Welcome.](readme.md)
 
 ## Welcome to the Wiki <a id="welcome-to-wiki"></a>
 
@@ -20,7 +21,7 @@
   * [Logging into PSN on HFW 4.86](at-this-instant/firmware-update-4.87/logging-into-psn-on-hfw-4.86.md)
   * [4.87 Releases](at-this-instant/firmware-update-4.87/cfw-releases-4.87.md)
 
-## Firmware <a id="cfw-hfw-mfw"></a>
+## Firmware and Exploits <a id="cfw-hfw-mfw"></a>
 
 * [Custom, Hybrid, or Modified?](cfw-hfw-mfw/custom-hybrid-or-modified.md)
 * [Rebug](cfw-hfw-mfw/rebug/README.md)
@@ -32,6 +33,13 @@
 * [Cobra](cfw-hfw-mfw/cobra.md)
 * [Mamba](cfw-hfw-mfw/mamba.md)
 * [Upgrading Firmware](cfw-hfw-mfw/firmware-upgrading.md)
+* [Historical](cfw-hfw-mfw/obsolete/README.md)
+  * [Optical Drive Emulator](historical/ode.md)
+  * [Firmware Flasher](historical/flashers.md)
+  * [PeXploit](historical/pexploit.md)
+  * [PS3xploit etHANol](historical/han.md)
+  * [Data Transfer Utility Exploit](historical/dtu.md)
+  * [Backup Injection](historical/backup-injection.md)
 
 ## The Main Course <a id="big-stinky-brew"></a>
 
@@ -120,6 +128,7 @@
   * [Media Streaming](big-stinky-brew/pc-tools/dlna-server.md)
   * [FileZilla](big-stinky-brew/pc-tools/ftp-client.md)
   * [MFW Builder](big-stinky-brew/pc-tools/mfw-building.md)
+* [Troubleshooting your Homebrew](big-stinky-brew/troubleshooting-homebrew/README.md)
 
 ## External Sources
 
@@ -127,16 +136,6 @@
 * [PSX-Place](http://www.psx-place.com/)
 * [ps3xploit](https://ps3xploit.com)
 * [Rebug](http://rebug.me)
-
-## Historical
-
-* [What's this section?](historical/obsolete.md)
-* [Optical Drive Emulator](historical/ode.md)
-* [Firmware Flasher](historical/flashers.md)
-* [PeXploit](historical/pexploit.md)
-* [PS3xploit etHANol](historical/han.md)
-* [Data Transfer Utility Exploit](historical/dtu.md)
-* [Backup Injection](historical/backup-injection.md)
 
 ## About this Wiki <a id="about-the-wiki"></a>
 
