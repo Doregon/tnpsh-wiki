@@ -1,3 +1,6 @@
 structure:  
-    readme: ./welcome-to-wiki/README.md
+    readme: ./README.md
     summary: ./SUMMARY.md
+redirects:
+    homebrew: ./big-stinky-brew
+    
