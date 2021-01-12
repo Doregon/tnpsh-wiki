@@ -33,13 +33,13 @@
 * [Cobra](cfw-hfw-mfw/cobra.md)
 * [Mamba](cfw-hfw-mfw/mamba.md)
 * [Upgrading Firmware](cfw-hfw-mfw/firmware-upgrading.md)
-* [Historical](cfw-hfw-mfw/obsolete/README.md)
-  * [Optical Drive Emulator](historical/ode.md)
-  * [Firmware Flasher](historical/flashers.md)
-  * [PeXploit](historical/pexploit.md)
-  * [PS3xploit etHANol](historical/han.md)
-  * [Data Transfer Utility Exploit](historical/dtu.md)
-  * [Backup Injection](historical/backup-injection.md)
+* [Previous Exploits](cfw-hfw-mfw/obsolete/README.md)
+  * [Optical Drive Emulator](cfw-hfw-mfw/obsolete/ode.md)
+  * [Firmware Flasher](cfw-hfw-mfw/obsolete/flashers.md)
+  * [PeXploit](cfw-hfw-mfw/obsolete/pexploit.md)
+  * [PS3xploit etHANol](cfw-hfw-mfw/obsolete/han.md)
+  * [Data Transfer Utility Exploit](cfw-hfw-mfw/obsolete/dtu.md)
+  * [Backup Injection](cfw-hfw-mfw/obsolete/backup-injection.md)
 
 ## The Main Course <a id="big-stinky-brew"></a>
 
