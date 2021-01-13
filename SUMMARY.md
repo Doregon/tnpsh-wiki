@@ -140,8 +140,8 @@
 * [QA Flagging](diags-and-maintenance/qa.md)
 * [Remarrying a Blu-Ray drive](diags-and-maintenance/remarry.md)
 * [Unbanning your console](diags-and-maintenance/unban.md)
-* [Troubleshooting your Homebrew](diags-and-maintenance/troubleshooting-homebrew.md)
-*
+* [Homebrew Troubleshooting](diags-and-maintenance/homebrew-specific/README.md)
+  * [webMAN](diags-and-maintenance/homebrew-specific/webman.md)
 
 ## External Sources
 
