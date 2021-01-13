@@ -2,7 +2,7 @@
 
 A Super Audio CD (SACD) is a high density version of the CD. It allowed for up to 4.7GB of data to be stored on disc to fit more music, longer tracks, or additional audio channels (including quadraphonic surround sound). SACD was a niche technology that fell to the wayside as DVDs became popular. Both the actual SACDs and their players were expensive, however, the early versions of the PS3 are able to read SACDs, and therefore rip them.
 
-A component of SACD Ripper, called SACD Extract, is usable on Windows/OSX/Linux, provided that you have a SACD-compatible disc drive.
+A component of SACD Ripper, called SACD Extract, is usable on Windows/macOS/Linux, provided that you have a SACD-compatible disc drive.
 
 * The CECHE was the final model of PS3 that is able to read SACDs.
 

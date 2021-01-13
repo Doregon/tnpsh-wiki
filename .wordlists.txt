@@ -83,6 +83,7 @@ subreddit
 natively
 RetroArch
 SACD
+SACDs
 NTFS
 Xbox
 gamepad
