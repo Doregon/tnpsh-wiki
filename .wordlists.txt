@@ -363,6 +363,7 @@ mapi
 ControlConsole
 Pre
 Hulu
+Ripper
 mkv
 Codecs
 codec
