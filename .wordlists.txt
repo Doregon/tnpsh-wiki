@@ -56,6 +56,9 @@ WebKit
 XMB
 XPAD
 PS3Xploit
+ps3xploit
+xploit
+Xploit
 Xross
 YLOD
 datecode
@@ -121,8 +124,12 @@ newemu
 gxemu
 softemu
 PSL1GHT
+PSL
+GHT
 SDK
 psl1ght
+psl
+ght
 psdevwiki
 EBOOT
 antiban
@@ -139,15 +146,23 @@ OtherOS
 suiteApp
 Downloader
 Coldboot
-SND0.AT3
+SND
 Aldostools
 RetroXMB
 TrueAncestor
 EBOOTs
 PKGs
 Wololo
-
-
+KB
+MB
+GB
+TB
+kb
+mb
+gb
+tb
+PeXploit
+DTU
 
 
 
