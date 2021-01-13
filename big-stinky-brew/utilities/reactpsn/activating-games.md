@@ -6,7 +6,7 @@ So, you've just installed a new game from your USB and are so excited to start p
 
 "This content can only be used if you renew the license in PlayStation Store."
 
-At one point, we've all had it happen. Even with installing the game alongside a .rap file, sometimes it just happens out of the blue. However, eActPSN can help fix this problem for you! Let's get started.
+At one point, we've all had it happen. Even with installing the game alongside a .rap file, sometimes it just happens out of the blue. However, reActPSN can help fix this problem for you! Let's get started.
 
 1. **You need to have reActPSN and the game you wish to activate.** reActPSN doesn't need .rap files to do its job.
 2. **Create a new user** called "aa" \(without the quotes\). This is the user reActPSN will use to tie licenses to.

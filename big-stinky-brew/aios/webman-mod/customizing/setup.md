@@ -22,7 +22,7 @@ The section marked with the red arrow will indicate the network servers that web
 
 ![](../../../../.gitbook/assets/wMAN-cooler-control.jpg)
 
-webMAN MOD includes utilities to alter your cooler system settings \(aka fan control\). With these settings, you can prevent common issues and help extend the life of your system, as well as alliviate the potential for the system to shut down spontaneously or... repair a Yellow Light of Death.
+webMAN MOD includes utilities to alter your cooler system settings \(aka fan control\). With these settings, you can prevent common issues and help extend the life of your system, as well as alleviate the potential for the system to shut down spontaneously or... repair a Yellow Light of Death.
 
 The "Enable Dynamic Cooler Control" option tells webMAN whether or not it should control the cooler's power, and the options around it all require that it be turned on.
 
@@ -104,7 +104,7 @@ The first four options deal with disabling parts of how the "webMAN Games" folde
   * This is helpful if you're trying to lock down webMAN from someone that's exploring your console but has a history of changing settings that should not be changed.
 * **Disable multiMAN covers** changes where webMAN should gather icons for games. 
   * **MM COVERS** tells webMAN to look for multiMAN's icons. If multiMAN is not installed, this option has no meaning.
-  * **ONLINE COVERS** tells webMAN to use the Title ID and game name to search the ManaGunz repository for an icon.
+  * **ONLINE COVERS** tells webMAN to use the Title ID and game name to search the ManaGunZ repository for an icon.
   * **ICON0.PNG** allows you to choose the game's included icon as the cover.
   * **NONE** turns all of webMAN's listed games into disc icons, corresponding to the type of disc.
   * The **Plugin Language** option chooses what language to display the game's name in.

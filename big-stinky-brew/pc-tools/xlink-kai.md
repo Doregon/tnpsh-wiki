@@ -51,4 +51,4 @@
 
 9. In XLink, select the globe next to the magnifying glass, then the green arrow next to "PS3". You will need to open the relevant game category, then game, then region for your game. At this point, you can search for a LAN game with your PS3 and you should be able to see all the games that are listed in XLink (if there are any), or create a match and wait for people to join.
 
-* All tunneling programs like Xlink have low populations and you may not be able to find a game. The more popular the game, the more likely there will be people online. Look into different regions to see if there are games as well; they are especially popular with Latin American countries.  
+* All tunneling programs like XLink have low populations and you may not be able to find a game. The more popular the game, the more likely there will be people online. Look into different regions to see if there are games as well; they are especially popular with Latin American countries.  
