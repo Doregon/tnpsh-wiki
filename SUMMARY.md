@@ -5,6 +5,7 @@
 ## Welcome to the Wiki <a id="welcome-to-wiki"></a>
 
 * [About the new Sub](welcome-to-wiki/about-the-new-sub.md)
+* [A History of the PlayStation 3](welcome-to-wiki/ps3-history.md)
 * [About Jailbreaking](welcome-to-wiki/about-jailbreaking.md)
 * [Terminology](welcome-to-wiki/terminology.md)
 * [Homebrew and the Restrictions](welcome-to-wiki/homebrew-and-restrictions.md)
