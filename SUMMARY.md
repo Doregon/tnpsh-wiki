@@ -130,8 +130,18 @@
   * [Media Streaming](big-stinky-brew/pc-tools/dlna-server.md)
   * [FileZilla](big-stinky-brew/pc-tools/ftp-client.md)
   * [MFW Builder](big-stinky-brew/pc-tools/mfw-building.md)
-* [Troubleshooting](big-stinky-brew/troubleshooting/README.md)
-  * [Homebrew Specific](big-stinky-brew/troubleshooting/homebrew-specific.md)
+  
+## Diagnostics and Maintenance
+* [Accessing the Recovery Menu](diags-and-maintenance/recovery.md)
+* [Anti-ban EBOOTs](diags-and-maintenance/antiban.md)
+* [Blocking Updates and PSN](diags-and-maintenance/blocking-updates.md)
+* [HDD Upgrades](diags-and-maintenance/hdd-upgrade.md)
+* [Dealing with 4GB Files](diags-and-maintenance/4gb-files.md)
+* [QA Flagging](diags-and-maintenance/qa.md)
+* [Remarrying a Blu-Ray drive](diags-and-maintenance/remarry.md)
+* [Unbanning your console](diags-and-maintenance/unban.md)
+* [Troubleshooting your Homebrew](diags-and-maintenance/troubleshooting-homebrew.md)
+*
 
 ## External Sources
 
