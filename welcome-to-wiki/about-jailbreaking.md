@@ -43,7 +43,7 @@ Essentially, Sony slipped up and their lowest level encryption key \(metldr\) wa
 
 ## **Why can't certain consoles be downgraded to 3.55?**
 
-Every console leaves the factory with a "minimum downgrade praxis". It's a long and complicated thing with eFUSES and burning into the CPU, but basically this is a hardcoded number of the lowest possible firmware version the console can handle. Due to all CECH-30XX, Super Slims, and some CECH-25XX's leaving the factory with a minimum downgrade praxis above 3.56, they are unable to be downgraded to 3.55.
+Every console leaves the factory with a "minimum downgrade praxis". It's a long and complicated thing with eFUSES and burning into the CPU, but basically this is a hardcoded number of the lowest possible firmware version the console can handle. Due to all CECH-30xx, Super Slims, and some CECH-25xx models leaving the factory with a minimum downgrade praxis above 3.56, they are unable to be downgraded to 3.55.
 
 ## **What about a minimum praxis of 3.56?**
 

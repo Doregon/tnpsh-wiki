@@ -9,6 +9,7 @@ MrMario
 WebKit
 homebrew
 FERROX
+Ferrox
 Rebug
 Mina
 Ralwasser
@@ -24,7 +25,7 @@ updatelist
 webMAN
 multiMAN
 pendrive
-usb
+USB
 dev
 hdd
 firmwares
@@ -163,6 +164,31 @@ gb
 tb
 PeXploit
 DTU
-
+supportfiles
+redownload
+eg
+unspoofed
+BLUS
+BLES
+BCUS
+BCUS
+PARAM
+SFO
+exe
+NAND
+USBs
+payload
+NPEB
+dat
+PRX
+SPRX
+VSH
+Blu-Ray
+tmp
+failsafe
+noplugins
+Wayback
+modchip
+HDDs
 
 
