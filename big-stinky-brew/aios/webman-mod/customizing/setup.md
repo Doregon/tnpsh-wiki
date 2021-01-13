@@ -115,18 +115,19 @@ The first four options deal with disabling parts of how the "webMAN Games" folde
   * **None** keeps the default of the game's name and nothing else.
     * ex. Rocksmith 2014
   * **Path** adds the location of the game under its name.
-
     * ex. Rocksmith 2014
 
-          `/dev_hdd0/GAMES/BLUS31354`
-
+      ```text
+      `/dev_hdd0/GAMES/BLUS31354`
+      ```
   * **ID** appends the Title ID of the game to the end of this name.
     * ex. Rocksmith 2014 \[BLUS31354\]
   * **Path + ID** adds **Path** and **ID** to the game.
-
     * ex. Rocksmith 2014 \[BLUS31354\]
 
-          `/dev_hdd0/GAMES/BLUS31354`
+      ```text
+      `/dev_hdd0/GAMES/BLUS31354`
+      ```
 * The **Mount Info** changes how webMAN notifies you of a successful/failed mount of a game.
   * **None** turns of this notification.
   * **1** shows the game's name \(and Title ID if **Include ID** is enabled\)

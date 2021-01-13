@@ -11,7 +11,7 @@
 * [And PSN...?](welcome-to-wiki/psn.md)
 * [Dealing with Games](welcome-to-wiki/dealing-with-games.md)
 * [Developer Information](welcome-to-wiki/developer-information.md)
-* [Troubleshooting (the Fast Facts)](welcome-to-wiki/troubleshooting-your-system.md)
+* [Troubleshooting \(the Fast Facts\)](welcome-to-wiki/troubleshooting-your-system.md)
 
 ## At this Instant!
 
@@ -130,7 +130,7 @@
   * [Media Streaming](big-stinky-brew/pc-tools/dlna-server.md)
   * [FileZilla](big-stinky-brew/pc-tools/ftp-client.md)
   * [MFW Builder](big-stinky-brew/pc-tools/mfw-building.md)
-* [Troubleshooting your Homebrew](big-stinky-brew/troubleshooting-homebrew/README.md)
+* [Troubleshooting your Homebrew](big-stinky-brew/troubleshooting-homebrew.md)
 
 ## External Sources
 

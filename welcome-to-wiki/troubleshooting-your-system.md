@@ -2,7 +2,7 @@
 description: We all have problems.
 ---
 
-# Troubleshooting your System
+# Troubleshooting \(the Fast Facts\)
 
 ## **I'm stuck in safe mode and using Restore File System or Rebuild Database freezes the system, what can I do?**
 

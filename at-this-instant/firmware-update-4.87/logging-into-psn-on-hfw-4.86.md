@@ -4,9 +4,9 @@ description: 'The riskier option, typed by u/AzgalorFelore'
 
 # Logging into PSN on HFW 4.86
 
-### DISCLAIMER: Do this at your own risk. This can lead to the suspension or a ban of your PSN account.
+## DISCLAIMER: Do this at your own risk. This can lead to the suspension or a ban of your PSN account.
 
-#### Prerequisites:
+### Prerequisites:
 
 * USB storage device that is formatted to the [FAT32](https://recoverit.wondershare.com/flashdrive-recovery/format-usb-to-fat32.html) file system.
 * Jailbroken PS3 \([HEN](https://www.reddit.com/r/the_new_ps3_homebrew/comments/kbyli9/guide_to_installing_ps3hen_and_some_faq/) in this case\).
@@ -15,7 +15,7 @@ description: 'The riskier option, typed by u/AzgalorFelore'
 * [webMAN MOD](https://store.brewology.com/get/homebrew.php?id=310&fid=2227)
 * [multiMAN](https://store.brewology.com/get/homebrew.php?id=24&fid=2200)
 
-#### Steps to login to your PSN account without updating to the latest OFW:
+### Steps to login to your PSN account without updating to the latest OFW:
 
 [Video showing all the steps ](https://www.youtube.com/watch?v=Z81sFawKmYY)I have typed below.
 

@@ -24,7 +24,7 @@ PS3HEN isn't a full jailbreak, because you won't have access to a certain part o
 * Use SEN Enabler
 * Use Toolboxes from other CFWs
 
-Understanding what your console can or can't do **could be the difference between working and broken**. Ensure that what you want to do is within the limits of HEN, and know that you cannot dive into the deep internals of the system. 
+Understanding what your console can or can't do **could be the difference between working and broken**. Ensure that what you want to do is within the limits of HEN, and know that you cannot dive into the deep internals of the system.
 
-However, HEN is Cobra compatible, and thus supports a wide variety of homebrew. Make sure that the homebrew is **resigned for HEN** \(chances are that the homebrew is\). 
+However, HEN is Cobra compatible, and thus supports a wide variety of homebrew. Make sure that the homebrew is **resigned for HEN** \(chances are that the homebrew is\).
 

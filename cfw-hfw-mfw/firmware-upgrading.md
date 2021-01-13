@@ -9,7 +9,7 @@
    * If you are on Windows and have file extensions hidden, name it "PS3UPDAT" instead
    * **Rebug releases their firmwares as ZIP files which contain a link to the actual firmware download. A firmware update should have the extension .PUP**
 5. Plug your USB storage device into your PS3. 
-6. Boot your console into [recovery mode](recovery.md) by powering it on, holding the power button until it turns off, then holding it again until it does it a quick double-beep. Alternatively, go to the System Update section of Settings.
+6. Boot your console into [recovery mode](https://github.com/Doregon/tnpsh-wiki/tree/ec40ea4f7f50454a057c48ec37d7e6bbe67cfd05/cfw-hfw-mfw/recovery.md) by powering it on, holding the power button until it turns off, then holding it again until it does it a quick double-beep. Alternatively, go to the System Update section of Settings.
 7. Select "System Update" and choose "Update via Storage Media". It may appear to hang while it checks for an update; so long as the loading icon is spinning, it is searching and it may take hours depending on your storage device.
    * If it reports the data as corrupt, double check the file and folder names, and make sure you chose the correct update for your system \(CEX/DEX\). 
 8. Select the listed update, proceed through the prompts, and allow update to install and reboot.
