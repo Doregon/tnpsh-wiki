@@ -14,5 +14,7 @@ Rebug also releases a **Lite** version, released quickly and easily, and providi
 
 As of January 12, 2021, these are the current versions of Rebug REX, Rebug D-REX, and Rebug Lite.
 
-Rebug REX: 4.84.2 Rebug D-REX: 4.84.2 Rebug Lite: 4.86.1
+Rebug REX: **4.84.2**   
+Rebug D-REX: **4.84.2**   
+Rebug Lite: **4.86.1**
 
