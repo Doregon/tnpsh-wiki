@@ -20,7 +20,7 @@ Antiban EBOOTs can generally be found online by searching "<gamename> antiban EB
 List of Games that Need an Antiban EBOOT
 ---
 
-Note that this list may not cover all games, so it's best to google "<gamename> antiban eboot" and see if there is one available for your game before playing it online.
+Note that this list may not cover all games, so it's best to google "<gamename> antiban EBOOT" and see if there is one available for your game before playing it online.
 
 
 * Call of Duty: Advanced Warfare **(only paid tools have a working antiban!)**

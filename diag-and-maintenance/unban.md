@@ -5,7 +5,7 @@ In the event that your console is banned from PSN, you can unban it by spoofing 
 
 You will need the following:
 
-- [PSNPatch](http://store.brewology.com/ahomebrew.php?brewid=244)
+- [PSNpatch](http://store.brewology.com/ahomebrew.php?brewid=244)
 
 - A valid CID from another PS3.
 
@@ -16,6 +16,6 @@ You will need the following:
 
 3. If you used FTP, make sure to upload the file back to the PS3.
 
-4. Launch PSNPatch and press Square to spoof the new CID. Alternatively, if you have set up the [PSNPatch plugin](../big-stinky-brew/utilities/psnpatch/plugin.md), reboot, and press L3+R3+R2 to spoof your CID, disable CFW, and enable PSN access. 
+4. Launch PSNpatch and press Square to spoof the new CID. Alternatively, if you have set up the [PSNpatch plugin](../big-stinky-brew/utilities/psnpatch/plugin.md), reboot, and press L3+R3+R2 to spoof your CID, disable CFW, and enable PSN access. 
 
 * If you receive error 0x8002A224, this indicates that your CID is not valid. If you receive this error, and are on DEX, see [this page for settings to go online with DEX](../welcome-to-wiki/psn.md).

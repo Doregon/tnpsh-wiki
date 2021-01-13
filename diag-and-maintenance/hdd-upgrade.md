@@ -19,7 +19,7 @@ Installing a new hard drive on CFW is the same as installing a new hard drive on
 
 This process is the cleanest and quickest method to upgrade your internal hard drive. Essentially, you will determine what files and folders you'd like to save, and copy only those to your new hard drive.
 
-1. Either plug in a USB storage device that can temporarily hold your files and open [Multiman's file manager (mmOS\)](../big-stinky-brew/file-managers/multiman/README.md), or [start an FTP session](../big-stinky-brew/pc-tools/ftp-client.md). 
+1. Either plug in a USB storage device that can temporarily hold your files and open [multiMAN's file manager (mmOS\)](../big-stinky-brew/file-managers/multiman/README.md), or [start an FTP session](../big-stinky-brew/pc-tools/ftp-client.md). 
 
 2. Copy over the desired files or folders you'd like to back up. Potential files you'd like to back up would be:
  * **/dev_hdd0/GAMES/** - Folder format PS3 games.
@@ -48,11 +48,11 @@ This process will create a system back up file on an external hard drive, which 
 
 * You will need: 
  * The QA Flag enabled; you can check or change this in last column of Rebug Toolbox on any firmware version.
- * Debug Settings enabled; it will show up as the last section in the Settings column of the XMB. If it is not there, try hovering over Network Settings and holding L1 + L2 + R1 + R2 + L3 + DPAD-down.
+ * Debug Settings enabled; it will show up as the last section in the Settings column of the XMB. If it is not there, try hovering over Network Settings and holding L1 + L2 + R1 + R2 + L3 + DOWN (D-Pad).
  * A USB storage device of equal or greater size than your original hard drive 
  * (For NOR consoles only) A second USB storage device at least 256MB in size to reinstall firmware
 
-1. This process will not save your trophies, so you will need to manually back them up if you want to preserve them. To do this, use Multiman's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy all of the folders inside of it to a USB storage device or your PC.
+1. This process will not save your trophies, so you will need to manually back them up if you want to preserve them. To do this, use multiMAN's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy all of the folders inside of it to a USB storage device or your PC.
 
 2. Plug your FAT32 formatted USB storage device your console.
 
@@ -63,7 +63,7 @@ This process will create a system back up file on an external hard drive, which 
 5. Start your console. If it is a NOR console, it will prompt you for a firmware update, at which point you will follow [these instructions](../cfw-hfw-mfw/firmware-upgrading.md) to re-install your firmware, using the **same firmware you were previously on** (i.e. Rebug 4.81.2 or Ferrox 4.70). 
 
 6. Navigate to the Settings column and down to System Settings → Backup Utility → Restore. Select your backup from your USB storage device and wait for it to complete.
- * If you had backed up your trophies, use Multiman's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy the folders back in, responding "Yes" when prompted to overwrite. After it is finished, shut down your console, boot into [recovery mode](recovery.md) and run the option to Rebuild Database.
+ * If you had backed up your trophies, use multiMAN's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy the folders back in, responding "Yes" when prompted to overwrite. After it is finished, shut down your console, boot into [recovery mode](recovery.md) and run the option to Rebuild Database.
 
 
 ## Cloning your Hard Drive to a Same-Size Hard Drive
@@ -75,12 +75,12 @@ If you are on CFW, you have the option to move all of your data to a new hard dr
  * Debug Settings enabled; it will show up as the last section in the Settings column of the XMB. If it is not there, try hovering over Network Settings and holding L1 + L2 + R1 + R2 + L3 + DPAD-down. If you are on DEX firmware, you will need to go into Rebug Toolbox and change *Debug Menu Type* to CEX QA.
  * A USB adapter or caddy for your new hard drive for the file transfer
 
-1. This process will not save your trophies, so you will need to manually back them up if you want to preserve them. To do this, use Multiman's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy all of the folders inside of it to a USB storage device or your PC.
+1. This process will not save your trophies, so you will need to manually back them up if you want to preserve them. To do this, use multiMAN's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy all of the folders inside of it to a USB storage device or your PC.
 
 2. Plug your new hard drive into a USB port on your PS3 and select Settings → Debug Settings → Debug for HDD Exchange Utility. Press X to accept the agreement, and X again to confirm the copy.
 
 3. After it is finished copying, press X to shut down the console, and then unplug the power cable. Insert your new HDD into the PS3, and power it on. It will rebuild the database. Press X to restart when prompted.
- * If you had backed up your trophies, use Multiman's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy the folders back in, responding "Yes" when prompted to overwrite. After it is finished, shut down your console, boot into [recovery mode](recovery.md) and run the option to Rebuild Database.
+ * If you had backed up your trophies, use multiMAN's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy the folders back in, responding "Yes" when prompted to overwrite. After it is finished, shut down your console, boot into [recovery mode](recovery.md) and run the option to Rebuild Database.
 
 # External Hard Drives
 
@@ -90,4 +90,4 @@ If you are using a new external drive that is above 2TB, you will have to format
 
 * **NTFS**: Hard drives beyond 8TB have to be formatted to NTFS and MBR (not GPT). Hard drives formatted as NTFS can only be used as an external hard drive. More information can be found [here]().
 
-If you have issues with Webman recognizing your external hard drive, open Webman settings and set "Wait for any USB device to be ready" and "Wait additionally for each selected USB device to be read" to 5 seconds or more.
+If you have issues with webMAN recognizing your external hard drive, open webMAN settings and set "Wait for any USB device to be ready" and "Wait additionally for each selected USB device to be read" to 5 seconds or more.
