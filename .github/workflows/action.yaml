@@ -10,5 +10,5 @@ jobs:
     steps:
     - name: Check out code.
       uses: actions/checkout@v2
-    - name: Run PySpelling as a GitHub action
-      uses: rojopolis/spellcheck-github-actions@v0.9.1
+      - name: GitHub Spellcheck Action
+      uses: rojopolis/spellcheck-github-actions@0.9.1
