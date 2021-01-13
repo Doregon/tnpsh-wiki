@@ -13,7 +13,7 @@
 7. Select "System Update" and choose "Update via Storage Media". It may appear to hang while it checks for an update; so long as the loading icon is spinning, it is searching and it may take hours depending on your storage device.
    * If it reports the data as corrupt, double check the file and folder names, and make sure you chose the correct update for your system \(CEX/DEX\). 
 8. Select the listed update, proceed through the prompts, and allow update to install and reboot.
-9. You will most likely need to update your apps, such as Multiman or Rebug Toolbox, to fully use them.
+9. You will most likely need to update your apps, such as Rebug Toolbox, to fully use them.
 10. If your USB ports are broken, you can update in Recovery mode by placing the PUP file in `/dev_hdd0/vsh/` on your hard drive or in `/NOT/UPDATE/` on a DVD.
 
 ## If you so wish...

@@ -32,12 +32,12 @@ You should always check the back of your PS3 for the accepted voltages. However,
 
 ## **What temperatures should my PS3 be at?**
 
-You can check your system temperatures by pressing Start+Select on the XMB or in-game XMB \(if Webman is installed\), or you can check it in Multiman. Your PS3 should fall at or below these temperature ranges:
+You can check your system temperatures by pressing Start+Select on the XMB or in-game XMB \(if webMAN is installed\), or you can check it in multiMAN. Your PS3 should fall at or below these temperature ranges:
 
 * Fat: 60-70°C idle / 65-75°C PS3 game / 70-80°C PS2 game
 * Slim: 55-65°C idle / 65-70°C PS3 game / 70-75°C PS2 game
 
-If your system is above these temperatures, try replacing your thermal paste and/or changing your fan settings with Webman.
+If your system is above these temperatures, try replacing your thermal paste and/or changing your fan settings with webMAN.
 
 ## **Why hasn't &lt;insert game here&gt; been ported to PS3?**
 

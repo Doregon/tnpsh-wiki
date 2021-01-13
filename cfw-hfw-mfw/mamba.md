@@ -4,8 +4,8 @@
 
 [MAMBA/PRX Loader](http://store.brewology.com/ahomebrew.php?brewid=287) is a homebrew that allows you to load MAMBA and/or VSH plugins \(with MAMBA or PRX Loader\). Mamba features include:
 
-* Region free BluRay
-* ISO mounting for BluRay/DVD/PSP/PS1/PS2/PS3
+* Region free Blu-Ray
+* ISO mounting for Blu-Ray/DVD/PSP/PS1/PS2/PS3
 * Mounting ISOs and games over network
 * ISOs can be split and still mounted, to bypass FAT32 4GB file limit on USB
 * PS1 backup discs work just like retail discs
@@ -28,8 +28,8 @@
 
 1. Install MAMBA/PRX Loader PKG
 2. Launch "MAMBA/PRX Loader" and immediately:
-   * Hold CROSS to install "MAMBA/PRX Autoloader"
-   * Hold SQUARE to uninstall "MAMBA/PRX Autoloader"
+   * Hold CROSS to install "MAMBA/PRX AutoLoader"
+   * Hold SQUARE to uninstall "MAMBA/PRX AutoLoader"
 
      A single beep indicates no errors. If it beeps more than once, use a [FTP](../big-stinky-brew/pc-tools/ftp-client.md) session to download and view the log at /dev\_hdd/tmp/MAMBA\_PRX\_Loader.log.
 

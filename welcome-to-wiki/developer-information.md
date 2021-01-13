@@ -37,5 +37,5 @@ For PS2, different iterations of hardware required different emulators and offse
 
 ## **I'm interested in developing for the PS3. Where can I start?**
 
-A. While this subreddit and Wiki is great for end-users, you are unlikely to find expert developer help here. You can see past and present research at the PS3 Devwiki, and get live help on the following IRC channels: \#psdevwiki, \#ps3dev, \#psl1ght. PSL1GHT is a community-made open source SDK used to develop homebrew.
+A. While this subreddit and Wiki is great for end-users, you are unlikely to find expert developer help here. You can see past and present research at the psdevwiki, and get live help on the following IRC channels: \#psdevwiki, \#ps3dev, \#psl1ght. PSL1GHT is a community-made open source SDK used to develop homebrew.
 

@@ -30,5 +30,5 @@ If the game is a 1:1 rip, it may be a lot smaller in folder format. Folder forma
 
 ## **How can I update my games?**
 
-While connected to the Internet \(and signed out of PSN\), you can safely update by hovering over the game, press Triangle, and select Update. Alternatively, you can do the same from within Multiman.
+While connected to the Internet \(and signed out of PSN\), you can safely update by hovering over the game, press Triangle, and select Update. Alternatively, you can do the same from within multiMAN.
 

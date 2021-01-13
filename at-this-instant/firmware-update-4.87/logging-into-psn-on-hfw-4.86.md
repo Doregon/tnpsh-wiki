@@ -21,7 +21,7 @@ description: 'The riskier option, typed by u/AzgalorFelore'
 
 1. **Install FileZilla** to your computer
 2. **Download webMAN MOD and multiMAN on your computer**, connect your pendrive to your computer, then drag and drop the files to your pendrive or any other storage device that is formatted to the FAT32 file system.
-3. **Disconnect the pendrive from your computer and connect it to the second usb slot of your console.** After you've connected the pendrive, go to "Package Manager", then "Install package files", and "standard, you'll see both files appear on the menu.
+3. **Disconnect the pendrive from your computer and connect it to the second USB slot of your console.** After you've connected the pendrive, go to "Package Manager", then "Install package files", and "standard, you'll see both files appear on the menu.
 4. **Install webMAN MOD and multiMAN to your PS3**. After you've installed webMAN MOD, you'll have to press x on it so that it activates every time you turn on HEN.
 5. Open MultiMAN and go to "system information". **Write down the IP address** that you see on your menu.
 6. **Open FileZilla and type your console's IP address** right next to where it says "HOST".

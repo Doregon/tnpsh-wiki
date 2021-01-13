@@ -6,7 +6,7 @@ description: 'Hybrid firmware, and its enabler.'
 
 ## For some 25xx, all 3xxx, and newer models, PS3HEN is where to look if you want homebrew on your console.
 
-PS3HEN isn't a full jailbreak, because you won't have access to a certain part of the system required to have a full-blown CFW, which neans you cannot do the following to your console with HEN:
+PS3HEN isn't a full jailbreak, because you won't have access to a certain part of the system required to have a full-blown CFW, which means you cannot do the following to your console with HEN:
 
 * Use Linux
 * Use Console Control API
@@ -14,7 +14,7 @@ PS3HEN isn't a full jailbreak, because you won't have access to a certain part o
 * Convert from CEX to DEX
 * Dump EID root key
 * Read HDD on PC 
-* Running non-encrypted PS2 isos
+* Running non-encrypted PS2 ISOs
 * Use IDPSet
 * Use all features of reActPSN
   * activating games works

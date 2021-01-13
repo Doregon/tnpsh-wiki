@@ -171,7 +171,7 @@ unspoofed
 BLUS
 BLES
 BCUS
-BCUS
+BCES
 PARAM
 SFO
 exe
@@ -352,10 +352,12 @@ macOS
 Habib
 IDPSet
 Joonie
-
-
-
-
+AutoLoader
+usb
+rebug
+Rebug’s
+unarchiver
+pkg
 
 
 

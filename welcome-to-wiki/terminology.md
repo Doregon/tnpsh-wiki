@@ -37,7 +37,7 @@ That information can be found here.
 | **Peek / Poke** | Peek is the generic term for a system call that lets you read a memory address. Poke is the the term for a syscall that lets you write to any memory address. They are required for backup managers to work properly. A userspace application can use these syscalls to dump out the entire memory space of the kernel, or patch the kernel as it is running. |
 | **PKG** | An installation file that can be run from the XMB to install software on the PS3. |
 | **PSID** | A 32-character unique fingerprint for offline tasks such as linking your console to HDD backups and game saves. This can be spoofed to another PSID. |
-| **RAP** | RAP files are a file used in conjunction with your PS3 and ReactPSN/PSNpatch to make RIF \(license\) files for games. |
+| **RAP** | RAP files are a file used in conjunction with your PS3 and reActPSN/PSNpatch to make RIF \(license\) files for games. |
 | **RIF** | RIF files are licenses specific to your PS3 that allow your user profile to play a PSN game or DLC. |
 | **RLOD/YLOD** | Red Light Of Death or Yellow Light of Death. Caused by hardware malfunction, often due to overheating. |
 | **RSOD** | Red Screen Of Death. Caused by software/firmware malfunction. Usually requires a reinstallation of firmware. |
