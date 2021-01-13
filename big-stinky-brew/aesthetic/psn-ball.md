@@ -9,7 +9,7 @@ Changing PSN Ball / Logo
 A collection of custom PSN Icons are available on the [XMB Mods Collection ISO](http://store.brewology.com/ahomebrew.php?brewid=303) \(or the smaller [PSN Icons Collection ISO](https://www.dropbox.com/s/nt2lr1pqoqmtova/PSN%20icons%20collection%20disc.iso?dl=0)\). You can apply the fonts as follows:
 
 1. Download and [transfer](https://github.com/Doregon/tnpsh-wiki/tree/2fdb48620ab1dcfea983a2949cb04bb755d07cca/big-stinky-brew/pc-tools/ftp-client/README.md) the ISO file to /dev\_hdd0/PS3ISO/.
-2. Mount the ISO using a backup manager such as Multiman or Webman.
+2. Mount the ISO using a backup manager such as multiMAN or webMAN.
 3. Select the disk, and choose the desired icon.
 4. Press Cross to install and Yes when prompted. You will be returned to the XMB. 
 5. Reboot to verify that it works properly.

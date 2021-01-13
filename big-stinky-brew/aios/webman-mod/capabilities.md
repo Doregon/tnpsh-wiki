@@ -17,7 +17,7 @@ description: What can this homebrew be used for?
 * Support on classic custom firmware with Mamba loaded via IRISMAN \(ver 3.41-4.87 CEX & DEX\)
 * Support on classic custom firmware with Mamba/PRXLoader \(ver 3.41-4.87 CEX & DEX\)
 * Support on classic custom firmware with PRXLoader \(ver 3.41-4.87 CEX & DEX\)
-* All PS3 Models \(including all fat, Slim 20xx, 21xx, 25xx, 3xxx & SuperSlims 4xxx\) are supported via PS3HEN payload
+* All PS3 Models \(including all fat, Slim 20xx, 21xx, 25xx, 3xxx & Super Slims 4xxx\) are supported via PS3HEN payload
 * All PS3 Models capable to downgrade to 3.56 or lower are supported via PS3Xploit Flash Writer \(aka PS3Xploit 2.0\) See [this page](http://www.psdevwiki.com/ps3/SKU_Models) for compatibility with CFW
 
 ### sMAN / webMAN vanilla features
@@ -39,11 +39,11 @@ description: What can this homebrew be used for?
 
 **Installer & GUIs**
 
-* Easy installer/updater with 4 editions: full, lite, standard \(rebug\) & nonCobra.
+* Easy installer/updater with 4 editions: full, lite, standard \(rebug\) & non-Cobra.
 * New icons created by Brunolee & Berion
 * VSH Menu integration \(hold SELECT to show the menu\)
 * sLaunch GUI integration \(hold START or R2+L2 on XMB to show the game menu GUI\)
-* Coverflow web-GUI \(/games.ps3\) provides a mobile/desktop friendly GUI for fast selection of games.
+* CoverFlow web-GUI \(/games.ps3\) provides a mobile/desktop friendly GUI for fast selection of games.
 * Grid web-GUI \(/index.ps3\) display games with resizable icons and content can be filtered by type/device/name
 * web-GUI for Temperature monitoring: /cpursx.ps3, /cpursx.html & /tempc.html or /tempf.html \(gauges\)
 * 2 GUI Themes: sMAN-like graphical interface & webMAN original theme
@@ -65,7 +65,7 @@ description: What can this homebrew be used for?
 * Option for display original file name or title name from PARAM.SFO
 * Option for display covers as discs, ICON0.PNG or covers from multiMAN, IRISMAN, ManaGunZ repository or in the same folder of the ISO
 * Option for online covers display \(free service provided by DeViL303\)
-* Optional Video subfolder to "Bluray™ and DVD" folder \(Display RetroXMB videos, videos on USB devices and Data Disc icon\)
+* Optional Video subfolder to "Blu-Ray™ and DVD" folder \(Display RetroXMB videos, videos on USB devices and Data Disc icon\)
 * Extended system information via /cpursx.ps3 \(Title ID, game icon, APP Version, IDPS/PSID, CFW version, last played game, console's run time & number of boots\)
 * Display of Play time & startup time to SELECT+START and /cpursx.ps3 \(Use SELECT+START+R2 to display Game ID, Title, play time and more in-Game info\)
 * Use "home" path to define default path for /app\_home/PS3\_GAME on start up and for R2+START \(e.g. make app\_home start multiMAN or IRISMAN\)
@@ -84,7 +84,7 @@ description: What can this homebrew be used for?
 * Integrated prepNTFS allows to scan PS3ISO, PSXISO, BDISO & DVDISO on NTFS devices without need to run prepISO/prepNTFS
 * Support for _.ntfs\[BDFILE\]_ \(fake ISO created by IRISMAN or prepISO/prepNTFS\) - Used to play AVI/MP4 movies or install large packages stored on NTFS
 * Support to mount NTFS games using raw\_iso.sprx \(rawseciso by Estwald\) - Supports fake ISO
-* Support last\_game.txt / autoboot on nonCobra edition
+* Support last\_game.txt / autoboot on non-Cobra edition
 * Auto install PKG mounted from exFAT/ext/NTFS \(reduce steps needed to install a PKG\)
 
 **Emulation features**
@@ -108,7 +108,7 @@ description: What can this homebrew be used for?
 
 * Update to latest release from XMB
 * PS3 Manager API Support \(PS3MAPI\) compatible with RTM tools
-* FTP server includes new SITE commands to allow copy/paste files locally, unmount game, toggle external gamedata, turn on/off dev\_blind, change file attributes
+* FTP server includes new SITE commands to allow copy/paste files locally, unmount game, toggle external gameDATA, turn on/off dev\_blind, change file attributes
 * Extended support up to 5 remote network servers
 * Auto configure remote IP address when /setup.ps3 is accessed from a remote client
 * Support navigation of remote network servers even if they are disabled for content scanning

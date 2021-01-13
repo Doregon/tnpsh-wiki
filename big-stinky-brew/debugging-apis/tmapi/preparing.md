@@ -8,4 +8,4 @@ Go to the settings column on the XMB menu and go all the way to the bottom to "D
 
 * Network Settings for Debug: Single Setting
 
-If Debug Settings is not present, highlight "Network Settings" on the XMB and press and hold: Dpad-down + L1 + L2 + R1 + R2 + L3
+If Debug Settings is not present, highlight "Network Settings" on the XMB and press and hold: DOWN (D-Pad) + L1 + L2 + R1 + R2 + L3

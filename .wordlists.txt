@@ -202,10 +202,9 @@ prxid
 NoPSN
 DNS
 ConsoleID
-Hulumkv
 Navi
 OpenSubtitles
-uunbanned
+unbanned
 coldboot
 LV
 Petitboot
@@ -264,7 +263,7 @@ SSNE
 thumbsticks
 ROMs
 savestates
-ManaGunz
+ManaGunZ
 rar
 aio
 addon
@@ -291,7 +290,7 @@ Automatization
 NETISO
 exFAT
 decrypted
-nonCovra
+nocobra
 Estwald
 rawseciso
 BDFILE
@@ -310,6 +309,7 @@ wm
 multiCD
 cpursx
 subfolder
+subfolders
 DeViL
 PNG
 xml
@@ -320,6 +320,7 @@ sMAN
 tempc
 tempf
 resizable
+SYSCON
 CoverFlow
 sLaunch
 Berion
@@ -358,7 +359,20 @@ rebug
 Rebug’s
 unarchiver
 pkg
-
-
-
+mapi
+ControlConsole
+Pre
+Hulu
+mkv
+Codecs
+codec
+PortForward
+FileZilla’s
+lv
+launchable
+RetroArch’s
+MOD’s
+autoboot
+sprx
+pkgs
 

@@ -11,7 +11,7 @@ What is a coldboot? A coldboot consists of the logo and sound played when your c
 A collection of coldboot logos are available on the [XMB Mods Collection ISO](http://store.brewology.com/ahomebrew.php?brewid=303) \(or on the smaller [PS3 Coldboots Collection ISO](http://www.mediafire.com/download/ew50hhj6ftc8ec3/Coldboots+collection+disc.iso)\). You can apply the coldboots as follows:
 
 1. Download and [transfer](https://www.reddit.com/r/ps3homebrew/wiki/transferring_files) the ISO file to /dev\_hdd0/PS3ISO/.
-2. Mount the ISO using a backup manager such as Multiman or Webman.
+2. Mount the ISO using a backup manager such as multiMAN or webMAN.
 3. Select the disk, and choose the desired coldboot.
 4. Press Cross to install and Yes when prompted. You will be returned to the XMB. 
 5. Reboot to verify that it works.

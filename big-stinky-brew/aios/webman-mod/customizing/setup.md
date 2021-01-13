@@ -56,7 +56,7 @@ webMAN MOD's Settings section tells it how to operate and interact with your sys
 The first three options deal with **auto launching,** a feature that allows you to launch games on a boot up of the console.
 
 * **Load Last game at Start** does exactly what it says, and it loads the last played game at startup.
-  * The **BEEP** flag signifies whether or not your console should beep when the game is succesfully mounted.
+  * The **BEEP** flag signifies whether or not your console should beep when the game is successfully mounted.
   * The **On SND0.AT3** signifies whether or not your console should play the game's preview music \(the music when you hover over it\) on the XMB.
   * **wm\_proxy** is a VSH plugin that lets webMAN take control of what's on the XMB. If you're having trouble getting your most recent game to automatically load, try enabling this.
 * **Check /dev\_hdd0/PS3ISO/AUTOBOOT.ISO when starting** specifies a game to always mount at start, whether or not you've recently played it.
@@ -137,7 +137,7 @@ The first four options deal with disabling parts of how the "webMAN Games" folde
     * ex. Rocksmith 2014
     * `/dev_hdd0/GAMES/BLUS31354` loaded!
 
-**PhotoGui** makes mounting and launching games easier. This option is more deeply explained in the [Games](games.md) page, but essentially it allows you to mount games from the Photos column.
+**PhotoGUI** makes mounting and launching games easier. This option is more deeply explained in the [Games](games.md) page, but essentially it allows you to mount games from the Photos column.
 
 ## Pad Shortcuts
 

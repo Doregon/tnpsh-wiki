@@ -14,5 +14,5 @@ If using the official Movian app, you must download the Play store version, upda
 
 If using Movian Remote, tap the settings button in the top right, and then "IP Address". Enter the IP address found in the Settings column → Network Settings → Internet Connection and Status List, and you will be able to use the controls on the home screen to manipulate Movian on your PS3.
 
-**Movian has plenty more plugins due to the active developement of this homebrew.**
+**Movian has plenty more plugins due to the active development of this homebrew.**
 
