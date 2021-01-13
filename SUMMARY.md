@@ -130,7 +130,8 @@
   * [Media Streaming](big-stinky-brew/pc-tools/dlna-server.md)
   * [FileZilla](big-stinky-brew/pc-tools/ftp-client.md)
   * [MFW Builder](big-stinky-brew/pc-tools/mfw-building.md)
-* [Troubleshooting your Homebrew](big-stinky-brew/troubleshooting-homebrew.md)
+* [Troubleshooting](big-stinky-brew/troubleshooting/README.md)
+  * [Homebrew Specific](big-stinky-brew/troubleshooting/homebrew-specific.md)
 
 ## External Sources
 
