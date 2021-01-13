@@ -8,7 +8,7 @@ In the event that your Blu-Ray disc drive breaks and you replace it with a new o
 
 3. Open Rebug Toolbox, scroll to the far right column, near the bottom and select "Dump eid root key".
 
-4. With a USB storage device plugged in, use an [FTP Program](../big-stinky-brew/pc-tools/ftp-client.md) or Multiman's file manager to move the eid_root_key from /dev_hdd0/game/RBGTLBOX2/USRDIR/ to /dev_usb00X/ (with X being any number).
+4. With a USB storage device plugged in, use an [FTP Program](../big-stinky-brew/pc-tools/ftp-client.md) or multiMAN's file manager to move the eid_root_key from /dev_hdd0/game/RBGTLBOX2/USRDIR/ to /dev_usb00X/ (with X being any number).
 
 5. Turn off your console, swap out old Blu-Ray drive for the new one, and turn it back on.
 

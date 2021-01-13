@@ -10,7 +10,7 @@ You will need the following:
 - A valid CID from another PS3.
 
 
-1. Use an [FTP client](../big-stinky-brew/pc-tools/ftp-client.md) or Multiman to browse to /dev_hdd0/game/PSNP11001/USRDIR/ and open psnpatch.cfg with a text editor. If the file does not exist, check inside of /dev_hdd0/game/BLJS10018/USRDIR/.
+1. Use an [FTP client](../big-stinky-brew/pc-tools/ftp-client.md) or multiMAN to browse to /dev_hdd0/game/PSNP11001/USRDIR/ and open psnpatch.cfg with a text editor. If the file does not exist, check inside of /dev_hdd0/game/BLJS10018/USRDIR/.
 
 2. Change the lines "idps=000..." and "psid=000..." to the respective values. If you do not have a matching PSID, leave it as zeroes. It will still work without a matching PSID, but it is potentially slightly more risky. Ensure that both values are 32 digits long.
 

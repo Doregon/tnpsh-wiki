@@ -72,7 +72,7 @@ If you are on CFW, you have the option to move all of your data to a new hard dr
 
 * You will need: 
  * The QA Flag enabled; you can check or change this in last column of Rebug Toolbox on any firmware version.
- * Debug Settings enabled; it will show up as the last section in the Settings column of the XMB. If it is not there, try hovering over Network Settings and holding L1 + L2 + R1 + R2 + L3 + DPAD-down. If you are on DEX firmware, you will need to go into Rebug Toolbox and change *Debug Menu Type* to CEX QA.
+ * Debug Settings enabled; it will show up as the last section in the Settings column of the XMB. If it is not there, try hovering over Network Settings and holding L1 + L2 + R1 + R2 + L3 + DOWN (D-Pad). If you are on DEX firmware, you will need to go into Rebug Toolbox and change *Debug Menu Type* to CEX QA.
  * A USB adapter or caddy for your new hard drive for the file transfer
 
 1. This process will not save your trophies, so you will need to manually back them up if you want to preserve them. To do this, use multiMAN's file manager or an [FTP session](../big-stinky-brew/pc-tools/ftp-client.md) to navigate to /dev_hdd0/home/ and copy all of the folders inside of it to a USB storage device or your PC.

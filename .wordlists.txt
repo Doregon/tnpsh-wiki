@@ -47,6 +47,8 @@ sys
 xRegistry
 Nanometer
 PSID
+idps
+psid
 PSNpatch
 PSP
 PSPISO
@@ -64,7 +66,7 @@ PS3Xploit
 ps3xploit
 caddy
 Formatter
-GUIFormatter
+GuiFormatter
 WD
 RBGTLBOX
 xploit
@@ -157,6 +159,7 @@ CCAPI
 ProDG
 Addons
 mmCM
+mmOS
 OtherOS
 suiteApp
 Downloader
@@ -186,6 +189,8 @@ BLUS
 BLES
 BCUS
 BCES
+BLJS
+cfg
 PARAM
 SFO
 exe
@@ -194,6 +199,7 @@ USBs
 payload
 NPEB
 dat
+PSNP
 PRX
 SPRX
 VSH
