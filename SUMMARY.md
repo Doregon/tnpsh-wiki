@@ -138,6 +138,7 @@
 * [PSX-Place](http://www.psx-place.com/)
 * [ps3xploit](https://ps3xploit.com)
 * [Rebug](http://rebug.me)
+* [psdevwiki](https://psdevwiki.com)
 
 ## About this Wiki <a id="about-the-wiki"></a>
 
