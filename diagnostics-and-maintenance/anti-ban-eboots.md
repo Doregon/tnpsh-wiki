@@ -1,0 +1,2 @@
+# Anti-ban EBOOTs
+

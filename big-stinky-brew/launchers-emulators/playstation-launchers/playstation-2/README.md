@@ -1,2 +1,0 @@
-# PlayStation 2
-
