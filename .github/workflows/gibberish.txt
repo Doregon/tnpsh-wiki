@@ -12,6 +12,8 @@ HFW
 MFW
 WebKit
 Gitako
+repo
+monospaced
 LEDs
 fself
 selfs
