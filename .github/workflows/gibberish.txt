@@ -419,6 +419,7 @@ BruteForce
 Decryptor
 decryptor
 SX
+WinRAR
 AsbestOS
 xloader
 ECDSA
