@@ -155,6 +155,10 @@
 ## About this Wiki <a id="about-the-wiki"></a>
 
 * [Acknowledgments](about-the-wiki/acknowledgments.md)
-* [How to contribute](about-the-wiki/contributing.md)
+* [Contributions](about-the-wiki/contributing/README.md)
+  * [Editing the Wiki](about-the-wiki/contributing/editing-the-wiki.md)
+  * [Notes about Commits](about-the-wiki/contributing/notes-about-commits.md)
+  * [Contribution Guidelines](about-the-wiki/contributing/contribution-guidelines.md)
 * [Wiki Versioning](about-the-wiki/versions.md)
-* [Sitemap](SUMMARY.md)
+* [Sitemap](about-the-wiki/summary.md)
+

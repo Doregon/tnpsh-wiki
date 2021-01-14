@@ -1,4 +1,4 @@
-# Using on PC
+# Preparing your PS3
 
 * Start ProDG Target Manager and go to "Search For Targets" and press the refresh button to start scanning. Your PS3 should be detected.
 * Right click your PS3 and move it to the "Debugging Station" group and double click on it. It will add your PS3 into your targets list.

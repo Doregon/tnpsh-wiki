@@ -1,4 +1,4 @@
-# Using on PC
+# Forcing Tools to use PS3MAPI
 
 Often times, PC tools are built solely for CCAPI. You can force them to use MAPI by extracting the PS3Lib.dll into the tool's folder from [Fake CCAPI](http://www.mediafire.com/download/znig9z0dsbg6x7k/Fake_CCAPI.rar).
 
