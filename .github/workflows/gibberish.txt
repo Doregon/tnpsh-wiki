@@ -11,6 +11,10 @@ OFW
 HFW
 MFW
 WebKit
+LEDs
+fself
+selfs
+sideloading
 homebrew
 FERROX
 Ferrox
