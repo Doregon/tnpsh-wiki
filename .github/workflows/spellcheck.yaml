@@ -13,6 +13,7 @@ jobs:
     - name: Oh we're just now doing this?
       uses: rojopolis/spellcheck-github-actions@0.9.1
   build:
+    name: dontclickdontclickdontclick
     runs-on: ubuntu-20.04
     steps:
     - uses: actions/checkout@v2
