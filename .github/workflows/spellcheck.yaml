@@ -12,3 +12,15 @@ jobs:
       uses: actions/checkout@v2
     - name: Oh we're just now doing this?
       uses: rojopolis/spellcheck-github-actions@0.9.1
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: AHHH are they broken or what?
+      uses: urlstechie/urlchecker-action@master
+      with:
+        file_types: .md
+        print_all: true
+        timeout: 5
+        retry_count: 3
+        force_pass : true
