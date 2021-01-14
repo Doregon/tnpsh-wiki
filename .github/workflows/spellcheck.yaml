@@ -1,14 +1,14 @@
-name: spellcheck
+name: FOR THE WIKI!! *battle cry*
 
 on:
   push:
 
 jobs:
   spellcheck:
-    name: runner / spellcheck
+    name: Check them spellings then
     runs-on: ubuntu-20.04
     steps:
-    - name: Check out code.
+    - name: Check out that HOT piece of code
       uses: actions/checkout@v2
-    - name: Run PySpelling as a GitHub action
+    - name: Oh we're just now doing this?
       uses: rojopolis/spellcheck-github-actions@0.9.1
