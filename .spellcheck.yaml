@@ -5,7 +5,8 @@ matrix:
     lang: en
   dictionary:
     wordlists:
-    - .gibberish.txt
+    - /.github/workflows/gibberish.txt
+    - /.github/workflows/names.txt
     encoding: utf-8
   pipeline:
     - pyspelling.filters.markdown:
