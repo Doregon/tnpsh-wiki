@@ -24,7 +24,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **March 1st [1.54]**: The first PS2 backup is run using a hardware switch and a swap disk.
 
-**March 4th [1.54]**: PS3HaX.net is created.
+**March 4th [1.54]**: PS3HAX.net is created.
 
 **March 23rd [1.60]**: The PS3 is released in Europe.
 
@@ -107,7 +107,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **December 7th [3.55]**: 3.55 firmware is released, blocking all downgrading methods.
 
-**December 9th [3.55]**: Graf_chokolo releases a lv2 decrypter.
+**December 9th [3.55]**: Graf_chokolo releases a lv2 decryptor.
 
 **December 10th [3.55]**: Segher from Fail0verflow finds the mistake in the ECDSA implementation and [announces it in a private chat](https://twitter.com/fail0verflow/status/22736606922276864).
 
@@ -119,7 +119,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **December 14th [3.55]**: TeaM-ACiD1C release their custom XMB with added debug functions.
 
-**December 27th [3.55]**: Graf_chokolo exploits HV through lv2 gameOS.
+**December 27th [3.55]**: Graf_chokolo exploits HV through lv2 GameOS.
 
 
 # 2011
@@ -160,7 +160,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **February 23rd [3.56]**: Graf_chokolo's home is raided by police; he releases all his work on the Internet, which becomes known as the "Hypervisor Bible".
 
-**February 24th [3.56]**: PS3DevWiki is established by defyboy and eussNL.
+**February 24th [3.56]**: psdevwiki (for PS3) is established by defyboy and eussNL.
 
 **February 25th [3.56]**: It is revealed that Sony is suing graf_chokolo for 750,000 euros.
 
@@ -221,7 +221,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **August 11th [4.11]**: Rogero releases PS3 NOR Dump Auto-Patcher.
 
-**August 18th [4.11]**: Aldo Vargas releases a klicensee brute-force tool called BruteForce/SCETool Decrypter.
+**August 18th [4.11]**: Aldo Vargas releases a klicensee brute-force tool called BruteForce/SCETool Decryptor.
 
 **October 22nd [4.25]**: The Three Musketeers release the lv0 keys.
 
@@ -243,7 +243,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **October 31st [4.50]**: Flatz releases EID Root Key Dumper.
 
-**December 27th [4.53]**: Mysis relelases a plugin to allow the playing of background music while in-game.
+**December 27th [4.53]**: Mysis releases a plugin to allow the playing of background music while in-game.
 
 # 2014
 
@@ -259,7 +259,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **August 7th [4.81]**: Esc0rt3w releases PS3 WebKitSploit and PS3 Playground for 4.81 OFW.
 
-**November 21st [4.82]**: PS3Xploit is released by Bguerville, esc0rtd3w, W, and habib, enabling all downgradeable consoles to install CFW without the need of a hardware flasher.
+**November 21st [4.82]**: PS3Xploit is released by bguerville, Esc0rtd3w, W, and Habib, enabling all downgradeable consoles to install CFW without the need of a hardware flasher.
 
 # 2018
 
@@ -295,7 +295,7 @@ February 14th: Official firmware 4.84 is released.
 
 August 28th: Official firmware 4.85 is released.
 
-**August 2nd**: Zecoxao announces that he obtained the Syscon firmware key.
+**August 2nd**: Zecoxao announces that he obtained the SYSCON firmware key.
 
 # 2020
 
