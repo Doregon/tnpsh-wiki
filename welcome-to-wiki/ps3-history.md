@@ -93,7 +93,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **September 6th [3.42]**: CJCP releases the first homebrew app; an FTP server.
 
-**September 17th [3.42]**: Comgenie releases Comgenies Awesome Filemanager, allowing users to browse their system files and hard drive without FTP.
+**September 17th [3.42]**: Comgenie releases Comgenies Awesome File Manager, allowing users to browse their system files and hard drive without FTP.
 
 **October 1st [3.50]**: Developer AerialX releases PSL1GHT, an open-source SDK.
 
@@ -146,7 +146,7 @@ This page documents the major events of the PS3's history. The full history of t
 
 **January 27th [3.56]**: Firmware 3.56 is released with new keys, effectively blocking the execution of homebrew.
 
-**January 31st [3.56]**: JaicraB releases a patched LV2Diag that allows downgrading of consoles with missing or broken Blu-Ray drives.
+**January 31st [3.56]**: JaiCraB releases a patched LV2Diag that allows downgrading of consoles with missing or broken Blu-Ray drives.
 
 **February 5th [3.56]**: Sony searching for major PS3 hackers including: Cantero, Peter, Bushing, Segher, hermesEOL, kmeaw, Waninkoko, grafchokolo and KaKaRoTo by attempting to subpoena PSX-SCENE, YouTube, Twitter, PayPal and Slashdot.
 
