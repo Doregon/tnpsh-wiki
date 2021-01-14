@@ -6,7 +6,7 @@ description: 'Hello, Redditor.'
 
 ## This is the wiki for r/the\_new\_ps3\_homebrew! We're still working on setting it up, but feel free to take a look at what we've done so far.
 
-![spellcheck](https://github.com/Doregon/tnpsh-wiki/workflows/spellcheck/badge.svg)
+![](https://github.com/Doregon/tnpsh-wiki/workflows/spellcheck/badge.svg)
 
 ### What exactly is this?
 
