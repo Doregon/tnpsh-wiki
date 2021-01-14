@@ -1,11 +1,5 @@
-# Preparing your PS3
+# Using on PC
 
-You will need:
-
-* A PS3 with a DEX firmware \(or REX firmware set to DEX mode\)
-* ProDG Target Manager and ProDG Debugger
-* A [debug EBOOT](https://www.reddit.com/r/ps3homebrew/wiki/eboots) of your game
-* A wired connection to your PS3 \(or place your PS3 in the DMZ of your network for wireless\)
 * Start ProDG Target Manager and go to "Search For Targets" and press the refresh button to start scanning. Your PS3 should be detected.
 * Right click your PS3 and move it to the "Debugging Station" group and double click on it. It will add your PS3 into your targets list.
 * In your targets list, right click on your PS3 and choose "Connect". Once your PS3 is connected, you can start ProDG Debugger. If it prompts you to select a target, select your PS3. You will see a window called "Memory", that’s in this window that you will edit the memory of the game you want.
