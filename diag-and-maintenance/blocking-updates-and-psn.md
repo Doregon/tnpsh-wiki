@@ -1,2 +1,0 @@
-# Blocking Updates and PSN
-

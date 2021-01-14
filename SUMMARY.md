@@ -134,16 +134,16 @@
 
 ## Diagnostics and Maintenance <a id="diag-and-maintenance"></a>
 
-* [Accessing the Recovery Menu](diag-and-maintenance/accessing-the-recovery-menu.md)
-* [Anti-ban EBOOTs](diag-and-maintenance/anti-ban-eboots.md)
-* [Blocking Updates and PSN](diag-and-maintenance/blocking-updates-and-psn.md)
-* [HDD Upgrades](diag-and-maintenance/hdd-upgrades.md)
-* [Dealing with 4GB Files](diag-and-maintenance/dealing-with-4gb-files.md)
-* [QA Flagging](diag-and-maintenance/qa-flagging.md)
-* [Remarrying a Blu-Ray drive](diag-and-maintenance/remarrying-a-blu-ray-drive.md)
-* [Unbanning your console](diag-and-maintenance/unbanning-your-console.md)
-* [Homebrew Troubleshooting](diag-and-maintenance/homebrew-troubleshooting/README.md)
-  * [webMAN](diag-and-maintenance/homebrew-troubleshooting/webman.md)
+* [Accessing the Recovery Menu](diag-and-maintenance/recovery.md)
+* [Anti-ban EBOOTs](diag-and-maintenance/antiban.md)
+* [Blocking Updates and PSN](diag-and-maintenance/blocking-updates.md)
+* [HDD Upgrades](diag-and-maintenance/hdd-upgrade.md)
+* [Dealing with 4GB Files](diag-and-maintenance/4gb-files.md)
+* [QA Flagging](diag-and-maintenance/qa.md)
+* [Remarrying a Blu-Ray drive](diag-and-maintenance/remarry.md)
+* [Unbanning your console](diag-and-maintenance/unban.md)
+* [Homebrew Troubleshooting](diag-and-maintenance/homebrew-specific/README.md)
+  * [webMAN](diag-and-maintenance/homebrew-specific/webman.md)
 
 ## External Sources
 

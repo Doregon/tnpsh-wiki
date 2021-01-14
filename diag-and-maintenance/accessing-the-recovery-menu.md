@@ -1,2 +1,0 @@
-# Accessing the Recovery Menu
-
