@@ -132,18 +132,18 @@
   * [FileZilla](big-stinky-brew/pc-tools/ftp-client.md)
   * [MFW Builder](big-stinky-brew/pc-tools/mfw-building.md)
 
-## Diagnostics and Maintenance
+## Diagnostics and Maintenance <a id="diag-and-maintenance"></a>
 
-* [Accessing the Recovery Menu](diagnostics-and-maintenance/accessing-the-recovery-menu.md)
-* [Anti-ban EBOOTs](diagnostics-and-maintenance/anti-ban-eboots.md)
-* [Blocking Updates and PSN](diagnostics-and-maintenance/blocking-updates-and-psn.md)
-* [HDD Upgrades](diagnostics-and-maintenance/hdd-upgrades.md)
-* [Dealing with 4GB Files](diagnostics-and-maintenance/dealing-with-4gb-files.md)
-* [QA Flagging](diagnostics-and-maintenance/qa-flagging.md)
-* [Remarrying a Blu-Ray drive](diagnostics-and-maintenance/remarrying-a-blu-ray-drive.md)
-* [Unbanning your console](diagnostics-and-maintenance/unbanning-your-console.md)
-* [Homebrew Troubleshooting](diagnostics-and-maintenance/homebrew-troubleshooting/README.md)
-  * [webMAN](diagnostics-and-maintenance/homebrew-troubleshooting/webman.md)
+* [Accessing the Recovery Menu](diag-and-maintenance/accessing-the-recovery-menu.md)
+* [Anti-ban EBOOTs](diag-and-maintenance/anti-ban-eboots.md)
+* [Blocking Updates and PSN](diag-and-maintenance/blocking-updates-and-psn.md)
+* [HDD Upgrades](diag-and-maintenance/hdd-upgrades.md)
+* [Dealing with 4GB Files](diag-and-maintenance/dealing-with-4gb-files.md)
+* [QA Flagging](diag-and-maintenance/qa-flagging.md)
+* [Remarrying a Blu-Ray drive](diag-and-maintenance/remarrying-a-blu-ray-drive.md)
+* [Unbanning your console](diag-and-maintenance/unbanning-your-console.md)
+* [Homebrew Troubleshooting](diag-and-maintenance/homebrew-troubleshooting/README.md)
+  * [webMAN](diag-and-maintenance/homebrew-troubleshooting/webman.md)
 
 ## External Sources
 
