@@ -2,7 +2,7 @@
 description: 'Hello, Redditor.'
 ---
 
-# Welcome. 
+# Welcome.
 
 ## This is the wiki for r/the\_new\_ps3\_homebrew! We're still working on setting it up, but feel free to take a look at what we've done so far.
 
