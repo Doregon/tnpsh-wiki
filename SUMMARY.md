@@ -1,4 +1,4 @@
-y# Table of contents
+# Table of contents
 
 * [Welcome.](README.md)
 
@@ -25,6 +25,10 @@ y# Table of contents
 
 * [Custom, Hybrid, or Modified?](cfw-hfw-mfw/custom-hybrid-or-modified.md)
 * [minverchk](cfw-hfw-mfw/minverchk.md)
+* [Preparing for CFW](cfw-hfw-mfw/prep-cfw/README.md)
+  * [ps3xploit (NOR)](cfw-hfw-mfw/prep-cfw/ps3xploit-nor.md)
+  * [ps3xploit (NAND)](cfw-hfw-mfw/prep-cfw/ps3xploit-nand.md)
+  * [Firmware Flashers](cfw-hfw-mfw/prep-cfw/flashers.md)
 * [Rebug](cfw-hfw-mfw/rebug/README.md)
   * [Installing](cfw-hfw-mfw/rebug/installing.md)
 * [PS3HEN](cfw-hfw-mfw/ps3hen/README.md)
@@ -38,7 +42,6 @@ y# Table of contents
 * [Upgrading Firmware](cfw-hfw-mfw/firmware-upgrading.md)
 * [Previous Exploits](cfw-hfw-mfw/obsolete/README.md)
   * [Optical Drive Emulator](cfw-hfw-mfw/obsolete/ode.md)
-  * [Firmware Flasher](cfw-hfw-mfw/obsolete/flashers.md)
   * [PeXploit](cfw-hfw-mfw/obsolete/pexploit.md)
   * [PS3xploit etHANol](cfw-hfw-mfw/obsolete/han.md)
   * [Data Transfer Utility Exploit](cfw-hfw-mfw/obsolete/dtu.md)
