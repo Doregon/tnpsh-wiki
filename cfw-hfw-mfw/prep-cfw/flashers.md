@@ -1,4 +1,4 @@
-# Firmware Flasher
+# Firmware Flashers
 
 Before installing CFW with USBs was available, people with phat and 2xxx consoles \(minimum version of 3.55 or lower\) used **firmware flashers** to manually downgrade their console by connecting to the NAND/NOR chip and sending a payload through the flasher.
 

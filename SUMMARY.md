@@ -25,9 +25,10 @@
 
 * [Custom, Hybrid, or Modified?](cfw-hfw-mfw/custom-hybrid-or-modified.md)
 * [minverchk](cfw-hfw-mfw/minverchk.md)
-* [Preparing for CFW](cfw-hfw-mfw/prep-cfw/README.md) 
-  * [ps3xploit (NOR)](cfw-hfw-mfw/prep-cfw/ps3xploit-nor.md)
-  * [ps3xploit (NAND)](cfw-hfw-mfw/prep-cfw/ps3xploit-nand.md)
+* [Preparing for CFW](cfw-hfw-mfw/prep-cfw/README.md)
+  * [ps3xploit \(NOR\)](cfw-hfw-mfw/prep-cfw/ps3xploit-nor.md)
+  * [ps3xploit \(NAND\)](cfw-hfw-mfw/prep-cfw/ps3xploit-nand.md)
+  * [bguerville toolset](cfw-hfw-mfw/prep-cfw/bguerville.md)
   * [Firmware Flashers](cfw-hfw-mfw/prep-cfw/flashers.md)
 * [Rebug](cfw-hfw-mfw/rebug/README.md)
   * [Installing](cfw-hfw-mfw/rebug/installing.md)
