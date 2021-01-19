@@ -465,3 +465,6 @@ QuickNES
 FCFU
 Videopac
 GW
+FCEU
+Vectrex
+addingb
