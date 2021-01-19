@@ -28,7 +28,7 @@ You can’t delete, move, or edit the following files.
 * .github/workflows/action.yaml
 * .spellcheck.yaml
 * LICENSE
-* about-the-wiki/acknowlogements.md
+* about-the-wiki/acknowlegements.md
 
 If these files are edited and a pull request is made, the pull request will be rejected.
 
