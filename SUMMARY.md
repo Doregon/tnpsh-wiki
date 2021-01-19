@@ -25,7 +25,7 @@
 
 * [Custom, Hybrid, or Modified?](cfw-hfw-mfw/custom-hybrid-or-modified.md)
 * [minverchk](cfw-hfw-mfw/minverchk.md)
-* [Preparing for CFW](cfw-hfw-mfw/prep-cfw/README.md)
+* [Preparing for CFW](cfw-hfw-mfw/prep-cfw/README.md) 
   * [ps3xploit (NOR)](cfw-hfw-mfw/prep-cfw/ps3xploit-nor.md)
   * [ps3xploit (NAND)](cfw-hfw-mfw/prep-cfw/ps3xploit-nand.md)
   * [Firmware Flashers](cfw-hfw-mfw/prep-cfw/flashers.md)
