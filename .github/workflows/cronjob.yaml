@@ -1,0 +1,20 @@
+name: FOR THE WIKI!! *battle cry*
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build:
+    name: dontclickdontclickdontclick
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: AHHH are they broken or what?
+      uses: urlstechie/urlchecker-action@master
+      with:
+        file_types: .md
+        print_all: true
+        timeout: 5
+        retry_count: 3
+        force_pass : true

@@ -467,4 +467,3 @@ Videopac
 GW
 FCEU
 Vectrex
-addingb
