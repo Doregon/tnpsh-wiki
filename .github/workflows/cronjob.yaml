@@ -2,7 +2,7 @@ name: FOR THE WIKI!! *battle cry*
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build:
