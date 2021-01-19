@@ -1,20 +1,20 @@
 name: 'Close stale issues and PRs'
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    - cron: '0 0,8,16 * * *'
+
 jobs:
   stale:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/stale@v3
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          stale-pr-message: 'This PR hasn't been interacted with in a while. If there's no activity within 10 days, it will be closed.'
-          close-pr-message: 'This PR has been closed and no changes have been merged with the master branch. If you wish to merge your changes, re-open your pull request.'
+          stale-issue-message: 'This issue is stale because it has been open 30 days with no activity. Remove stale label or comment or this will be closed in 5 days.'
+          stale-pr-message: 'This pr is stale because it has been open 45 days with no activity. Remove stale label or comment or this will be closed in 10 days.'
+          close-issue-message: 'This issue was closed because it has been stalled for 5 days with no activity.'
+          close-pr-message: 'This pr was closed because it has been stalled for 10 days with no activity.'
           days-before-issue-stale: 30
-          days-before-pr-stale: 20
-          days-before-issue-close: -1
+          days-before-pr-stale: 45
+          days-before-issue-close: 5
           days-before-pr-close: 10
-          stale-issue-label: 'no-issue-activity'
-          stale-pr-label: 'no-pr-activity'
