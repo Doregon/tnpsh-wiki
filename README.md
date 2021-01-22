@@ -12,7 +12,7 @@ I wanted to provide an organized way of delivering the Wiki to the users, and I 
 
 ![](.gitbook/assets/screen-shot-2020-12-16-at-7.06.36-pm.png)
 
-I want to make this a little easier to use and get you where you need to be.
+I want to make this a little easier to use and get you where you need to be. 
 
 The sidebar you see to the left acts as an index, you can click the arrows next to section headings to get where you need to go quickly and only have the information that you need.
 
