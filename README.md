@@ -2,7 +2,7 @@
 description: 'Hello, Redditor.'
 ---
 
-# Welcome.
+# Welcome. 
 
 ## This is the wiki for r/the\_new\_ps3\_homebrew! We're still working on setting it up, but feel free to take a look at what we've done so far.
 
@@ -16,5 +16,5 @@ I want to make this a little less messy.
 
 The sidebar you see to the left acts as an index, you can click the arrows next to section headings to get where you need to go quickly and only have the information that you need.
 
-### Check out the FAQ for right now, we'll get more pages added as time goes on.
+### Check out the FAQ for right now, we'll get more pages completed as time goes on.
 
