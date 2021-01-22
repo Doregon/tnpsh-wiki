@@ -14,7 +14,7 @@ I wanted to provide an organized way of delivering the Wiki to the users, and I 
 
 I want to make this a little easier to use and get you where you need to be. 
 
-The sidebar you see to the left acts as an index, you can click the arrows next to section headings to get where you need to go quickly and only have the information that you need.
+The sidebar you see to the left acts as an index, you can click the arrows next to section headings to get where you need to go quickly and only provide the information that you need.
 
 ### Check out the FAQ for right now, we'll get more pages completed as time goes on.
 
