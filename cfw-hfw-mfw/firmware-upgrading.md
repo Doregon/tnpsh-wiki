@@ -1,11 +1,14 @@
-# Upgrading Firmware
+# Upgrading Firmware to CFW
 
-## Updating the Firmware
+Ready to dive into the custom firmware world?
+
+## Upgrading the Firmware
 
 1. Remove any disks in the Blu-Ray drive and disconnect the console from the Internet. 
 2. Create a folder called "PS3" on the root of your USB storage device. 
 3. Create a folder within the PS3 folder called "UPDATE". 
-4. Place the desired firmware within the UPDATE folder and rename it "PS3UPDAT.PUP". 
+4. Download your desired CFW of equal or higher version, or a CFW spoofed to the latest version. The most recent firmwares can be found [on this page](https://www.reddit.com/r/ps3homebrew/wiki/firmwares). Regardless of which firmware you choose, [verify the MD5 hash](https://www.reddit.com/r/ps3homebrew/wiki/md5) of the .PUP file to ensure that the file is not corrupt.
+   * In order to go to a lower version CFW, you must install a CFW of equal or higher version and then install the [Habib QA Toggle PKG](http://www.mediafire.com/file/kdmyl2g967y15m7/toggleqa.pkg), run it, and reboot before you can install the desired CFW. 
    * If you are on Windows and have file extensions hidden, name it "PS3UPDAT" instead
    * **Rebug releases their firmwares as ZIP files which contain a link to the actual firmware download. A firmware update should have the extension .PUP**
 5. Plug your USB storage device into your PS3. 
