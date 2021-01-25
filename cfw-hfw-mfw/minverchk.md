@@ -2,7 +2,7 @@
 
 If your console is one of the 2xxx or 25xx slims, you'll need this too to find out whether or not your console is compatible!
 
-Minimum Version Checker \(minverchk\) probes your system to find out what the minimum downgrade praxis \(discussed on the [About Jailbreaking](https://github.com/Doregon/tnpsh-wiki/tree/ae7c73791a78d550e3cf4e2c6e08f41779fd3a83/welcome-to-wiki/about-jailbreaking/README.md) page\) is on your console.
+Minimum Version Checker \(minverchk\) probes your system to find out what the minimum downgrade praxis \(discussed on the [About Jailbreaking](../welcome-to-wiki/about-jailbreaking/README.md) page\) is on your console.
 
 To start, we'll need some things:
 
@@ -23,7 +23,7 @@ To start, we'll need some things:
 
 minverchk will cause an error but will now display a screen similar to this:
 
-!\[minverchk\]../.gitbook/assets/minverchk\_demo.jpg\)
+!\[minverchk\]../.gitbook/assets/minverchk-demo.jpg\)
 
 **If it shows 3.55 or lower**, you can use a full CFW like [Rebug](rebug/) or [Ferrox](ferrox/).
 
