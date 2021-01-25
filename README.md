@@ -10,7 +10,7 @@ description: 'Hello, Redditor.'
 
 I wanted to provide an organized way of delivering the Wiki to the users, and I found the perfect platform, that looks nice and provides a good way of switching between pages. It'll use what was typed in the original wiki as a base, but...
 
-![](.gitbook/assets/screen-shot-2020-12-16-at-7.06.36-pm.png)
+![](.gitbook/assets/messy-front-page.png)
 
 I want to make this a little easier to use and get you where you need to be. 
 
