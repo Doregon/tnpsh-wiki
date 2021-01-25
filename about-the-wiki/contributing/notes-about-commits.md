@@ -8,7 +8,7 @@ Above your fork's files, you'll see a toolbar like this.
 
 **This branch is x commits ahead** shows how many commits you've made since you last interacted with my repo \(by pull request or fork\). Note that it's not the number of files you've changed \(unless you've changed each file individually, only once\), but rather how many times you've hit the **Commit** button.
 
-**This branch is y commits behind** shows how many commits you've missed from my branch since you last interacted with my repo \(by pull request or fork\). This number will go up with each commit I make to my repo, as well as by **two or more** with every pull request that is accepted on the main repository. 
+**This branch is y commits behind** shows how many commits you've missed from my branch since you last interacted with my repo \(by pull request or fork\). This number will go up with each commit I make to my repo, as well as by **two or more** with every pull request that is accepted on the main repository.
 
 Let's explain this a little better: let's say that there's three people involved in this scenario.
 

@@ -1,4 +1,4 @@
-# Upgrading Firmware to CFW
+# Upgrading Firmware
 
 Ready to dive into the custom firmware world?
 
