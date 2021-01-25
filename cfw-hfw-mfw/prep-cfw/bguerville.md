@@ -9,3 +9,4 @@ The bguerville toolset is fairly easy to use and provides tools to patch your fi
 ## Patching your flash
 
 The process of patching your flash to get ready for CFW is easy--you just have to know what to do from here. You'll also need to have a CFW compatible PlayStation, this won't work for non-CFW models.
+

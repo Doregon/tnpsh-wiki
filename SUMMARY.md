@@ -29,7 +29,7 @@
   * [ps3xploit \(NOR\)](cfw-hfw-mfw/prep-cfw/ps3xploit-nor.md)
   * [ps3xploit \(NAND\)](cfw-hfw-mfw/prep-cfw/ps3xploit-nand.md)
   * [bguerville toolset](cfw-hfw-mfw/prep-cfw/bguerville.md)
-  * [Firmware Flashers](cfw-hfw-mfw/prep-cfw/flashers.md)
+  * [Firmware Flashers](cfw-hfw-mfw/prep-cfw/firmware-flashers.md)
 * [Rebug](cfw-hfw-mfw/rebug/README.md)
   * [Installing](cfw-hfw-mfw/rebug/installing.md)
 * [PS3HEN](cfw-hfw-mfw/ps3hen/README.md)

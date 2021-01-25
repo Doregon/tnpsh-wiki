@@ -2,7 +2,7 @@
 
 If your console is one of the 2xxx or 25xx slims, you'll need this too to find out whether or not your console is compatible!
 
-Minimum Version Checker \(minverchk\) probes your system to find out what the minimum downgrade praxis \(discussed on the [About Jailbreaking](../welcome-to-wiki/about-jailbreaking/README.md) page\) is on your console.
+Minimum Version Checker \(minverchk\) probes your system to find out what the minimum downgrade praxis \(discussed on the [About Jailbreaking](https://github.com/Doregon/tnpsh-wiki/tree/447f91fc02f93f3f3e121debcda903d9d9144c24/welcome-to-wiki/about-jailbreaking/README.md) page\) is on your console.
 
 To start, we'll need some things:
 
