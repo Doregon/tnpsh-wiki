@@ -7,7 +7,6 @@ matrix:
     wordlists:
     - .github/workflows/gibberish.txt
     - .github/workflows/names.txt
-    - .github/workflows/abbreviations.txt
     encoding: utf-8
   pipeline:
     - pyspelling.filters.markdown:
