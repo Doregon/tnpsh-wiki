@@ -18,19 +18,17 @@ If you pass the spellcheck operation, you're all set and good to go! However, if
 
 Certain files aren’t allowed to be edited, unless specific permission is granted or, in some cases, you are a moderator. The following will occur depending on the situation:
 
-1. **Items that cannot be modified**
+**Items that cannot be modified**
 
 You can’t delete, move, or edit the following files.
 
-* .gitbook.yaml
-* .github/workflows/action.yaml
-* .spellcheck.yaml
+* any file with the .yaml extension
 * LICENSE
 * about-the-wiki/acknowledgments.md
 
 If these files are edited and a pull request is made, the pull request will be rejected.
 
-1. **Items that cannot be modified, unless replaced.**
+**Items that cannot be modified, unless replaced.**
 
 You can’t delete, move, or edit these files unless you have a replacement and you verify everything still works together.
 
@@ -38,3 +36,30 @@ You can’t delete, move, or edit these files unless you have a replacement and 
 
 **NOTE**: Don’t organize any assets into folders. The best we can do is rename each asset to a descriptive name, but using folders can get screwed up once GitBook pushes a new commit.
 
+**Items that cannot have their original contents deleted.**
+
+* .github/workflows/gibberish.txt
+* .github/workflows/names.txt
+
+You can add to these files if you need to, but you cannot delete any of the existing content.
+
+### 3. Branches
+
+Commits should be made to the **bleeding** branch. We'll need time to review the contributions and possibly make changes to your and ours before they hit the wiki.
+
+Any commits to the master branch will be rejected. However, you can merge the master branch with the bleeding branch to keep your commits up to date by:
+
+* Click the **Pull Requests** tab at the top of the window.
+* Go into **New pull request**.
+* Make sure that base is set to `**bleeding**` and compare is set to `**master**`.
+* Follow through all the steps to make a pull request and submit it to yourself.
+* Back in the Pull Requests tab, select the one you just made.
+* Select **Merge** in the section with the actions. You have to wait for the spellchecker to complete in order to click Merge.
+
+Once you're done committing to the bleeding branch, you can submit your edits by doing the following:
+
+* Click the **Pull Request** tab at the top of the window. 
+* Go into **New pull request**.
+* Above the toolbar with the base and compare dropdowns, click **Compare across forks**.
+* Make sure that base is set to `**Doregon:bleeding**` and compare is set to `**<your name>:bleeding**`.
+* Follow through all the steps to make a pull request and submit it.
