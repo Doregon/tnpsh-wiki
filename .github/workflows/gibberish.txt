@@ -1,4 +1,6 @@
 Deinstall
+eSATA
+XBOXONE
 NANDway
 aspx
 ahk

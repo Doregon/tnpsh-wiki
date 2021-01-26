@@ -21,7 +21,7 @@ CECH-3000+|Cannot downgrade
 - ProgSkeet
     - A JTAG programmer such as Injectus if using a solderless clip or ProgSkeet 1.2 / 1.21 (to update the bitstream)
 
-- NOR only: 20 AWG to 26 AWG wire (CAT5, CAT5e, and CAT6 ethernet cable wires work perfectly)
+- NOR only: 20 AWG to 26 AWG wire (CAT5, CAT5e, and CAT6 Ethernet cable wires work perfectly)
 
 - NAND only: 28-30 AWG wire
 
@@ -35,7 +35,7 @@ CECH-3000+|Cannot downgrade
 
 - Downgrading files pack found on [Mega](https://mega.nz/#!H5cFgaSJ!0klsHOl7ADGoXU6n6qlqkBpM32f_Ib_NlPpqq-0oS5M), [FileDropper](http://www.filedropper.com/ufpgv460), or [FileFactory](http://www.filefactory.com/file/54fh8w24dga5/U.F.P.G.%20V4.60.exe) (U.F.P.G. v4.60)
 
-- Optional: 360clip (solderless), ProgSkeet NAND solderless adapater (NAND only) or a UniClip.
+- Optional: 360clip (solderless), ProgSkeet NAND solderless adapter (NAND only) or a UniClip.
 
     56-pin is a NOR clip, 48-pin is a NAND clip
 
@@ -132,14 +132,14 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
 
 4. The device will be detected and the Install New Hardware wizard will run. Select "Not this time" if given the option.
 
-5. Select "Install from a list or specific location" → Browse to Location → Select "C:\Users\<username>\Desktop\ProgSkeet 1.1  Programs\Setup Files\drivers_winusb_111121\" and finish installation.
+5. Select "Install from a list or specific location" → Browse to Location → Select "C:\Users\<username>\Desktop\ProgSkeet 1.1  Programs\Setup Files\drivers_WinUSB_111121\" and finish installation.
 
 
 # Taking Backup Dumps (NAND)
 
 1. Connect your ProgSkeet to your PC via USB cable.
 
-2. Browse to C:\Users\<username>\Desktop\ProgSkeet 1.1 NAND Progams\WinSkeet111205 and run WinSkeet40000.
+2. Browse to C:\Users\<username>\Desktop\ProgSkeet 1.1 NAND Programs\WinSkeet111205 and run WinSkeet40000.
 
 3. Under the Presets section, select the drop-down menu and select Dual NAND.
 
