@@ -2,9 +2,10 @@
 
 # Downgrading your Console with ProgSkeet 
 
-To minimize the chance of bricking, do NOT skip any of the following sections. This process will use a ProgSkeet to downgrade your console to 3.55 official firmware to allow the installation of custom firmware. Check to make sure that your [console is downgrade compatible](https://www.reddit.com/r/ps3homebrew/wiki/how_to_hack). A manual for the ProgSkeet can be found [here](http://web.archive.org/web/20160512123145/http://www.progskeet.com/downloads/PROGSKEET1.2-MANUAL.pdf).
+To minimize the chance of bricking, do NOT skip any of the following sections. This process will use a ProgSkeet to downgrade your console to 3.55 official firmware to allow the installation of custom firmware. Check to make sure that your [console is downgrade compatible](https://www.reddit.com/r/ps3homebrew/wiki/how_to_hack). A manual for the ProgSkeet can be found [here](http://web.archive.org/web/20160512123145/http://www.ProgSkeet.com/downloads/ProgSkeet1.2-MANUAL.pdf).
 
-# NAND or NOR?
+# NAND or NOR?
+
 You will need to check the model number on the back of your console and compare it to the chart below to determine if your console is NAND-based or NOR-based.
 
 Model|Flash
@@ -34,16 +35,17 @@ CECH-3000+|Cannot downgrade
 
 - Downgrading files pack found on [Mega](https://mega.nz/#!H5cFgaSJ!0klsHOl7ADGoXU6n6qlqkBpM32f_Ib_NlPpqq-0oS5M), [FileDropper](http://www.filedropper.com/ufpgv460), or [FileFactory](http://www.filefactory.com/file/54fh8w24dga5/U.F.P.G.%20V4.60.exe) (U.F.P.G. v4.60)
 
-- Optional: 360clip (solderless), Progskeet NAND solderless adapater (NAND only) or a UniClip.
+- Optional: 360clip (solderless), ProgSkeet NAND solderless adapater (NAND only) or a UniClip.
 
     56-pin is a NOR clip, 48-pin is a NAND clip
 
-# Updating Bitstream (Injectus)
+# Updating Bitstream (Injectus)
+
 Only complete this section if your ProgSkeet came without being fully programmed, which is the case with a new 1.2 or 1.21, or if you are using a solderless clip.
 
 1. Connect the FCC 15 pin from the ProgSkeet to the Injectus programmer.
 
-2. Download and extract the [Infectus Programmer Package](http://www.progskeet.com/forum/viewtopic.php?f=10&t=3948) to your desktop.
+2. Download and extract the [Infectus Programmer Package](http://www.ProgSkeet.com/forum/viewtopic.php?f=10&t=3948) to your desktop.
 
 3. Connect USB cable from Injectus to the USB port of your PC. It will prompt you to install a driver. Select the driver located in the "USB Drivers 3.1" folder. 
 
@@ -57,7 +59,7 @@ Only complete this section if your ProgSkeet came without being fully programmed
 
     **ProgSkeet 1.2 / 1.21**
 
-   • [Winskeet_130721_0313.rar](http://www.sendspace.com/file/kss22d) (NAND/NOR)
+   • [WinSkeet_130721_0313.rar](http://www.sendspace.com/file/kss22d) (NAND/NOR)
 
 
 5. Run InfectusProgrammer_3.9.9.0.exe and click Tools → Open Infectus.
@@ -71,9 +73,9 @@ On the ProgSkeet board, two jumpers need to be bridged together with solder. The
 
 You will need to connect your ProgSkeet to the first NAND (Flash0) using the "A" side of the Y-Adapter.
 
-If using a clip, you will need to solder a wire from the 3.3V pad on the Y-Adapter to the 3.3V pad on the ProgSkeet. If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged directly into the ProgSkeet. If using a Uniclip, it must be soldered onto the ProgSkeet using [this diagram](http://web.archive.org/web/20160506162928/http://www.360-clip.com/UNI-CLIP-48-03.jpg). It is recommended to clean the pins on your clip with rubbing alcohol and a Q-tip before connecting it. Before attaching the clip sockets to the motherboard, check that there are no tiny components in the way that will prevent it from sitting flush; if there are, shave plastic off of the bottom of your chip until it will sit flush. Some motherboards require the shaving of an entire side of the clip to fit in place. 
+If using a clip, you will need to solder a wire from the 3.3V pad on the Y-Adapter to the 3.3V pad on the ProgSkeet. If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged directly into the ProgSkeet. If using a UniClip, it must be soldered onto the ProgSkeet using [this diagram](http://web.archive.org/web/20160506162928/http://www.360-clip.com/UNI-CLIP-48-03.jpg). It is recommended to clean the pins on your clip with rubbing alcohol and a Q-tip before connecting it. Before attaching the clip sockets to the motherboard, check that there are no tiny components in the way that will prevent it from sitting flush; if there are, shave plastic off of the bottom of your chip until it will sit flush. Some motherboards require the shaving of an entire side of the clip to fit in place. 
 
-If you are not using a clip, check around the edges of your motherboard to find the motherboard model number printed on the board. Click the link for your motherboard model and solder the contact points of the ProgSkeet to the corresponding contact point on the motherboard. You may have to use one of the following ProgSkeet diagrams to match the pins: [ProgSkeet 1.0/1.1](http://web.archive.org/web/20160511152500/http://www.consoleopen.com/forum/images/tutorial/Ps3/Downgrade_Ps3_NOR_Native_3.56/Nor_Retail_ProgSkeet_1.jpg), [ProgSkeet 1.2/1.21](http://web.archive.org/web/20160511152431/http://www.kingx.de/pic/img/Progskeet-1.2-Loetpunkte.PNG). You only need to solder to one GND point on the motherboard. 
+If you are not using a clip, check around the edges of your motherboard to find the motherboard model number printed on the board. Click the link for your motherboard model and solder the contact points of the ProgSkeet to the corresponding contact point on the motherboard. You may have to use one of the following ProgSkeet diagrams to match the pins: [ProgSkeet 1.0/1.1](http://web.archive.org/web/20160511152500/http://www.consoleopen.com/forum/images/tutorial/Ps3/Downgrade_Ps3_NOR_Native_3.56/Nor_Retail_ProgSkeet_1.jpg), [ProgSkeet 1.2/1.21](http://web.archive.org/web/20160511152431/http://www.kingx.de/pic/img/ProgSkeet-1.2-Loetpunkte.PNG). You only need to solder to one GND point on the motherboard. 
 
 [COK-001](http://web.archive.org/web/20160511122622/http://www.psdevwiki.com/ps3/images/5/52/COK-001_NAND_traces.jpg)
 
@@ -91,7 +93,7 @@ On the ProgSkeet board, two jumpers need to be bridged together with solder, and
 
 Check around the edges of your motherboard to find the motherboard model number printed on the board. Click the link for your motherboard model and solder the contact points of the ProgSkeet to the corresponding contact point on the motherboard. 
 
-If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged directly into the ProgSkeet. If using a Uniclip, it must be soldered onto the ProgSkeet using [this diagram](http://web.archive.org/web/20160506162928/http://www.360-clip.com/UNI-CLIP-48-03.jpg). It is recommended to clean the pins on your clip with rubbing alcohol and a Q-tip before connecting it. Before attaching the clip, check that there are no tiny components in the way that will prevent it from sitting flush; if there are, shave plastic off of the bottom of your chip until it will sit flush.
+If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged directly into the ProgSkeet. If using a UniClip, it must be soldered onto the ProgSkeet using [this diagram](http://web.archive.org/web/20160506162928/http://www.360-clip.com/UNI-CLIP-48-03.jpg). It is recommended to clean the pins on your clip with rubbing alcohol and a Q-tip before connecting it. Before attaching the clip, check that there are no tiny components in the way that will prevent it from sitting flush; if there are, shave plastic off of the bottom of your chip until it will sit flush.
 
 
 [DYN-001](http://web.archive.org/web/20160511132418/http://i.imgur.com/cynUEDp.png)
@@ -109,7 +111,7 @@ Remove the R7 bridge and solder the two R8 pads together to put the ProgSkeet in
 
 Check around the edges of your motherboard to find the motherboard model number printed on the board. Click the link for your motherboard model and solder the contact points of the ProgSkeet to the corresponding contact point on the motherboard. 
 
-If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged directly into the ProgSkeet. If using a Uniclip, it must be soldered onto the ProgSkeet using [this diagram](http://web.archive.org/web/20160506162928/http://www.360-clip.com/UNI-CLIP-48-03.jpg). It is recommended to clean the pins on your clip with rubbing alcohol and a Q-tip before connecting it. Before attaching the clip, check that there are no tiny components in the way that will prevent it from sitting flush; if there are, shave plastic off of the bottom of your chip until it will sit flush.
+If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged directly into the ProgSkeet. If using a UniClip, it must be soldered onto the ProgSkeet using [this diagram](http://web.archive.org/web/20160506162928/http://www.360-clip.com/UNI-CLIP-48-03.jpg). It is recommended to clean the pins on your clip with rubbing alcohol and a Q-tip before connecting it. Before attaching the clip, check that there are no tiny components in the way that will prevent it from sitting flush; if there are, shave plastic off of the bottom of your chip until it will sit flush.
 
 [DYN-001](http://web.archive.org/web/20160511092809/http://i.imgur.com/6dAVI.jpg)
 
@@ -130,14 +132,14 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
 
 4. The device will be detected and the Install New Hardware wizard will run. Select "Not this time" if given the option.
 
-5. Select "Install from a list or specific location" → Browse to Location → Select "C:\Users\<username>\Desktop\Progskeet 1.1  Programs\Setup Files\drivers_winusb_111121\" and finish installation.
+5. Select "Install from a list or specific location" → Browse to Location → Select "C:\Users\<username>\Desktop\ProgSkeet 1.1  Programs\Setup Files\drivers_winusb_111121\" and finish installation.
 
 
 # Taking Backup Dumps (NAND)
 
 1. Connect your ProgSkeet to your PC via USB cable.
 
-2. Browse to C:\Users\<username>\Desktop\Progskeet 1.1 NAND Progams\Winskeet111205 and run WinSkeet40000.
+2. Browse to C:\Users\<username>\Desktop\ProgSkeet 1.1 NAND Progams\WinSkeet111205 and run WinSkeet40000.
 
 3. Under the Presets section, select the drop-down menu and select Dual NAND.
 
@@ -156,14 +158,14 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
 10. Select the Dump button. It will prompt you to save the backup. Create a folder called "dumps" and enter it. Name the backup "NAND Flash1 - 1". It will take about 12 minutes. Repeat the process two more times and name the new backups "NAND Flash1 - 2" and "NAND Flash1 - 3".
  * If you receive verification errors, it may be due to incorrect wiring, use of 30AWG wire, wires being too long, a bad USB cable, interference, bad grounding, or bad luck. 
 
-11. On your PC, browse to C:\Users\<username>\Desktop\Progskeet 1.1 NAND Programs\ and run FlowRebuilder v.4.2.2.0. Select "UNSCRAMBLE then interleave two NAND flashes into one unified dump". In the Flash 0 field, browse to your dumps folder and select "NAND Flash0 - 1". In the Flash 1 field, browse to your dumps folder and select "NAND Flash1 - 1". Under the "Select the OUTPUT (interleaved) file", browse to your dumps folder, create a new folder called "extracted" and enter it; name the file as "dump 1". Select Execute Operation. Repeat this process with the two other NAND dump sets, changing the output file to "dump 2", and finally "dump 3". Verify that there are now three files located in the extracted folder. If you are missing any, try to join the dumps again. If they still are missing, you will need to redo all of the dumps completely.
+11. On your PC, browse to C:\Users\<username>\Desktop\ProgSkeet 1.1 NAND Programs\ and run FlowRebuilder v.4.2.2.0. Select "UNSCRAMBLE then interleave two NAND flashes into one unified dump". In the Flash 0 field, browse to your dumps folder and select "NAND Flash0 - 1". In the Flash 1 field, browse to your dumps folder and select "NAND Flash1 - 1". Under the "Select the OUTPUT (interleaved) file", browse to your dumps folder, create a new folder called "extracted" and enter it; name the file as "dump 1". Select Execute Operation. Repeat this process with the two other NAND dump sets, changing the output file to "dump 2", and finally "dump 3". Verify that there are now three files located in the extracted folder. If you are missing any, try to join the dumps again. If they still are missing, you will need to redo all of the dumps completely.
 
 
 # Taking Backup Dumps (NOR)
 
 1. Connect your ProgSkeet to your PC via USB cable.
 
-2. Browse to C:\Users\<username>\Desktop\Progskeet 1.1 NOR Programs\Winskeet111205 and run WinSkeet40000.
+2. Browse to C:\Users\<username>\Desktop\ProgSkeet 1.1 NOR Programs\WinSkeet111205 and run WinSkeet40000.
 
 3. Under the Presets section, select the drop-down menu and select the model number of your NOR chip, or select Dual NAND. You can find the model number of the NOR by looking on top of the chip on the motherboard.
 
@@ -215,7 +217,7 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
 
 11. **Attach console fan and heat sinks attached back onto your motherboard if they were taken off, and plug the fan power cable in**. Turn the PS3 back on. Depending on your firmware version, your PS3 may boot to recovery mode, or straight to the XMB. Do not panic if it boots to recovery mode. If you make it to this point, your console successfully took the patched dump. If it did not, try reflashing again.
 
-12. Follow the [instructions to install CFW](https://www.reddit.com/r/ps3homebrew/wiki/installing_cfw) or follow [this guide](https://www.reddit.com/r/ps3homebrew/wiki/general_setup) for a recommendation of firmware and applications. You can go directly to a 4.XX CFW. If you are looking to go to a 3.XX firmware, make sure to use Rogero or Rebug "Downgrader" firmware, then your desired firmware. Keep in mind that if your MinVerChk reported "3.56" as the minimum, you can not install a 3.55 firmware.
+12. Follow the [instructions to install CFW](https://www.reddit.com/r/ps3homebrew/wiki/installing_cfw) or follow [this guide](https://www.reddit.com/r/ps3homebrew/wiki/general_setup) for a recommendation of firmware and applications. You can go directly to a 4.XX CFW. If you are looking to go to a 3.XX firmware, make sure to use Rogero or Rebug "Downgrader" firmware, then your desired firmware. Keep in mind that if your minverchk reported "3.56" as the minimum, you can not install a 3.55 firmware.
 
 
 # Patching and Flashing (NOR)
@@ -285,9 +287,10 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
  
 8. **Attach console fan and heat sinks attached back onto your motherboard if they were taken off, and plug the fan power cable in**. Turn the PS3 back on. Depending on your firmware version, your PS3 may boot to recovery mode, or straight to the XMB. Do not panic if it boots to recovery mode. If you make it to this point, your console successfully took the patched dump. If it did not, try reflashing again and make sure you used the right Diff file.
 
-7. Follow the [instructions to install CFW](https://www.reddit.com/r/ps3homebrew/wiki/installing_cfw) or follow [this guide](https://www.reddit.com/r/ps3homebrew/wiki/general_setup) for a recommendation of firmware and applications. You can go directly to a 4.XX CEX or REX CFW that is of an equal or higher number to the OFW version you are on. If you are looking to go to a lower firmware, make sure to use Rogero or Rebug "Downgrader" firmware, then your desired firmware. **Keep in mind that if your MinVerChk reported "3.56" as the minimum, do not install a 3.55 or lower firmware**.
+7. Follow the [instructions to install CFW](https://www.reddit.com/r/ps3homebrew/wiki/installing_cfw) or follow [this guide](https://www.reddit.com/r/ps3homebrew/wiki/general_setup) for a recommendation of firmware and applications. You can go directly to a 4.XX CEX or REX CFW that is of an equal or higher number to the OFW version you are on. If you are looking to go to a lower firmware, make sure to use Rogero or Rebug "Downgrader" firmware, then your desired firmware. **Keep in mind that if your minverchk reported "3.56" as the minimum, do not install a 3.55 or lower firmware**.
 
-# Bad Flash Recovery
+# Bad Flash Recovery
+
 In the event that something goes wrong, and your console is not working properly (or "bricked"), you may be able to recover it. First try flashing the patched dump again. If that doesn't work and you have your original backup dump from the "Taking Backup Dumps" section above, flash the backup dump to your console. If you have a NOR console and your PS3 won't stay on, you must solder a wire between the TRISTATE point and a GND connection on your motherboard; you will need to remove this after flashing. You may be able to get away with taping a wire down or having someone hold one to the points if you do not have soldering tools.
 
-* If you still can't get a good dump, you can try and modify someone else's dump to work with your console. Once you obtain someone else's NAND/NOR dump, you will have to open it up with a hex editor such as [HxD](https://mh-nexus.de/en/downloads.php) and compare it with yours. You will need to copy information marked as red on this chart ([NAND](https://web.archive.org/web/20141119050029/http://www.psdevwiki.com/ps3/Flash#NAND_Flash)/[NOR](https://web.archive.org/web/20141119050029/http://www.psdevwiki.com/ps3/Flash#NOR_Flash)) from your backup to the other one to construct a working one. Hopefully, you have enough information that the dump checker will consider it as a valid dump.
+* If you still can't get a good dump, you can try and modify someone else's dump to work with your console. Once you obtain someone else's NAND/NOR dump, you will have to open it up with a hex editor such as [HxD](https://mh-nexus.de/en/downloads.php) and compare it with yours. You will need to copy information marked as red on this chart ([NAND](https://web.archive.org/web/20141119050029/http://www.psdevwiki.com/ps3/Flash#NAND_Flash)/[NOR](https://web.archive.org/web/20141119050029/http://www.psdevwiki.com/ps3/Flash#NOR_Flash)) from your backup to the other one to construct a working one. Hopefully, you have enough information that the dump checker will consider it as a valid dump.

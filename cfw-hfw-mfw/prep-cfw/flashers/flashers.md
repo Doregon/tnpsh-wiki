@@ -6,4 +6,4 @@ before, or don't really care if you brick your PlayStation 3, go ahead and follo
 these steps. If you want to be on the safe side, I'd recommend using the ps3xploit or bguerville pages if you wish to 
 prepare for CFW.**
 
-Firmware flashing involves directly modifying your console’s flash memory (the NAND or the NOR chip) to downgrade. Before attemtping, however, find out if your console has a NAND or NOR chip. 
+Firmware flashing involves directly modifying your console's flash memory (the NAND or the NOR chip) to downgrade. Before attempting, however, find out if your console has a NAND or NOR chip. 

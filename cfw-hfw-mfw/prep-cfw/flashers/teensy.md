@@ -4,7 +4,8 @@
 
 To minimize the chance of bricking, do NOT skip any of the following sections. This process will use a Teensy to downgrade your console to 3.55 official firmware to allow the installation of custom firmware. Check to make sure that your [console is downgrade compatible](https://www.reddit.com/r/ps3homebrew/wiki/how_to_hack).
 
-# NAND or NOR?
+# NAND or NOR?
+
 You will need to check the model number on the back of your console and compare it to the chart below to determine if your console is NAND-based or NOR-based.
 
 Model|Flash
@@ -23,7 +24,7 @@ Materials Needed
 
 * [3.3V voltage regulator](http://www.pjrc.com/store/mcp1825.html) if powering from USB
 
-* NOR only: 20 AWG to 26 AWG wire (26 AWG recommended; ethernet cable wires work great) **OR** [female jumper wires](https://www.amazon.com/s/field-keywords=female%20jumper%20wires) which eliminate the need to solder on your Teensy
+* NOR only: 20 AWG to 26 AWG wire (26 AWG recommended; Ethernet cable wires work great) **OR** [female jumper wires](https://www.amazon.com/s/field-keywords=female%20jumper%20wires) which eliminate the need to solder on your Teensy
 
 * NAND only: 28-30 AWG wire **OR** [female jumper wires](https://www.amazon.com/s/field-keywords=female%20jumper%20wires) which eliminate the need to solder on your Teensy
 
@@ -84,7 +85,8 @@ We will need to modify the Teensy so that it does not provide too much power to 
 Using pliers on your [extra header pins](http://www.pjrc.com/store/header_12x1.html), break away two sets of 4 pins, and one set of 2 pins. With the two large rows of pins facing up, place the short side of the extra pins into the holes in the center of the Teensy, and solder them in place. They should look just like the two built-in rows of pins. Repeat the process for the set of 2 pins.  
 
 
-# Soldering (NOR)
+# Soldering (NOR)
+
 Check around the edges of your motherboard to find the motherboard model number printed on the board. Click the link for your motherboard model and solder the contact points of the Teensy to the corresponding contact point on the motherboard. Only solder the 3.3V point to VCC if you plan on powering your Teensy off of the motherboard power, meaning you did *not* install a voltage regulator. You only need to solder to one GND point on the motherboard. If you are using female jumper wires, cut one end off of the wires to solder onto the PS3 and plug the other end into the Teensy.
 
 If using a clip, see the respective diagram: [NOR 360clip](http://web.archive.org/web/20160506162659/http://i.imgur.com/zwxI43O.jpg), [UniClip](http://web.archive.org/web/20160506162716/http://i.imgur.com/8iONJT1.jpg). It is recommended to clean the pins on your clip with rubbing alcohol and a Q-tip before soldering it. Before attaching the clip, check that there are no tiny components in the way that will prevent it from sitting flush; if there are, shave plastic off of the bottom of your chip until it will sit flush.
@@ -171,7 +173,7 @@ If using a clip, see the respective diagram: [NAND 360clip](http://web.archive.o
 
 9. **Attach console fan and heat sinks attached back onto your motherboard if they were taken off, and plug the fan power cable in**. Turn the PS3 back on. Depending on your firmware version, your PS3 may boot to recovery mode, or straight to the XMB. If you make it to this point, your console successfully took the patched dump and you can remove the Teensy if desired. If it did not, try reflashing again and make sure you used the right Diff file.
 
-7. Follow the [instructions to install CFW](https://www.reddit.com/r/ps3homebrew/wiki/installing_cfw) or follow [this guide](https://www.reddit.com/r/ps3homebrew/wiki/general_setup) for a recommendation of firmware and applications. You can go directly to a 4.XX CEX or REX CFW that is of an equal or higher number to the OFW version you are on. If you are looking to go to a lower firmware, make sure to use Rogero or Rebug "Downgrader" firmware, then your desired firmware. **Keep in mind that if your MinVerChk reported "3.56" as the minimum, do not install a 3.55 or lower firmware**.
+7. Follow the [instructions to install CFW](https://www.reddit.com/r/ps3homebrew/wiki/installing_cfw) or follow [this guide](https://www.reddit.com/r/ps3homebrew/wiki/general_setup) for a recommendation of firmware and applications. You can go directly to a 4.XX CEX or REX CFW that is of an equal or higher number to the OFW version you are on. If you are looking to go to a lower firmware, make sure to use Rogero or Rebug "Downgrader" firmware, then your desired firmware. **Keep in mind that if your minverchk reported "3.56" as the minimum, do not install a 3.55 or lower firmware**.
 
 # Bad Flash Recovery
 

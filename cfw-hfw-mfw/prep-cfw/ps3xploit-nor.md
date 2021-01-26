@@ -19,7 +19,7 @@ It is recommended to check the model number on the back of your console and comp
 | CECH-2000 through CECH-25XX | NOR |
 | CECH-3000+ | Cannot downgrade |
 
-If you have a CECH-25XX console, you will have to use [MinVerChk](https://www.reddit.com/r/ps3homebrew/wiki/how_to_hack/minverchk) to check if it's compatible.
+If you have a CECH-25XX console, you will have to use [minverchk](https://www.reddit.com/r/ps3homebrew/wiki/how_to_hack/minverchk) to check if it's compatible.
 
 ## Materials Needed
 
@@ -49,7 +49,7 @@ If you have a CECH-25XX console, you will have to use [MinVerChk](https://www.re
     * If it takes longer than 30 minutes, try another USB storage device.
 15. Unplug your USB storage device and plug it into your PC. Drag your dump.hex file over the file "ps3\_dump\_checker.exe". The program will open and validate your dump. If the dump comes up as "OK" it's okay to proceed. If it comes up as "BAD" and lists the only failures as the ROS0/ROS1 hash, you're okay to proceed.
     * If you receive a message saying that it is the wrong file size, you likely have a NAND console and not a NOR console. [Check again here](https://www.reddit.com/r/ps3homebrew/wiki/ps3xploit_nor#wiki_nand_or_nor.3F).
-    * If you receive an error for only SKUIdenityData \(and maybe also ROS0 or ROS1\), your console is likely refurbished and it is okay to proceed.
+    * If you receive an error for only SKUIdentityData \(and maybe also ROS0 or ROS1\), your console is likely refurbished and it is okay to proceed.
     * **BACKUP THE DUMP.HEX FILE IF IT IS "OK"... SHOULD YOU MANAGE TO BRICK YOUR PS3, THIS FILE WILL BE USED WITH A HARDWARE FLASHER TO RESTORE THE CONSOLE**
 16. Restart your console and proceed to install a CFW of equal or higher version with the ["Installing a CFW"](https://www.reddit.com/r/ps3homebrew/wiki/ps3xploit_nor#wiki_installing_a_cfw) instructions found below.
 
@@ -78,7 +78,7 @@ These steps are an alternative to using an exploit-loading site.
     * If it takes longer than 30 minutes, try another USB storage device.
 18. Unplug your USB storage device and plug it into your PC. Drag your dump.hex file over the file "ps3\_dump\_checker.exe". The program will open and validate your dump. If the dump comes up as "OK" it's okay to proceed. If it comes up as "BAD" and lists the only failures as the ROS0/ROS1 hash, you're okay to proceed.
     * If you receive a message saying that it is the wrong file size, you likely have a NAND console and not a NOR console. [Check again here](https://www.reddit.com/r/ps3homebrew/wiki/ps3xploit_nor#wiki_nand_or_nor.3F).
-    * If you receive an error for only SKUIdenityData \(and maybe also ROS0 or ROS1\), your console is likely refurbished and it is okay to proceed.
+    * If you receive an error for only SKUIdentityData \(and maybe also ROS0 or ROS1\), your console is likely refurbished and it is okay to proceed.
     * **BACKUP THE DUMP.HEX FILE IF IT IS "OK"... SHOULD YOU MANAGE TO BRICK YOUR PS3, THIS FILE WILL BE USED WITH A HARDWARE FLASHER TO RESTORE THE CONSOLE**
 19. Restart your console and proceed to install a CFW of equal or higher firmware version with the ["Installing a CFW"](https://www.reddit.com/r/ps3homebrew/wiki/ps3xploit_nand#wiki_installing_a_cfw) instructions found below.
 

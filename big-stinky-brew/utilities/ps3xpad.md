@@ -23,7 +23,8 @@ The following are also supported as of version 0.8 for REX/DEX only, with desire
 - Rumble and Sixaxis Support for DualShock 4
 
 
-# Installation
+# Installation
+
 
 1. Copy the downloaded "plugins" folder to /dev_hdd0/.
 
@@ -42,9 +43,9 @@ The following are also supported as of version 0.8 for REX/DEX only, with desire
 
 * Xbox 360 wireless dongles can support up to 4 wireless controllers
 
-* With Xbox 360 wireless controllers, you may have to re-sync using a button combo (START+SELECT+DPAD-DOWN) if you switch between the XMB and a game.
+* With Xbox 360 wireless controllers, you may have to re-sync using a button combo (START+SELECT+D-Pad-DOWN) if you switch between the XMB and a game.
 
-* To connect a DualShock 4 controller, you must set the internal BlueTooth address of the controller. It only needs to be set once.
+* To connect a DualShock 4 controller, you must set the internal Bluetooth address of the controller. It only needs to be set once.
 
 * You can manually change the settings of PS3XPAD via changing the xpad_settings.txt file within the plugin folder.
 
@@ -70,8 +71,8 @@ To create a config, you will need to find the VID and PID of your device, and al
  * XTYPE_UNKNOWN
  * PTYPE_PS3
  * PTYPE_PS4
- * PTYPE_BT (this requires a BlueTooth dongle) 
+ * PTYPE_BT (this requires a Bluetooth dongle) 
 
 3. Enter your found values into this format: `VID, PID, NAME, XTYPE`. An example config would be: `0x045e, 0x028e, Microsoft X-Box 360 pad, XTYPE_XBOX360`.
 
-4. Save and re-upload this file to your PS3 and reboot for it to attempt to re-detect your devices.
+4. Save and re-upload this file to your PS3 and reboot for it to attempt to re-detect your devices.

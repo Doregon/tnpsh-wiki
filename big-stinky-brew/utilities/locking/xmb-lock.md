@@ -11,14 +11,15 @@
 3. Select Settings Lock, and choose the desired mode.
 
 
-# Modes 
+# Modes 
+
 Note that it is recommended to not switch modes often, as each time the mode is switched, it writes to your flash chip and there is a remote chance that something may go wrong.
 
 * Lite Lock: Locks Update, System Settings, and Network Settings.
 * Full Lock: Locks all settings in the Settings column.
 * Disable Lock: All locks are removed.
 
-# Uninstallation
+# Uninstalling
 
 1. Run the XMB Lock application and select Settings Lock and choose "Disable Lock".
 2. Ensure that all settings work properly, and then uninstall the application as normal.

@@ -1,4 +1,5 @@
-# PS3 Lock 
+# PS3 Lock
+ 
 [PS3Lock](http://store.brewology.com/ahomebrew.php?brewid=297) is an authentication-system that allows you to set a personal button combination to protect your PS3 against unauthorized access, or restrict access. You can restrict XMB Settings, deleting of files from the XMB, and system updates. If you are looking for a password-less way to lock the XMB settings, check out [XMB Lock](https://www.reddit.com/r/ps3homebrew/wiki/xmb_lock).
 
 # Installation
@@ -61,12 +62,12 @@ If you forgot your button combo, you can reset it with one of the following proc
 
 2. **If you are using USB authentication**:
  - Boot into the XMB with the authenticated USB device.
- - Enter a file manager, such as the one included in Multiman, and delete /dev_hdd0/plugins/PS3Lock/ps3lock_cfg.bin.
+ - Enter a file manager, such as the one included in multiMAN, and delete /dev_hdd0/plugins/PS3Lock/ps3lock_cfg.bin.
  - Reboot your PS3, and it will prompt you for a new password.
 
 3. **If you do not have a USB storage device**:
  - Boot into [recovery mode](https://www.reddit.com/r/ps3homebrew/wiki/recovery).
  - Select Restore File System. The "boot_plugins.txt" will be deleted and all plugins will be disabled.
- - Enter a file manager, such as the one included in Multiman, and delete /dev_hdd0/plugins/PS3Lock/ps3lock_cfg.bin.
+ - Enter a file manager, such as the one included in multiMAN, and delete /dev_hdd0/plugins/PS3Lock/ps3lock_cfg.bin.
  - Create a new "boot_plugins.txt" and place it on /dev_hdd0/.
  - Reboot your PS3 and it will prompt you for a new password.

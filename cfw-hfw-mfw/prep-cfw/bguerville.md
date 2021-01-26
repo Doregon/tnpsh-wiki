@@ -29,15 +29,15 @@ Clicking on this option with show a dropdown box.
 
 Choose your method of loading the patch into the system's memory. Each method comes with obvious drawbacks, but it's easier and more safe to supply your own. 
 
-* **If you chose to download from HTTPs or bguerville**, you'll see the download screen.
+* **If you chose to download from HTTPS or bguerville**, you'll see the download screen.
 
 ![](../../.gitbook/assets/bguerville-patch-2.png) 
 
-The patch will be loaded into the system's memory within a few minutes. If it stalls, check your internet connection and try refreshing the page (not restarting your console). If you keep having problems, try using a different preperation method to patch your console's flash memory. As you can see below, the dropdown will now have the **Apply loaded patch** option selectable. Obviously, this is because of how you've just loaded the patch into the system's main memory, and now it's time to push it onto the console's NAND or NOR.
+The patch will be loaded into the system's memory within a few minutes. If it stalls, check your internet connection and try refreshing the page (not restarting your console). If you keep having problems, try using a different preparation method to patch your console's flash memory. As you can see below, the dropdown will now have the **Apply loaded patch** option selectable. Obviously, this is because of how you've just loaded the patch into the system's main memory, and now it's time to push it onto the console's NAND or NOR.
 
 ![](../../.gitbook/assets/bguerville-patch-3.png)
 
-Once you click the button to patch your flash memory, you'll be prompted with a dialog telling you that **this action cannot be paused once it begins**. Make sure that you have a good power source and that you don't accidently trip on your console and unplug it--if you console shuts off in the middle of a process like this, you'll have to go to the [flash recovery](../../diags-and-maintenance/flash-recovery.md) page to repair your console and start the process again. This could take about 10-20 seconds on a console with NAND flash, and about 90-120 on a console with NOR flash.
+Once you click the button to patch your flash memory, you'll be prompted with a dialog telling you that **this action cannot be paused once it begins**. Make sure that you have a good power source and that you don't accidentally trip on your console and unplug it--if you console shuts off in the middle of a process like this, you'll have to go to the [flash recovery](../../diags-and-maintenance/flash-recovery.md) page to repair your console and start the process again. This could take about 10-20 seconds on a console with NAND flash, and about 90-120 on a console with NOR flash.
 
 ![](../../.gitbook/assets/bguerville-patch-4.png)
 
