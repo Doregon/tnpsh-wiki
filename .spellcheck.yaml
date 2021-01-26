@@ -22,5 +22,10 @@ matrix:
         - 'code'
         - 'pre'
   sources:
-  - '**/*.md'
+  - '*.md'
+  - 'cfw-hfw-mfw/**/*.md'
+  - 'big-stinky-brew/**/*.md'
+  - 'welcome-to-wiki/**/*.md'
+  - 'at-this-instant/**/*.md'
+  - 'about-the-wiki/**/*.md'
   default_encoding: utf-8
