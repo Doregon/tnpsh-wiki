@@ -98,7 +98,7 @@
   * [Rebug Toolbox](../big-stinky-brew/utilities/rebug-toolbox/)
     * [CEX and DEX](../big-stinky-brew/utilities/rebug-toolbox/cex-dex.md)
     * [OtherOS](../big-stinky-brew/utilities/rebug-toolbox/otheros.md)
-  * [PSNpatch](../big-stinky-brew/utilities/psnpatch.md)
+  * [PSNpatch](../big-stinky-brew/utilities/psnpatch/)
   * [SEN Enabler](../big-stinky-brew/utilities/sen-enabler.md)
   * [PS3XPAD](../big-stinky-brew/utilities/ps3xpad.md)
   * [reActPSN](../big-stinky-brew/utilities/reactpsn/)
