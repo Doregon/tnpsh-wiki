@@ -15,8 +15,7 @@ The bguerville toolset is fairly easy to use and provides tools to patch your fi
 
 ## Patching your flash
 
-Go to the [bguerville toolset](https://ps3xploit.net/bguerrville) page on your console.
-Switch to the "Flash Memory Manager" tab. Here you should see an option marked **Flash Memory Patch**. If you don't see it, it means you're probably not CFW compatible and should install [PS3HEN](../ps3hen/)
+Go to the [bguerville toolset](https://ps3xploit.net/bguerrville) page on your console. Switch to the "Flash Memory Manager" tab. Here you should see an option marked **Flash Memory Patch**. If you don't see it, it means you're probably not CFW compatible and should install [PS3HEN](../ps3hen/)
 
 Clicking on this option with show a dropdown box.
 
@@ -27,17 +26,17 @@ Clicking on this option with show a dropdown box.
 * **Download Patch file** downloads a patch made my bguerville.  
 * The option marked **Apply loaded patch** will be greyed out until a patch is loaded into the console's memory using on of the options above.
 
-Choose your method of loading the patch into the system's memory. Each method comes with obvious drawbacks, but it's easier and more safe to supply your own. 
+Choose your method of loading the patch into the system's memory. Each method comes with obvious drawbacks, but it's easier and more safe to supply your own.
 
 * **If you chose to download from HTTPS or bguerville**, you'll see the download screen.
 
-![](../../.gitbook/assets/bguerville-patch-2.png) 
+![](../../.gitbook/assets/bguerville-patch-2.png)
 
-The patch will be loaded into the system's memory within a few minutes. If it stalls, check your internet connection and try refreshing the page (not restarting your console). If you keep having problems, try using a different preparation method to patch your console's flash memory. As you can see below, the dropdown will now have the **Apply loaded patch** option selectable. Obviously, this is because of how you've just loaded the patch into the system's main memory, and now it's time to push it onto the console's NAND or NOR.
+The patch will be loaded into the system's memory within a few minutes. If it stalls, check your internet connection and try refreshing the page \(not restarting your console\). If you keep having problems, try using a different preparation method to patch your console's flash memory. As you can see below, the dropdown will now have the **Apply loaded patch** option selectable. Obviously, this is because of how you've just loaded the patch into the system's main memory, and now it's time to push it onto the console's NAND or NOR.
 
 ![](../../.gitbook/assets/bguerville-patch-3.png)
 
-Once you click the button to patch your flash memory, you'll be prompted with a dialog telling you that **this action cannot be paused once it begins**. Make sure that you have a good power source and that you don't accidentally trip on your console and unplug it--if you console shuts off in the middle of a process like this, you'll have to go to the [flash recovery](../../diags-and-maintenance/flash-recovery.md) page to repair your console and start the process again. This could take about 10-20 seconds on a console with NAND flash, and about 90-120 on a console with NOR flash.
+Once you click the button to patch your flash memory, you'll be prompted with a dialog telling you that **this action cannot be paused once it begins**. Make sure that you have a good power source and that you don't accidentally trip on your console and unplug it--if you console shuts off in the middle of a process like this, you'll have to go to the [flash recovery](https://github.com/Doregon/tnpsh-wiki/tree/7baea441f0febde5dd40f1ee2bdccc3a527f5f28/diags-and-maintenance/flash-recovery.md) page to repair your console and start the process again. This could take about 10-20 seconds on a console with NAND flash, and about 90-120 on a console with NOR flash.
 
 ![](../../.gitbook/assets/bguerville-patch-4.png)
 

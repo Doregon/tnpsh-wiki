@@ -30,7 +30,7 @@
   * [ps3xploit \(NAND\)](cfw-hfw-mfw/prep-cfw/ps3xploit-nand.md)
   * [bguerville toolset](cfw-hfw-mfw/prep-cfw/bguerville.md)
   * [Firmware Flashers](cfw-hfw-mfw/prep-cfw/flashers/README.md)
-    * [E3 (NOR)](cfw-hfw-mfw/prep-cfw/flashers/e3.md)
+    * [E3 \(NOR\)](cfw-hfw-mfw/prep-cfw/flashers/e3.md)
     * [Teensy](cfw-hfw-mfw/prep-cfw/flashers/teensy.md)
     * [ProgSkeet](cfw-hfw-mfw/prep-cfw/flashers/progskeet.md)
 * [Rebug](cfw-hfw-mfw/rebug/README.md)
