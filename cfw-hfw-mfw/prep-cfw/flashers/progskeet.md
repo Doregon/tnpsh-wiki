@@ -110,12 +110,12 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
 2. Install the ProgSkeet driver by running the WinSkeet icon.
 3. Plug your ProgSkeet into your PC with your PS3 controller cable.
 4. The device will be detected and the Install New Hardware wizard will run. Select "Not this time" if given the option.
-5. Select "Install from a list or specific location" → Browse to Location → Select "C:\Users\\Desktop\ProgSkeet 1.1 Programs\Setup Files\drivers\_WinUSB\_111121\" and finish installation.
+5. Select "Install from a list or specific location" → Browse to Location → Select "C:\Users\Desktop\ProgSkeet 1.1 Programs\Setup Files\drivers\_WinUSB\_111121\" and finish installation.
 
 ## Taking Backup Dumps \(NAND\)
 
 1. Connect your ProgSkeet to your PC via USB cable.
-2. Browse to C:\Users\\Desktop\ProgSkeet 1.1 NAND Programs\WinSkeet111205 and run WinSkeet40000.
+2. Browse to C:\Users\Desktop\ProgSkeet 1.1 NAND Programs\WinSkeet111205 and run WinSkeet40000.
 3. Under the Presets section, select the drop-down menu and select Dual NAND.
 4. Select the NAND tab, and enable the NAND 1 checkbox.
 5. Select the Auto button. It should automatically populate the NAND 1 fields. If it doesn't, check the connection of the clip or wires.
@@ -125,12 +125,12 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
 9. Select the Auto button. It should automatically populate the NAND 2 fields. If it doesn't, check the connection of the clip or wires.
 10. Select the Dump button. It will prompt you to save the backup. Create a folder called "dumps" and enter it. Name the backup "NAND Flash1 - 1". It will take about 12 minutes. Repeat the process two more times and name the new backups "NAND Flash1 - 2" and "NAND Flash1 - 3".
     * If you receive verification errors, it may be due to incorrect wiring, use of 30AWG wire, wires being too long, a bad USB cable, interference, bad grounding, or bad luck. 
-11. On your PC, browse to C:\Users\\Desktop\ProgSkeet 1.1 NAND Programs and run FlowRebuilder v.4.2.2.0. Select "UNSCRAMBLE then interleave two NAND flashes into one unified dump". In the Flash 0 field, browse to your dumps folder and select "NAND Flash0 - 1". In the Flash 1 field, browse to your dumps folder and select "NAND Flash1 - 1". Under the "Select the OUTPUT \(interleaved\) file", browse to your dumps folder, create a new folder called "extracted" and enter it; name the file as "dump 1". Select Execute Operation. Repeat this process with the two other NAND dump sets, changing the output file to "dump 2", and finally "dump 3". Verify that there are now three files located in the extracted folder. If you are missing any, try to join the dumps again. If they still are missing, you will need to redo all of the dumps completely.
+11. On your PC, browse to C:\Users\Desktop\ProgSkeet 1.1 NAND Programs and run FlowRebuilder v.4.2.2.0. Select "UNSCRAMBLE then interleave two NAND flashes into one unified dump". In the Flash 0 field, browse to your dumps folder and select "NAND Flash0 - 1". In the Flash 1 field, browse to your dumps folder and select "NAND Flash1 - 1". Under the "Select the OUTPUT \(interleaved\) file", browse to your dumps folder, create a new folder called "extracted" and enter it; name the file as "dump 1". Select Execute Operation. Repeat this process with the two other NAND dump sets, changing the output file to "dump 2", and finally "dump 3". Verify that there are now three files located in the extracted folder. If you are missing any, try to join the dumps again. If they still are missing, you will need to redo all of the dumps completely.
 
 ## Taking Backup Dumps \(NOR\)
 
 1. Connect your ProgSkeet to your PC via USB cable.
-2. Browse to C:\Users\\Desktop\ProgSkeet 1.1 NOR Programs\WinSkeet111205 and run WinSkeet40000.
+2. Browse to C:\Users\Desktop\ProgSkeet 1.1 NOR Programs\WinSkeet111205 and run WinSkeet40000.
 3. Under the Presets section, select the drop-down menu and select the model number of your NOR chip, or select Dual NAND. You can find the model number of the NOR by looking on top of the chip on the motherboard.
 4. Select the NOR tab and click Take Over. If this button is not present, check your USB cable connection and click Detect.
 5. **Attach console fan and heat sinks attached back onto your motherboard if they were taken off, and plug the fan power cable in**. Turn on your PS3, it should halt during boot up. If it doesn't, turn your console back off and back on and it should halt.
@@ -178,8 +178,6 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
 
    Max bytes: 32 \(or 16\)
 
-   ----------------------
-
    **Samsung K8Q2815UQB-PI4B**
 
    Single word program
@@ -187,8 +185,6 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
    Ready triggered timing \(fastest, default\)
 
    Max bytes: \(greyed out by single word program\)
-
-   ----------------------
 
    **Spansion S29GL128P90TFIR2**
 
@@ -198,8 +194,6 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
 
    Max bytes: 64 \(or 32\)
 
-   ----------------------
-
    **Samsung K8P2716UZC-QI4D**
 
    Buffered write \(fastest, default\)
@@ -207,8 +201,6 @@ If using a 360clip or ProgSkeet NAND solderless adapter, it can be plugged direc
    Ready triggered timing \(fastest, default\)
 
    Max bytes: 64 \(or 32\)
-
-   ----------------------
 
    **Macronix MX29GL128ELT2I-90G**
 

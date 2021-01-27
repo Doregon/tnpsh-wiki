@@ -10,10 +10,9 @@ You will need the following:
 
 * [PSNpatch](http://store.brewology.com/ahomebrew.php?brewid=244)
 * A valid CID from another PS3.
-
-1. Use an [FTP client](../big-stinky-brew/pc-tools/ftp-client.md) or multiMAN to browse to /dev\_hdd0/game/PSNP11001/USRDIR/ and open PSNpatch.cfg with a text editor. If the file does not exist, check inside of /dev\_hdd0/game/BLJS10018/USRDIR/.
-2. Change the lines "idps=000..." and "psid=000..." to the respective values. If you do not have a matching PSID, leave it as zeroes. It will still work without a matching PSID, but it is potentially slightly more risky. Ensure that both values are 32 digits long.
-3. If you used FTP, make sure to upload the file back to the PS3.
-4. Launch PSNpatch and press Square to spoof the new CID. Alternatively, if you have set up the [PSNpatch plugin](https://github.com/Doregon/tnpsh-wiki/tree/b8909682ceb3d35fa1c9004830731e78ed3e8a30/big-stinky-brew/utilities/psnpatch/plugin.md), reboot, and press L3+R3+R2 to spoof your CID, disable CFW, and enable PSN access.
-5. If you receive error 0x8002A224, this indicates that your CID is not valid. If you receive this error, and are on DEX, see [this page for settings to go online with DEX](../welcome-to-wiki/psn.md).
+* Use an [FTP client](../big-stinky-brew/pc-tools/ftp-client.md) or multiMAN to browse to /dev\_hdd0/game/PSNP11001/USRDIR/ and open PSNpatch.cfg with a text editor. If the file does not exist, check inside of /dev\_hdd0/game/BLJS10018/USRDIR/.
+* Change the lines "idps=000..." and "psid=000..." to the respective values. If you do not have a matching PSID, leave it as zeroes. It will still work without a matching PSID, but it is potentially slightly more risky. Ensure that both values are 32 digits long.
+* If you used FTP, make sure to upload the file back to the PS3.
+* Launch PSNpatch and press Square to spoof the new CID. Alternatively, if you have set up the [PSNpatch plugin](https://github.com/Doregon/tnpsh-wiki/tree/b8909682ceb3d35fa1c9004830731e78ed3e8a30/big-stinky-brew/utilities/psnpatch/plugin.md), reboot, and press L3+R3+R2 to spoof your CID, disable CFW, and enable PSN access.
+* If you receive error 0x8002A224, this indicates that your CID is not valid. If you receive this error, and are on DEX, see [this page for settings to go online with DEX](../welcome-to-wiki/psn.md).
 

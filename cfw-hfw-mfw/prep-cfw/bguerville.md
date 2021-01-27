@@ -47,7 +47,7 @@ If everything's all good, you should see a dialog saying similar things to what'
 * **Patch applied on ROS bank 0/1: YES**
 * **Flash Memory successfully patched**
 
-The other information (Detected Typed, Sector Count, Offset) will fluctuate based on your console model, firmware, and (possibly) other factors relating to any prior modifications to your flash.
+The other information \(Detected Typed, Sector Count, Offset\) will fluctuate based on your console model, firmware, and \(possibly\) other factors relating to any prior modifications to your flash.
 
 ![](../../.gitbook/assets/bguerville-patch-5.png)
 
