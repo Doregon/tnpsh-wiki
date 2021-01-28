@@ -30,8 +30,6 @@ Choose your method of loading the patch into the system's memory. Each method co
 
 * **If you chose to download from HTTPS or bguerville**, you'll see the download screen.
 
-![](../../.gitbook/assets/bguerville-patch-2.png)
-
 The patch will be loaded into the system's memory within a few minutes. If it stalls, check your internet connection and try refreshing the page \(not restarting your console\). If you keep having problems, try using a different preparation method to patch your console's flash memory. As you can see below, the dropdown will now have the **Apply loaded patch** option selectable. Obviously, this is because of how you've just loaded the patch into the system's main memory, and now it's time to push it onto the console's NAND or NOR.
 
 ![](../../.gitbook/assets/bguerville-patch-3.png)
