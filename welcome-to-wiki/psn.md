@@ -2,12 +2,12 @@
 
 If you're using an Optical Drive Emulator \(ODE\), PSN access isn't something you'll have to worry much about. Just keep in mind that just about every firmware update Sony pushes is trying to block your device, so check your ODE manufacturer's website before updating.
 
-On CFW, you can connect to PSN, but you are risking a ban to your account, console, or both. Tools like [PSNpatch]() or [SEN Enabler]() can be used to spoof both your firmware version and Console ID, and to hide evidence of CFW on your system in an attempt to avoid bans. It's recommended to use the PSNpatch plugin to prevent yourself from going on PSN _unless_ your CFW is hidden. If you plan on playing offline exclusively, follow the procedure on [this page](https://www.reddit.com/r/ps3homebrew/wiki/np_environment) to block PSN completely. Alternatively, if you have a second hard drive on hand, you can use [dual boot firmware](../cfw-hfw-mfw/dualboot-fw/) to go online "safely".
+On CFW, you can connect to PSN, but you are risking a ban to your account, console, or both. Tools like [PSNpatch](psn.md) or [SEN Enabler](psn.md) can be used to spoof both your firmware version and Console ID, and to hide evidence of CFW on your system in an attempt to avoid bans. It's recommended to use the PSNpatch plugin to prevent yourself from going on PSN _unless_ your CFW is hidden. If you plan on playing offline exclusively, follow the procedure on [this page](https://www.reddit.com/r/ps3homebrew/wiki/np_environment) to block PSN completely. Alternatively, if you have a second hard drive on hand, you can use [dual boot firmware](../cfw-hfw-mfw/dualboot-fw/) to go online "safely".
 
 The most common reasons for bans are:
 
 * Running homebrew while on PSN. Using Cobra 7.52 or above will help prevent you executing homebrew apps while on PSN.
-* Not running [PSNpatch]() or similar software to clear your logs and hide your CFW prior to going PSN
+* Not running [PSNpatch](psn.md) or similar software to clear your logs and hide your CFW prior to going PSN
 * Not using an [antiban EBOOT](https://github.com/Doregon/tnpsh-wiki/tree/0cc8762af84bfbd64fe7dd275689a633cb03b539/diag-and-maintenance/antiban.md) for games that need one
 * Playing unreleased games while offline, and then having the trophies sync on PSN
 * Modding in public and being reported by other users
