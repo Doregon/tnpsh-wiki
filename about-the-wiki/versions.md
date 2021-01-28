@@ -18,5 +18,5 @@ If it's an **r**, then it's a minor revision release. This accompanies small upd
 
 ## The Bleeding branch
 
-As stated, the bleeding branch has the most up-to-date content but is considered bleeding because of how it might not contain the cleanest or complete products. This branch will not be the base of the wiki, and you must visit the GitHub repository in order to access this branch.
+As stated, the bleeding branch has the most up-to-date content but is considered bleeding because of how it might not contain the cleanest or complete products. This branch will not be the base of the wiki, and you’ll only find it by switching to “Bleeding” at the top of the wiki sidebar or on the GitHub repository.
 

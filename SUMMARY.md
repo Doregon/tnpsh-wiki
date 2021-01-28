@@ -67,6 +67,7 @@
       * [webMAN Addons](big-stinky-brew/aios/webman-mod/customizing/addons.md)
       * [Gamepad Shortcuts](big-stinky-brew/aios/webman-mod/customizing/pad-shortcuts.md)
       * [Cobra Plugins](big-stinky-brew/aios/webman-mod/customizing/cobra-plugins.md)
+    * [Troubleshooting](big-stinky-brew/aios/webman-mod/troubleshooting.md)
   * [multiMAN \(mmCM\)](big-stinky-brew/aios/multiman-mmcm/README.md)
     * [Capabilities](big-stinky-brew/aios/multiman-mmcm/capabilities.md)
     * [Installation](big-stinky-brew/aios/multiman-mmcm/installation.md)
@@ -154,8 +155,6 @@
 * [QA Flagging](diag-and-maintenance/qa.md)
 * [Remarrying a Blu-Ray drive](diag-and-maintenance/remarry.md)
 * [Unbanning your console](diag-and-maintenance/unban.md)
-* [Homebrew Troubleshooting](diag-and-maintenance/homebrew-specific/README.md)
-  * [webMAN](diag-and-maintenance/homebrew-specific/webman.md)
 
 ## External Sources
 
