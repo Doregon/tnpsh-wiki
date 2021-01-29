@@ -4,7 +4,7 @@ webMAN has built-in facilities to capture screenshots and recordings of your gam
 
 # Taking Screenshots
 
-By pressing the button combo Start + R2, a screenshot will be saved to `dev_hdd0/photos`. Easy enough.
+By pressing the button combo Start + R2, a screenshot will be saved to `dev_hdd0/photos`. Easy enough. Should this not work for you, there is another option. You can set the custom [pad shortcut](../customizing/pad-shortcuts.md) to “/browser.ps3
 
 # Recording Video
 
