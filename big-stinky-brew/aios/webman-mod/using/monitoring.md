@@ -30,4 +30,16 @@ The **green section** monitors your cooler speed. Pretty straightforward.
 
 * If the cooler controller is set to anything other than SYSCON,there will be a slider below the speed that you can drag to adjust. This will automatically change the controller to Manual, if it isn't already.
 
-* 
+* The slider I mentioned above does not go under 20%. It shows a full 100%, but trying to drag it all the way to zero will set it at 20%.
+
+The **blue section** shows power statistics and your console uptime.
+
+* This data is gathered from the power supply unit--not the motherboard. If you replace your unit with a new one, all of these will reset.
+
+* The clock icon is accompanied by the system's uptime, so how long it's been on. Note that uptime starts to count when the CPU is active--having your console in Standby doesn't add to the timer.
+
+* The lightning option is accompanied by other power statistics. As of this writing, I don't know exactly what these are but I have guesses:
+
+  * The first number is the total uptime--the system adding up all of the time it's been on.
+  
+  
