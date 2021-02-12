@@ -38,8 +38,4 @@ The **blue section** shows power statistics and your console uptime.
 
 * The clock icon is accompanied by the system's uptime, so how long it's been on. Note that uptime starts to count when the CPU is active--having your console in Standby doesn't add to the timer.
 
-* The lightning option is accompanied by other power statistics. As of this writing, I don't know exactly what these are but I have guesses:
-
-  * The first number is the total uptime--the system adding up all of the time it's been on.
-  
-  
+* The lightning option is accompanied by other power statistics, with the first number being the total uptime, the second being the 
