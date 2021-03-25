@@ -28,7 +28,7 @@ The "Enable Dynamic Cooler Control" option tells webMAN whether or not it should
 
 webMAN includes different modes for cooler operation.
 
-* **Automatic at x°** sets the manual selected speed \(in this case, 35%\) and uses this speed until it reaches x° C \(x is 68 in this case\). Once the system reaches that set temperature, webMAN will take control of your cooler system and keep you at that temparature.
+* **Automatic at x°** sets the manual selected speed \(in this case, 35%\) and uses this speed until it reaches x° C \(x is 68 in this case\). Once the system reaches that set temperature, webMAN will take control of your cooler system and keep you at that temperature.
 * **Manual** sets the manual selected speed \(still 35%\) and uses this speed regardless of temperature. This can be helpful if you are looking to quiet down your system, however you need to make sure you don't set this too low because webMAN and the system's controller won't help you **even at high temps!** 
 * **Automatic \#2** uses a configuration from webMAN to work with your cooling system. This one is recommended because it's quiet and not stepped, unlike the system's default settings.
 * **SYSCON** hands control back to the system's controller, as if webMAN didn't have cooler control settings. This one still works, just bear in mind that your cooler won't act any different than the system's usual of stepped speeds at different temps.
