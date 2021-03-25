@@ -43,7 +43,7 @@ Other settings that effect the cooler settings are available to the right of the
   * If you are using **Automatic \#2**, you can still find out what speed to put your emulator at with a test. Hold SELECT+START until your console beeps and go into a game. Wait for the fans to slowly rise and record their speed. Set the emulator speed to +5%-10% of the speed you just found.
   * If you don't play PlayStation 2 games, then you don't need to worry about this setting.
 
-The **CPU / RSX / FAN Chart** option changes the view of the page described in [Monitoring](monitoring.md) from simple numbers to a chart that collects information since the system was turned on.
+The **CPU / RSX / FAN Chart** option changes the view of the page described in [Monitoring](https://github.com/Doregon/tnpsh-wiki/tree/0e4d43b403d2158ee9496edde42ac38b88d261e4/big-stinky-brew/aios/webman-mod/customizing/monitoring.md) from simple numbers to a chart that collects information since the system was turned on.
 
 ## webMAN Settings
 
@@ -72,7 +72,7 @@ The two USB options help deal with USB drives.
   * If you have Auto Power-Off enabled in the Power Save Settings of the console, this will make your console shut off even if USB devices are attached. 
 * **Disable USB reset** fixes a bug that can happen where your USB appears as `/dev_usb` and not `/dev_usb00X`in 4.20+ firmwares, causing slowdowns on reads and writes and potentially hanging your console as the system tries to catch up.
 
-If you're going to remotely interact with your console, such as by connecting through an [FTP client](../../../pc-tools/ftp-client.md) to copy files and games or using the [/cpursx.ps3](monitoring.md) page to monitor your system's thermals, activities, and information, the next three options control the security of these interactions. By default, the following occur:
+If you're going to remotely interact with your console, such as by connecting through an [FTP client](../../../pc-tools/ftp-client.md) to copy files and games or using the [/cpursx.ps3](https://github.com/Doregon/tnpsh-wiki/tree/0e4d43b403d2158ee9496edde42ac38b88d261e4/big-stinky-brew/aios/webman-mod/customizing/monitoring.md) page to monitor your system's thermals, activities, and information, the next three options control the security of these interactions. By default, the following occur:
 
 * FTP servers have a port of 21. The **Disable FTP service** section allows you to tweak the port and password for webMAN's built-in FTP server, or shut it down entirely.
   * **No Auto Power Off** controls whether or not webMAN should respect the Auto Power-Off option in the Power Save Settings of the console. If you're transferring large files and want to leave it while you're away from the system and have Auto Power-Off enabled, make sure to enable this option.
@@ -138,7 +138,7 @@ The first four options deal with disabling parts of how the "webMAN Games" folde
     * ex. Rocksmith 2014
     * `/dev_hdd0/GAMES/BLUS31354` loaded!
 
-**PhotoGUI** makes mounting and launching games easier. This option is more deeply explained in the [Games](games.md) page, but essentially it allows you to mount games from the Photos column.
+**PhotoGUI** makes mounting and launching games easier. This option is more deeply explained in the [Games](https://github.com/Doregon/tnpsh-wiki/tree/0e4d43b403d2158ee9496edde42ac38b88d261e4/big-stinky-brew/aios/webman-mod/customizing/games.md) page, but essentially it allows you to mount games from the Photos column.
 
 ## Pad Shortcuts
 
