@@ -38,4 +38,12 @@ The **blue section** shows power statistics and your console uptime.
 
 * The clock icon is accompanied by the system's uptime, so how long it's been on. Note that uptime starts to count when the CPU is active--having your console in Standby doesn't add to the timer.
 
-* The lightning option is accompanied by other power statistics, with the first number being the total uptime, the second being the 
+* The lightning option is accompanied by other power statistics, which are at this moment unknown.
+
+And finally, the **yellow section** shows system software information.
+
+* Your system's firmware version shows here, along with the exploit's name. PS3HEN users will see PS3HEN.
+
+* Your system's PSID and IDPS also show here--hence why there's a dropdown rather than displaying them in full. Be careful if you're troubleshooting and need to send a screenshot to someone!
+
+* webMAN's version and edition, i.e. webMAN MOD 1.47.29 [Full]. If you see [Lite] or nothing, we recommend running through the installation again.
