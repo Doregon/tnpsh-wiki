@@ -1,6 +1,8 @@
 NodeJS
 Vuepress
 customizability
+PSone
+irisMAN
 ol
 Deinstall
 eSATA
