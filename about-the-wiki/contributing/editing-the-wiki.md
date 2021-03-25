@@ -23,5 +23,5 @@ This will switch to **Editor Mode**, and then you'll be put at a monospaced scre
 
 ### Submitting
 
-If you're ready to submit your changes to the main repo and the wiki, return to the main repository page and check out the bar in the middle of the screen, similar to this:
+If you're ready to submit your changes to the main repo and the wiki, return to the main repository page and check out the [Notes on Commits](https://github.com/Doregon/tnpsh-wiki/tree/b4fd9547043c7a56e2eb4eb496e2f547627bf1a8/about-the-wiki/contributing/notes-on-commits.md) page, send a pull request and you're all good to go!
 

@@ -38,7 +38,14 @@ Once you click the button to patch your flash memory, you'll be prompted with a 
 
 ![](../../.gitbook/assets/bguerville-patch-4.png)
 
-If everything's all good, you should see a dialog saying similar things to what's shown below.
+If everything's all good, you should see a dialog saying similar things to what's shown below:
+
+* **ROS0 patch operations completed without errors**
+* **ROS1 patch operations completed without errors**
+* **Patch applied on ROS bank 0/1: YES**
+* **Flash Memory successfully patched**
+
+The other information \(Detected Typed, Sector Count, Offset\) will fluctuate based on your console model, firmware, and \(possibly\) other factors relating to any prior modifications to your flash.
 
 ![](../../.gitbook/assets/bguerville-patch-5.png)
 

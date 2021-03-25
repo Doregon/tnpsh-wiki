@@ -15,8 +15,7 @@ Installing Ferrox is just like installing OFW, but we'll cover it anyway: 1. Ver
 
   **Alternatively**, you can go to the System Update section of Settings. It may appear to hang while it checks for an update; so long as the loading icon is spinning, it is searching. Depending on the speed of your storage device, it may take a couple of minutes to find it.
 
-* If it reports the data as corrupt, double check the file and folder names, try re-copying the update, and try re-downloading from the link above.
-  1. Select the Ferrox update, proceed through the prompts, and allow update to install and reboot.
+* If it reports the data as corrupt, double check the file and folder names, try re-copying the update, and try re-downloading from the link above. 1. Select the Ferrox update, proceed through the prompts, and allow update to install and reboot.
 
 Once you reach the XMB, your console will be jailbroken! If it didn't work, try installing again or going from the recovery menu \(if you didn't\).
 
