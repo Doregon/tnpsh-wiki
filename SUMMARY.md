@@ -67,7 +67,7 @@
       * [Monitoring](big-stinky-brew/aios/webman-mod/using/monitoring.md)
       * [Installing Packages](big-stinky-brew/aios/webman-mod/using/packages.md)
       * [Files](big-stinky-brew/aios/webman-mod/using/files.md)
-      * [Games](big-stinky-brew/aios/webman-mod/using/games-big-stinky-brew-aios-webman-mod-using-games.md.md)
+      * [Games](big-stinky-brew/aios/webman-mod/using/games.md)
       * [Making Memories](big-stinky-brew/aios/webman-mod/using/memories.md)
       * [External Devices](big-stinky-brew/aios/webman-mod/using/external-devices.md)
     * [Troubleshooting](big-stinky-brew/aios/webman-mod/troubleshooting.md)
