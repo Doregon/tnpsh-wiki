@@ -20,4 +20,4 @@
   - [x] rebug
 - [x] welcome-to-wiki
 
-This release was removed with the introduction of release v21.1b5. The tag is no longer available on the Releases page, but you can compare changes between this release and newer ones or the master branch by using the hash up above to find the commit in the History tab.
+### This release was removed with the introduction of release v21.1b5. The tag is no longer available on the Releases page, but you can compare changes between this release and newer ones or the master branch by using the hash up above to find the commit in the History tab.
