@@ -2,7 +2,7 @@
 
 Let's get through the Setup page. If you're on webMAN's internal web server, you'll probably see a screen similar to this:
 
-![A view of webMAN&apos;s Setup](../../../../.gitbook/assets/wMAN-settings.png)
+![A view of webMAN&apos;s Setup](../../../../.gitbook/assets/wMAN-settings%20%282%29.png)
 
 In this page, we'll go through all of the setup page's options. I noticed some people couldn't work everything out \(such as fan control\) and gave up on webMAN, and this is meant to change that fear of many options and possibly messing up.
 

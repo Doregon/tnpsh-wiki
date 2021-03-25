@@ -19,7 +19,7 @@ Go to the [bguerville toolset](https://ps3xploit.net/bguerrville) page on your c
 
 Clicking on this option with show a dropdown box.
 
-![](../../.gitbook/assets/bguerville-patch-1.png)
+![](../../.gitbook/assets/bguerville-patch-1%20%281%29.png)
 
 * **Load Patch from file** searches any connected USB devices and looks for patch files that can be applied to your system.
 * **Load Patch from HTTPS** asks you for a URL to download the patch from, let's say, a self-hosted web server.
@@ -47,5 +47,5 @@ If everything's all good, you should see a dialog saying similar things to what'
 
 The other information \(Detected Typed, Sector Count, Offset\) will fluctuate based on your console model, firmware, and \(possibly\) other factors relating to any prior modifications to your flash.
 
-![](../../.gitbook/assets/bguerville-patch-5.png)
+![](../../.gitbook/assets/bguerville-patch-5%20%282%29.png)
 
