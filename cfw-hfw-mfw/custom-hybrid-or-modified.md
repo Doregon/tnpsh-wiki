@@ -12,7 +12,7 @@ description: What type should you use?
 
 However, a full CFW requires a PlayStation 3 model that supports installing firmware 3.55. Model numbers **can't** be used to verify this ability, but a script called [minverchk](minverchk.md) can determine if it's possible.
 
-![A look at minverchk](../.gitbook/assets/minverchk-demo.jpg)
+![A look at minverchk](../.gitbook/assets/minverchk-demo%20%281%29.jpg)
 
 ### Hybrid Firmware
 

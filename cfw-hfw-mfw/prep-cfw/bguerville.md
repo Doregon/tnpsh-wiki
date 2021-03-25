@@ -2,7 +2,7 @@
 
 The bguerville toolset provides useful functionality to get information about your console and, more importantly, help you patch your console without factory service mode or a firmware flasher. This option is safer than the ps3xploit default option because of how bguerville’s toolset can verify whether or not the system is downgradeable and prevents you from doing anything without proper initialization of this process.
 
-![](../../.gitbook/assets/bguerville.png)
+![](../../.gitbook/assets/bguerville%20%282%29.png)
 
 The bguerville toolset is fairly easy to use and provides tools to patch your firmware and peek/poke your memory at will. It also shows information about your console and can make informed decisions based on that--such as disabling certain features if you have a minimum downgrade praxis of 3.56 or higher, or not letting you use any of the features if you aren't on a PlayStation in the first place. The bguerville toolset is based off of "ps3xploit version 4.0", which was a new exploit found and mastered by bguerville and adapted for this purpose with the toolset.
 
@@ -19,7 +19,7 @@ Go to the [bguerville toolset](https://ps3xploit.net/bguerrville) page on your c
 
 Clicking on this option with show a dropdown box.
 
-![](../../.gitbook/assets/bguerville-patch-1.png)
+![](../../.gitbook/assets/bguerville-patch-1%20%282%29.png)
 
 * **Load Patch from file** searches any connected USB devices and looks for patch files that can be applied to your system.
 * **Load Patch from HTTPS** asks you for a URL to download the patch from, let's say, a self-hosted web server.
@@ -32,11 +32,11 @@ Choose your method of loading the patch into the system's memory. Each method co
 
 The patch will be loaded into the system's memory within a few minutes. If it stalls, check your internet connection and try refreshing the page \(not restarting your console\). If you keep having problems, try using a different preparation method to patch your console's flash memory. As you can see below, the dropdown will now have the **Apply loaded patch** option selectable. Obviously, this is because of how you've just loaded the patch into the system's main memory, and now it's time to push it onto the console's NAND or NOR.
 
-![](../../.gitbook/assets/bguerville-patch-3.png)
+![](../../.gitbook/assets/bguerville-patch-3%20%282%29.png)
 
 Once you click the button to patch your flash memory, you'll be prompted with a dialog telling you that **this action cannot be paused once it begins**. Make sure that you have a good power source and that you don't accidentally trip on your console and unplug it--if you console shuts off in the middle of a process like this, you'll have to go to the [flash recovery](https://github.com/Doregon/tnpsh-wiki/tree/7baea441f0febde5dd40f1ee2bdccc3a527f5f28/diags-and-maintenance/flash-recovery.md) page to repair your console and start the process again. This could take about 10-20 seconds on a console with NAND flash, and about 90-120 on a console with NOR flash.
 
-![](../../.gitbook/assets/bguerville-patch-4.png)
+![](../../.gitbook/assets/bguerville-patch-4%20%282%29.png)
 
 If everything's all good, you should see a dialog saying similar things to what's shown below:
 

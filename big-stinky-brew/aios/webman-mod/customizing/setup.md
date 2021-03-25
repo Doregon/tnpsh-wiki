@@ -20,7 +20,7 @@ The section marked with the red arrow will indicate the network servers that web
 
 ## Cooler Control
 
-![](../../../../.gitbook/assets/wMAN-cooler-control.jpg)
+![](../../../../.gitbook/assets/wMAN-cooler-control%20%283%29.jpg)
 
 webMAN MOD includes utilities to alter your cooler system settings \(aka fan control\). With these settings, you can prevent common issues and help extend the life of your system, as well as alleviate the potential for the system to shut down spontaneously or... repair a Yellow Light of Death.
 

@@ -4,7 +4,7 @@
 
 Above your fork's files, you'll see a toolbar like this.
 
-![](../../.gitbook/assets/github-toolbar.png)
+![](../../.gitbook/assets/github-toolbar%20%281%29.png)
 
 **This branch is x commits ahead** shows how many commits you've made since you last interacted with my repo \(by pull request or fork\). Note that it's not the number of files you've changed \(unless you've changed each file individually, only once\), but rather how many times you've hit the **Commit** button.
 
